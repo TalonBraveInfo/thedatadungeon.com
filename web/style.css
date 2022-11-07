@@ -19,24 +19,29 @@ td, th {
 
 td:nth-of-type(1), th:nth-of-type(1) {
     word-break: break-all;
-    width: calc(50% - 10em);
 }
 
-td:nth-of-type(2), th:nth-of-type(2) {
+td:nth-of-type(3), th:nth-of-type(3),
+td:nth-of-type(4), th:nth-of-type(4) {
+    white-space: nowrap;
+}
+
+/* Root page: "Year" column */
+table.root td:nth-of-type(3), table.root th:nth-of-type(3) {
+    width: 5rem;
+}
+
+/* Directory page: "Path" column */
+table.directory td:nth-of-type(2), table.directory th:nth-of-type(2) {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    width: calc(50% - 10em);
 }
 
-td:nth-of-type(3), th:nth-of-type(3) {
-    white-space: nowrap;
-    width: 5em;
-}
-
-td:nth-of-type(4), th:nth-of-type(4) {
-    white-space: nowrap;
-    width: 5em;
+/* Directory page: "Type" and "Size" columns */
+table.directory td:nth-of-type(3), table.directory th:nth-of-type(3),
+table.directory td:nth-of-type(4), table.directory th:nth-of-type(4) {
+    width: 5rem;
 }
 
 th {
