@@ -135,3 +135,5 @@ Added directory, <a href="wipeout_pulse_2009.html">WipEout Pulse</a>
 Added directory, <a href="witchwood_cancelled.html">Witchwood</a>
 Added directory, <a href="wrath_of_the_fallen_cancelled.html">Wrath of the Fallen</a>
 Added directory, <a href="xcom_alliance_cancelled.html">X-COM Alliance</a>
+changeset 1670149843 1
+Added directory, <a href="heavenly_sword_2007.html">Heavenly Sword</a>
