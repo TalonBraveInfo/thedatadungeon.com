@@ -137,3 +137,34 @@ Added directory, <a href="wrath_of_the_fallen_cancelled.html">Wrath of the Falle
 Added directory, <a href="xcom_alliance_cancelled.html">X-COM Alliance</a>
 changeset 1670149843 1
 Added directory, <a href="heavenly_sword_2007.html">Heavenly Sword</a>
+changeset 1671372404 1
+Added directory, <a href="duke_nukem_endangered_species_cancelled.html">Duke Nukem Endangered Species</a>
+changeset 1673711495 28
+Added directory, <a href="actua_soccer_1995.html">Actua Soccer</a>
+Added directory, <a href="alien_odyssey_1995.html">Alien Odyssey</a>
+Added directory, <a href="aliens_colonial_marines_2013.html">Aliens Colonial Marines</a>
+Added directory, <a href="alone_in_the_dark_1992.html">Alone in the Dark</a>
+Added directory, <a href="amen_the_awakening_cancelled.html">Amen The Awakening</a>
+Added directory, <a href="anachronox_2001.html">Anachronox</a>
+Added directory, <a href="arena_ad_cancelled.html">Arena AD</a>
+Added directory, <a href="athanor_cancelled.html">Athanor</a>
+Added directory, <a href="barb_wire_cancelled.html">Barb Wire</a>
+Added directory, <a href="bboy_2006.html">B-Boy</a>
+Added directory, <a href="beyond_good__evil_2003.html">Beyond Good & Evil</a>
+Added directory, <a href="black__white_2_2005.html">Black & White 2</a>
+Added directory, <a href="blood_1997.html">Blood</a>
+Added directory, <a href="bloodshot_cancelled.html">Bloodshot</a>
+Added directory, <a href="c12_final_resistance_2001.html">C-12 Final Resistance</a>
+Added directory, <a href="climax_studios_project_cancelled.html">Climax Studios Project</a>
+Added directory, <a href="codename_eagle_1999.html">Codename Eagle</a>
+Added directory, <a href="creatures_1996.html">Creatures</a>
+Added directory, <a href="daikatana_2000.html">Daikatana</a>
+Added directory, <a href="daikatana_2_cancelled.html">Daikatana 2</a>
+Added directory, <a href="doom_4_cancelled.html">Doom 4</a>
+Added directory, <a href="gruesome_castle_gee_whiz_mystery_club_cancelled.html">Gruesome Castle Gee Whiz! Mystery Club</a>
+Added directory, <a href="rayman_raving_rabbids_2_2007.html">Rayman Raving Rabbids 2</a>
+Added directory, <a href="rayman_raving_rabbids_rayman_4_2006.html">Rayman Raving Rabbids (Rayman 4)</a>
+Added directory, <a href="third_world_cancelled.html">Third World</a>
+Added directory, <a href="titan_a.e._cancelled.html">Titan A.E.</a>
+Added directory, <a href="turok_evolution_2002.html">Turok Evolution</a>
+Added directory, <a href="wishworld_cancelled.html">WishWorld</a>
