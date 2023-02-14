@@ -1,25 +1,72 @@
 # .dd Format
 
-## Global
+## Syntax
 
-### `;`
-Resolves as a comment which will be ignored.
+### Comments
 
-### `html-<group>>>`
+Use `;` for a single line comment. Only these are supported at this time.
 
-Provides a basic description for the generated HTML page. It will be copied into the HTML page 1:1, so feel free to insert your own HTML into the mix.
+### Simple Variable
 
-The `group` can be any of the following, which will change where it appears on the page.
+`<name> <value>`
 
-- `desc`; this will be displayed near the top as the description for the given page.
+#### Example
 
-### `html-<group><<`
+`myVar "This is a test"`.
 
-Closes the HTML block.
+### Block Variable
 
-### `link <url> "<description>"`
+```
+<name>>>
+<value>
+<<
+```
 
-## Directory
+#### Example
+
+```
+exampleBlock>>
+This is a lot of text which will just
+be pulled in as-is. You can literally
+put whatever you want in here.
+<<
+```
+
+## `config.dd`
+
+### `directories`
+
+This should be a list of directory names each seperated by a new line.
+This is what the indexer will use as reference when looking up locations to index.
+
+### `web-title`
+
+This resolved as the title used for your generated website. 
+For example, we use "The Data Dungeon", so all pages throughout use "The Data Dungeon" at the start
+of the websites title.
+
+### `web-url`
+
+The base URL used for the website.
+
+### `web-description`
+
+Currently used for RSS feed generation.
+
+### `web-contact-email`
+
+Currently used for RSS feed generation.
+
+### `web-contact-name`
+
+Currently used for RSS feed generation.
+
+### `html:description`
+
+This is the description that gets used at the top of the website. 
+As described, you can insert any HTML here.
+
+## `directory.dd`
 
 The following only work for directories, i.e. `directory.dd`.
 
