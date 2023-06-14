@@ -1,0 +1,239 @@
+/****************************************************************
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                   Version 2, December 2004
+ 
+Copyright (C) 2021-2023 Mark E. Sowden <hogsy@oldtimes-software.com>
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+ 
+           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+ 0. You just DO WHAT THE FUCK YOU WANT TO.
+****************************************************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DotGothic16&family=Grenze+Gotisch&family=Playfair+Display+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+:root {
+    --base-color:rgb(59,98,207);
+    --inside-color:rgb(255,197,33);
+    --deep-color:rgb(255,71,71);
+
+    --base-darker:rgb(29,49,103);
+    --inside-darker:rgb(127,96,16);
+    --deep-darker:rgb(127,35,35);
+
+    --base-radius:0.35em;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+/*
+tbody tr:nth-child(odd) {background: var(--deep-darker);}
+tbody tr:nth-child(even) {background: var(--deep-darker);}
+*/
+
+tbody tr,td {
+    border: 2px solid var(--base-darker);
+    border-radius:var(--base-radius);
+    text-align: left;
+    padding: 2px;
+}
+
+td:nth-of-type(1), th:nth-of-type(1) {
+    word-break: break-all;
+}
+
+td:nth-of-type(3), th:nth-of-type(3),
+td:nth-of-type(4), th:nth-of-type(4) {
+    white-space: nowrap;
+}
+
+/* Root page: "Year" column */
+table.root td:nth-of-type(3), table.root th:nth-of-type(3) {
+    width: 5rem;
+}
+
+/* Directory page: "Path" column */
+table.directory td:nth-of-type(2), table.directory th:nth-of-type(2) {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+/* Directory page: "Type" and "Size" columns */
+table.directory td:nth-of-type(3), table.directory th:nth-of-type(3),
+table.directory td:nth-of-type(4), table.directory th:nth-of-type(4) {
+    width: 5rem;
+}
+
+th {
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius:var(--base-radius);
+    padding:5px;
+    background:var(--base-color);
+}
+
+.dropbtn {
+    padding: 5px;
+
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+    cursor: pointer;
+
+    border: 4px solid var(--base-color);
+    border-radius:var(--base-radius);
+
+    color: var(--inside-color);
+    overflow: visible;
+    text-align: center;
+    background: var(--base-color);
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    border: 4px solid var(--deep-color);
+    background: var(--deep-color);
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    text-align: left;
+}
+
+.dropdown-content {
+    display: none;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+body {
+    background: #171c2b;
+    color: #e9e9e9;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    margin: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 100%;
+}
+
+code {
+    padding: 4px;
+    margin: 4px;
+    background: black;
+    border: 4px solid black;
+    border-radius:var(--base-radius);
+}
+
+a {
+    color: var(--base-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: var(--deep-color);
+}
+
+.subtitle {
+    margin: 0 0 16px;
+    font-size: 22px;
+}
+
+.content {
+    /*! width: 1024px; */
+    text-align: left;
+    /*align-content: left;*/
+
+    margin-left: auto;
+    margin-right: auto;
+
+    min-height: 315px;
+}
+
+.center {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    margin-top: 32px;
+    /*float: left;*/
+}
+
+.footer {
+    margin-top: auto;
+    bottom: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer p {
+    font-size: 14px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.footer a {
+    font-size: 18px;
+    padding: 2px;
+    margin: 2px;
+}
+
+.bubble-block {
+    background:var(--inside-color);
+    color:black;
+    border-radius:var(--base-radius);
+    padding: 0.75em;
+    margin-top: 1em;
+    margin: 0.2em;
+    display: inline-block;
+}
+
+hr {
+    border-bottom: 8px solid;
+    border-radius:var(--base-radius);
+    border-color: var(--base-color);
+    color: var(--base-color);
+    overflow: visible;
+    text-align: center;
+    background: none;
+}
+
+/*****************************************************/
+/* Animations */
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.show {
+    display: block;
+    animation-duration: 2s;
+    animation-name: fadein;
+}

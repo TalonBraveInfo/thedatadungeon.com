@@ -1,0 +1,72 @@
+/* Copyright © 2021 Mark E Sowden */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DotGothic16&family=Grenze+Gotisch&family=Playfair+Display+SC&display=swap');
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+body {
+    /*background: #171c2b;
+    color: #d2cdd0;*/
+    color: #414141;
+    background: #e7e7e7;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 24px;
+    margin: 0;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+}
+
+.subtitle {
+    margin: 0;
+    margin-bottom: 16px;
+    font-size: 22px;
+}
+
+.content {
+    width: 640px;
+    text-align: left;
+    align-content: left;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    margin-top: 64px;
+    /*float: left;*/
+}
+
+.footer {
+    margin-top: 10%;
+    padding-bottom: 20px;
+}
+
+hr {
+    border: none;
+    border-bottom: 3px double red;
+    color: #414141;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    background: none;
+}
