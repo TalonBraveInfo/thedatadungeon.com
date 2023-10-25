@@ -5,15 +5,13 @@ web-contact-email   hogsy@oldtimes-software.com
 web-contact-name    "Mark Sowden"
 
 html:description>>
-<p>Welcome to <b>The Data Dungeon</b> archive!
+<p>Welcome to <b>The Data Dungeon</b> archive!<br>
 A website dedicated to the preservation of pre-release video-game content, 
 such as screenshots, videos, prototypes and more.</p>
-<p><b>You can find the latest changelog <a href="changes.html">here</a>.</b></p>
 <p>
 An option to download data from the website using rsync is also available.<br>
 <code>archive.thedatadungeon.com::thedatadungeon/</code>
 </p>
-<p>Want to chat about something on the site? <b><a href="https://discord.gg/MyqtYZuR6w">Join our Discord server</a></b>!</p>
 <p>
 If you have any concerns or a legal issue with any of the content on this website then
 please get in contact <a href="mailto:hogsy@oldtimes-software.com">here</a>.
@@ -21,6 +19,19 @@ please get in contact <a href="mailto:hogsy@oldtimes-software.com">here</a>.
 <<
 
 directories>>
+Warriors of Might and Magic (2000)
+Resistance Fall of Man (2006)
+Ghosthunter (2003)
+Project Offset (Cancelled)
+Prince of Persia The Forgotten Sands (2010)
+Mario + Rabbids Sparks of Hope (2022)
+Orchid (Cancelled)
+The Mark of Kri (2003)
+Salvation (Cancelled)
+Final Fantasy Fortress Project (Cancelled)
+Creatures 3D (Cancelled)
+Junction Point (Cancelled)
+The Saboteur (2009)
 007 Goldeneye Remaster (Cancelled)
 0x10c (Cancelled)
 360 Three Sixty (1999)
@@ -246,6 +257,7 @@ New World Order (2002)
 Ninety-Nine Nights (2006)
 Nocturne (1999)
 Nomad Soul Exodus (Cancelled)
+Oddworld Stranger's Wrath (2005)
 Oni (2001)
 Outcast II The Lost Paradise (Cancelled)
 Outwars (1998)
