@@ -26,6 +26,8 @@ as the name is changed.
     --inside-darker: rgb(127, 96, 16);
     --deep-darker: rgb(127, 35, 35);
 
+    --colour-x: #215BFF;
+
     --base-radius: 0.35em;
 }
 
@@ -231,6 +233,10 @@ a:hover {
 }
 
 .bubble-block a {
+    color: var(--colour-x);
+}
+
+.bubble-block a:hover {
     color: var(--deep-color);
 }
 
