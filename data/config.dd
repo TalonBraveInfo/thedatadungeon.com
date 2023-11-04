@@ -1,8 +1,20 @@
+/*
+    Main config file for the DD Indexer
+    More information can be found under 'docs/'
+    If you don't know what you're doing, best to leave this alone ;)
+*/
+
 web-title           "The Data Dungeon"
 web-url             https://archive.thedatadungeon.com
 web-description     "Data archival website."
 web-contact-email   hogsy@oldtimes-software.com
 web-contact-name    "Mark Sowden"
+
+// These allow you specify an appropriate icon to display per link
+link-icons>>
+https://hiddenpalace.org    web/hiddenpalace.ico
+https://tcrf.net            web/tcrf.png
+<<
 
 html:description>>
 <p>Welcome to <b>The Data Dungeon</b> archive!<br>
