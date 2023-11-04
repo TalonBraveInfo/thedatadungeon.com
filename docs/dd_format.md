@@ -4,7 +4,25 @@
 
 ### Comments
 
-Use `;` for a single line comment. Only these are supported at this time.
+Use `;` for a single line comment or alternatively `//`.
+
+```c
+; This is a comment and will be ignored.
+// This is also comment and will be ignored.
+```
+
+Multiline comments are also supported via `/*` and `*/`.
+
+```c
+/* 
+    all
+    of
+    this
+    will
+    be
+    ignored
+*/
+```
 
 ### Simple Variable
 
@@ -71,6 +89,16 @@ As described, you can insert any HTML here.
 ## `directory.dd`
 
 The following only work for directories, i.e. `directory.dd`.
+
+### `links` (block)
+
+Individual lines with the following.
+
+`<url> <title>`
+
+If your title includes spaces, please put it in quotes.
+
+![img_1.png](img_1.png)
 
 ### `dir-dev "<name>"`
 
