@@ -14,7 +14,7 @@ Use `;` for a single line comment. Only these are supported at this time.
 
 `myVar "This is a test"`.
 
-### Block Variable
+### Block
 
 ```
 <name>>>
@@ -32,36 +32,38 @@ put whatever you want in here.
 <<
 ```
 
+----
+
 ## `config.dd`
 
-### `directories`
+### `directories` (block)
 
 This should be a list of directory names each seperated by a new line.
 This is what the indexer will use as reference when looking up locations to index.
 
-### `web-title`
+### `web-title` (variable)
 
 This resolved as the title used for your generated website. 
 For example, we use "The Data Dungeon", so all pages throughout use "The Data Dungeon" at the start
 of the websites title.
 
-### `web-url`
+### `web-url` (variable)
 
 The base URL used for the website.
 
-### `web-description`
+### `web-description` (variable)
 
 Currently used for RSS feed generation.
 
-### `web-contact-email`
+### `web-contact-email` (variable)
 
 Currently used for RSS feed generation.
 
-### `web-contact-name`
+### `web-contact-name` (variable)
 
 Currently used for RSS feed generation.
 
-### `html:description`
+### `html:description` (block)
 
 This is the description that gets used at the top of the website. 
 As described, you can insert any HTML here.
