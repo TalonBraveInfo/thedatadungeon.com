@@ -22,7 +22,7 @@ A website dedicated to the preservation of pre-release video-game content,
 such as screenshots, videos, prototypes and more.</p>
 <p>
 An option to download data from the website using rsync is also available.<br>
-<code>archive.thedatadungeon.com::thedatadungeon/</code>
+<a href="rsync://archive.thedatadungeon.com/thedatadungeon/">rsync://archive.thedatadungeon.com/thedatadungeon/</a>
 </p>
 <p>
 If you have any concerns or a legal issue with any of the content on this website then
