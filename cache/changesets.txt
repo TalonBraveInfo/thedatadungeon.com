@@ -246,3 +246,10 @@ Added directory, <a href="engalus_cancelled.html">Engalus</a>
 Added directory, <a href="call_of_cthulhu_destinys_end_cancelled.html">Call of Cthulhu Destiny's End</a>
 Added directory, <a href="rune_2000.html">Rune</a>
 Added directory, <a href="command__conquer_generals_2_cancelled.html">Command & Conquer (Generals 2)</a>
+changeset 1723745340 6
+Thumbnails now retain their aspect ratio and will instead be cropped after resize.
+Thumbnails are now generated for tif and webp formats.
+Introduced some minor layout changes and fixed an inconsistency with how size was represented on the homepage.
+Changed how we count distributions, hence why the figure has dropped (nothing's been removed).
+Distributions are listed per distribution, rather than a collection of files (further changes pending).
+Reintroduced support for per-collection descriptions.

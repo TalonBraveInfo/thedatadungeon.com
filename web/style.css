@@ -32,7 +32,7 @@ as the name is changed.
 }
 
 table {
-    table-layout: fixed;
+    /*table-layout: fixed;*/
     width: 100%;
     font-size: 14px;
 }
@@ -147,13 +147,19 @@ br {
     margin: 4px;
 }
 
-code {
-    padding: 2px;
+pre {
     background: black;
-    border: 4px solid black;
+    border: 2px solid black;
+    padding: 2px;
     border-radius: var(--base-radius);
     font-size: 13px;
+    overflow: scroll;
 }
+
+code {
+    border-radius: var(--base-radius);
+}
+
 
 a {
     color: var(--base-color);
@@ -279,6 +285,33 @@ hr {
     top: 0;
     left: 0;
     background-color: black;
+}
+
+.hazard {
+    margin-bottom: 8px;
+    background: repeating-linear-gradient(
+            45deg,
+            transparent,
+            transparent 10px,
+            yellow 10px,
+            yellow 20px
+    ), black;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px black;
+    color: white;
+    display: inline-block;
+}
+
+.hazard-inner {
+    margin: 8px;
+    padding: 8px;
+    background: black;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 0.85em;
+    color: white;
 }
 
 /*****************************************************/
