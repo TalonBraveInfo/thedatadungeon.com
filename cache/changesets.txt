@@ -253,3 +253,5 @@ Introduced some minor layout changes and fixed an inconsistency with how size wa
 Changed how we count distributions, hence why the figure has dropped (nothing's been removed).
 Distributions are listed per distribution, rather than a collection of files (further changes pending).
 Reintroduced support for per-collection descriptions.
+changeset 1726835577 1
+Added directory, <a href="deep_rock_galactic_2020.html">Deep Rock Galactic</a>
