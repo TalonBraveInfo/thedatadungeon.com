@@ -202,6 +202,7 @@ a:hover {
 }
 
 .footer {
+    font-size: 14px;
     margin-top: auto;
     bottom: 5%;
     padding-top: 20px;
@@ -209,15 +210,30 @@ a:hover {
 }
 
 .footer p {
-    font-size: 14px;
     padding: 2px;
     margin: 2px;
 }
 
-.footer a {
+.footer-icon {
     font-size: 18px;
-    padding: 2px;
-    margin: 2px;
+    filter: invert(1);
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+.footer-seperator {
+    display: inline-block;
+    border-radius: var(--base-radius);
+    border-color: var(--base-color);
+    color: var(--base-color);
+    overflow: visible;
+    text-align: center;
+    background: none;
+    border: 3px solid;
+    margin-left: 16px;
+    margin-right: 16px;
 }
 
 .gallery-collapsed > a, .gallery-expanded > a {

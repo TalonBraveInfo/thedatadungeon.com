@@ -255,3 +255,7 @@ Distributions are listed per distribution, rather than a collection of files (fu
 Reintroduced support for per-collection descriptions.
 changeset 1726835577 1
 Added directory, <a href="deep_rock_galactic_2020.html">Deep Rock Galactic</a>
+changeset 1728246584 3
+Fixed links included in the footer.
+Fixed title being displayed incorrectly in RSS feed XML.
+Fixed sorting by file size or date.
