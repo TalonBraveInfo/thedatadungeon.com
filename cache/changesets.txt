@@ -261,6 +261,7 @@ Fixed title being displayed incorrectly in RSS feed XML.
 Fixed sorting by file size or date.
 changeset 1729334677 1
 Added directory, <a href="headhunter_2001.html">Headhunter</a>
-changeset 1729765193 2
+changeset 1729765193 3
 Added directory, <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
 Renamed Gearbox Duke Nukem Project to <a href="gearbox_duke_nukem_project_cancelled.html">Duke Nukem Begins</a>
+Added 2 <a href="engalus_cancelled.html#videos">videos</a>, under <a href="engalus_cancelled.html">Engalus</a>
