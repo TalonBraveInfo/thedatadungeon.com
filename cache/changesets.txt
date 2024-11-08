@@ -269,3 +269,7 @@ changeset 1730395439 3
 Added 1 <a href="daikatana_2000.html#videos">videos</a>, under <a href="daikatana_2000.html">Daikatana</a>
 Renamed P.I.G. to <a href="p.i.g._cancelled.html">Politically Incorrect Game</a>
 Added 6 <a href="prey_2006.html#others">others</a>, under <a href="prey_2006.html">Prey</a>
+changeset 1731065845 3
+Added 1 <a href="anachronox_2001.html#others">others</a>, under <a href="anachronox_2001.html">Anachronox</a>
+Added 1 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="halo_2001.html">Halo</a>
+Added 1 <a href="prey_2006.html#others">others</a>, under <a href="prey_2006.html">Prey</a>
