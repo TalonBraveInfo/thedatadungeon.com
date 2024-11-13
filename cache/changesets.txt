@@ -279,3 +279,7 @@ changeset 1731242752 3
 Added 2 <a href="halo_2001.html#artworks">artworks</a>, under <a href="halo_2001.html">Halo</a>
 Added 7 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="halo_2001.html">Halo</a>
 Added 11 <a href="halo_2001.html#videos">videos</a>, under <a href="halo_2001.html">Halo</a>
+changeset 1731499753 3
+Added game, <a href="bulletstorm_2011.html">Bulletstorm</a>
+Added 2 <a href="halo_2001.html#artworks">artworks</a>, under <a href="halo_2001.html">Halo</a>
+Added 24 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="halo_2001.html">Halo</a>
