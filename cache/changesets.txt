@@ -283,3 +283,5 @@ changeset 1731499753 3
 Added game, <a href="bulletstorm_2011.html">Bulletstorm</a>
 Added 2 <a href="halo_2001.html#artworks">artworks</a>, under <a href="halo_2001.html">Halo</a>
 Added 24 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="halo_2001.html">Halo</a>
+changeset 1732102069 1
+Added game, <a href="gears_of_war_3_2011.html">Gears of War 3</a>
