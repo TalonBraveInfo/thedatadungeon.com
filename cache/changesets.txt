@@ -285,3 +285,8 @@ Added 2 <a href="halo_2001.html#artworks">artworks</a>, under <a href="halo_2001
 Added 24 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="halo_2001.html">Halo</a>
 changeset 1732102069 1
 Added game, <a href="gears_of_war_3_2011.html">Gears of War 3</a>
+changeset 1732450603 4
+Added 2 <a href="metal_arms_glitch_in_the_system_2003.html#distributions">distributions</a>, under <a href="metal_arms_glitch_in_the_system_2003.html">Metal Arms Glitch in the System</a>
+Added 2 <a href="command__conquer_renegade_2002.html#others">others</a>, under <a href="command__conquer_renegade_2002.html">Command & Conquer Renegade</a>
+Image names and references are now presented as an overlay on thumbnails.
+Fixed some edge cases where content was being incorrectly categorised.
