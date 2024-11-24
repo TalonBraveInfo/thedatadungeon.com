@@ -122,14 +122,21 @@ th {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 3.0em;
     margin-bottom: 0px;
     padding-bottom: 0px;
 }
 
 h2 {
     font-size: 1.5em;
-    border-bottom: 1px solid var(--base-color);
+    border-bottom: 1px solid white;
+}
+
+h4 {
+    font-size: 0.85em;
+    border-bottom: 1px dotted white;
+    padding: 0;
+    margin-bottom: 0.2em;
 }
 
 body {
