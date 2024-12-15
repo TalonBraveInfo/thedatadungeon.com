@@ -302,3 +302,16 @@ changeset 1732878729 1
 Added 1 <a href="rubu_tribe_cancelled.html#others">others</a>, under <a href="rubu_tribe_cancelled.html">Rubu Tribe</a>
 changeset 1733389209 1
 Added 2 <a href="prey_2006.html#others">others</a>, under <a href="prey_2006.html">Prey</a>
+changeset 1734288771 12
+Added 1 <a href="dungeon_siege_2002.html#distributions">distributions</a>, under <a href="dungeon_siege_2002.html">Dungeon Siege</a>
+Added 1 <a href="beyond_cancelled.html#distributions">distributions</a>, under <a href="beyond_cancelled.html">Beyond</a>
+Added 2 <a href="dead_justice_cancelled.html#distributions">distributions</a>, under <a href="dead_justice_cancelled.html">Dead Justice</a>
+Added 2 <a href="killer7_2005.html#distributions">distributions</a>, under <a href="killer7_2005.html">Killer7</a>
+Added 1 <a href="oni_2001.html#distributions">distributions</a>, under <a href="oni_2001.html">Oni</a>
+Added 5 <a href="prey_2006.html#artworks">artworks</a>, under <a href="prey_2006.html">Prey</a>
+Added 36 <a href="prey_2_cancelled.html#artworks">artworks</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added 12 <a href="prey_2_cancelled.html#screenshots">screenshots</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added 8 <a href="prey_2_cancelled.html#videos">videos</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added 1 <a href="prey_2_cancelled.html#others">others</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Introduced first pass for sub-collections. Mind this is a mess right now but will be improved over time.
+Fixed some cases where content was getting missed by the indexer.
