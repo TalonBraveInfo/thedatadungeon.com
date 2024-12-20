@@ -318,3 +318,5 @@ Fixed some cases where content was getting missed by the indexer.
 changeset 1734510174 2
 Added 1 <a href="bioshock_infinite_2013.html#distributions">distributions</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
 Added 8 <a href="bloodshot_cancelled.html#screenshots">screenshots</a>, under <a href="bloodshot_cancelled.html">Bloodshot</a>
+changeset 1734685459 1
+Added 2 <a href="bioshock_infinite_2013.html#distributions">distributions</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
