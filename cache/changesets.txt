@@ -320,3 +320,5 @@ Added 1 <a href="bioshock_infinite_2013.html#distributions">distributions</a>, u
 Added 8 <a href="bloodshot_cancelled.html#screenshots">screenshots</a>, under <a href="bloodshot_cancelled.html">Bloodshot</a>
 changeset 1734685459 1
 Added 2 <a href="bioshock_infinite_2013.html#distributions">distributions</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+changeset 1735647720 1
+Added 56 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
