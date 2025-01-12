@@ -322,3 +322,10 @@ changeset 1734685459 1
 Added 2 <a href="bioshock_infinite_2013.html#distributions">distributions</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
 changeset 1735647720 1
 Added 56 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+changeset 1736681893 6
+Added game, <a href="quark_cancelled.html">Quark</a>
+Added game, <a href="vexx_ii_cancelled.html">Vexx II</a>
+Added game, <a href="creatures_3_2000.html">Creatures 3</a>
+Added game, <a href="star_wars_jedi_knight_ii_jedi_outcast_2002.html">Star Wars Jedi Knight II Jedi Outcast</a>
+Added game, <a href="star_wars_jedi_knight_jedi_academy_2003.html">Star Wars Jedi Knight Jedi Academy</a>
+Added 8 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
