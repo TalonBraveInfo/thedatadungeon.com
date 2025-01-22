@@ -329,3 +329,13 @@ Added game, <a href="creatures_3_2000.html">Creatures 3</a>
 Added game, <a href="star_wars_jedi_knight_ii_jedi_outcast_2002.html">Star Wars Jedi Knight II Jedi Outcast</a>
 Added game, <a href="star_wars_jedi_knight_jedi_academy_2003.html">Star Wars Jedi Knight Jedi Academy</a>
 Added 8 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+changeset 1737550034 9
+Added game, <a href="quake_iii_arena_1999.html">Quake III Arena</a>
+Added game, <a href="red_dead_revolver_2004.html">Red Dead Revolver</a>
+Added game, <a href="emissary_cancelled.html">Emissary</a>
+Added game, <a href="excalibur_2555_ad_1997.html">Excalibur 2555 AD</a>
+Added game, <a href="terminus_cancelled.html">Terminus</a>
+Added game, <a href="giants_citizen_kabuto_2000.html">Giants Citizen Kabuto</a>
+Added game, <a href="rage_2011.html">Rage</a>
+Added game, <a href="haze_2008.html">Haze</a>
+Added game, <a href="omikron_the_nomad_soul_1999.html">Omikron The Nomad Soul</a>
