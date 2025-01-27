@@ -26,7 +26,7 @@ as the name is changed.
     --inside-darker: rgb(127, 96, 16);
     --deep-darker: rgb(127, 35, 35);
 
-    --colour-x: #215BFF;
+    --colour-x: #3B62CF;
 
     --base-radius: 0.35em;
 }
@@ -82,8 +82,8 @@ th {
     font-weight: bold;
     border-radius: var(--base-radius);
     padding: 5px;
-    background: var(--base-color);
-    color: black;
+    background: var(--colour-x);
+    color: white;
 }
 
 .dropbtn {
@@ -144,10 +144,9 @@ body {
     color: #e9e9e9;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
-    margin: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    height: 100%;
+
+    margin: 0;
+    padding: 0;
 }
 
 br {
@@ -192,6 +191,9 @@ a:hover {
     margin-right: auto;
 
     min-height: 315px;
+
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .center {
@@ -212,6 +214,8 @@ a:hover {
     font-size: 14px;
     margin-top: auto;
     bottom: 5%;
+
+    padding: 1em;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -257,7 +261,7 @@ a:hover {
 }
 
 .bubble-block {
-    background: rgb(0,0,0,0.5);
+    background: rgb(0, 0, 0, 0.7);
     border-radius: var(--base-radius);
     padding: 0.55em;
     margin: 0.1em;
@@ -304,7 +308,7 @@ a:hover {
 .bubble-image-overlay-citation {
     position: absolute;
     left: 8%;
-    top:0;
+    top: 0;
     padding: 0.25em;
     background: rgba(0, 0, 0, 0.5);
     font-size: 0.65em;
@@ -314,8 +318,8 @@ a:hover {
 
 hr {
     border-radius: var(--base-radius);
-    border-color: var(--base-color);
-    color: var(--base-color);
+    border-color: var(--colour-x);
+    color: var(--colour-x);
     overflow: visible;
     text-align: center;
     background: none;
@@ -359,6 +363,78 @@ hr {
     font-weight: bold;
     font-size: 0.85em;
     color: white;
+}
+
+/*****************************************************/
+/* Menu */
+/*****************************************************/
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: black;
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.dd-menu-logo {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    margin-left: 1em;
+    height: 6.0em;
+}
+
+.dd-menu {
+    width: 100%;
+    font-size: 0.875rem;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+    z-index: 100; /* Stop YouTube iframes being drawn over us. */
+    backdrop-filter: blur(4px);
+    border-bottom: 0.2em solid var(--colour-x);
+    display: flex;
+    transition: all 0.75s ease; /* Smooth transition */
+}
+
+.dd-menu ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.dd-menu li {
+    display: flex;
+    align-items: center;
+}
+
+.dd-menu a {
+    padding: 0.5em 1.45em;
+    color: black;
+    text-decoration: none;
+    margin: 0.15em;
+    border-radius: 8px;
+    border-bottom: none;
+    background: var(--inside-color);
+}
+
+.dd-menu.shrink {
+    padding: 0.4em 0;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.dd-menu.shrink .dd-menu-logo {
+    height: 4em;
+    clip-path: rect(auto 50% auto auto);
+    margin-right: -7.5em;
+}
+
+.dd-menu.shrink .svg-icon {
+    width: 1em;
+    height: 1em;
+}
+
+.dd-menu.shrink li a {
+    font-size: 0.9em;
 }
 
 /*****************************************************/
