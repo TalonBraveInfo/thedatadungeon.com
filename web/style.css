@@ -412,7 +412,7 @@ hr {
     color: black;
     text-decoration: none;
     margin: 0.15em;
-    border-radius: 8px;
+    border-radius: var(--base-radius);
     border-bottom: none;
     background: var(--inside-color);
 }
