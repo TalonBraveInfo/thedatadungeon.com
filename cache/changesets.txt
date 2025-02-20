@@ -349,3 +349,5 @@ Added game, <a href="herdy_gerdy_2002.html">Herdy Gerdy</a>
 Added game, <a href="magic_carpet_2_1995.html">Magic Carpet 2</a>
 Added 1 <a href="shadow_of_rome_2004.html#distributions">distributions</a>, under <a href="shadow_of_rome_2004.html">Shadow of Rome</a>
 Added 1 <a href="rayman_raving_rabbids_rayman_4_2006.html#distributions">distributions</a>, under <a href="rayman_raving_rabbids_rayman_4_2006.html">Rayman Raving Rabbids (Rayman 4)</a>
+changeset 1739002244 1
+Added 1 <a href="final_fantasy_xv_2016.html#others">others</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
