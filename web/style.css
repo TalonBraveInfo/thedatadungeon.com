@@ -16,6 +16,7 @@ as the name is changed.
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=DotGothic16&family=Grenze+Gotisch&family=Playfair+Display+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&family=Itim&display=swap');
 
 :root {
     --base-color: rgb(255, 197, 33);
@@ -123,13 +124,16 @@ th {
 
 h1 {
     font-size: 3.0em;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+    margin-top: 0.2em;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
     font-size: 1.5em;
     border-bottom: 1px solid white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h4 {
@@ -137,13 +141,14 @@ h4 {
     border-bottom: 1px dotted white;
     padding: 0;
     margin-bottom: 0.2em;
+    font-family: 'Montserrat', sans-serif;
 }
 
 body {
     background: #242424;
     color: #e9e9e9;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: 1.0em;
 
     margin: 0;
     padding: 0;
@@ -169,7 +174,7 @@ code {
 
 a {
     color: var(--base-color);
-    text-decoration: none;
+    text-decoration: underline 1px dotted;
     font-weight: bold;
 }
 
@@ -183,17 +188,15 @@ a:hover {
 }
 
 .content {
-    /*! width: 1024px; */
     text-align: left;
-    /*align-content: left;*/
-
     margin-left: auto;
     margin-right: auto;
-
-    min-height: 315px;
-
     padding-left: 1em;
     padding-right: 1em;
+}
+
+.sub-content {
+    background:#1f2639;
 }
 
 .center {
@@ -263,14 +266,16 @@ a:hover {
 .bubble-block {
     background: rgb(0, 0, 0, 0.7);
     border-radius: var(--base-radius);
-    padding: 0.55em;
-    margin: 0.1em;
+    padding: 0.5em;
+    padding-top: 0.2em;
+    padding-bottom:0.2em;
+    margin: 0 0.1em 0.1em 0.1em;
     display: inline-block;
-    font-size: 0.95em;
 }
 
 .bubble-block img {
     vertical-align: middle;
+    padding-right: 0.5em;
 }
 
 .bubble-block a:hover {
@@ -375,7 +380,7 @@ hr {
     display: inline-block;
     fill: black;
     padding-right: 5px;
-    vertical-align: text-top;
+    vertical-align: middle;
 }
 
 .dd-menu-logo {
@@ -395,6 +400,7 @@ hr {
     border-bottom: 0.2em solid var(--colour-x);
     display: flex;
     transition: all 0.75s ease; /* Smooth transition */
+    background: #1f2639;
 }
 
 .dd-menu ul {
@@ -435,6 +441,40 @@ hr {
 
 .dd-menu.shrink li a {
     font-size: 0.9em;
+}
+
+.dd-sub-menu {
+    font-size: 1.15em;
+    border-bottom: 0.3em solid var(--colour-x);
+    margin-top: 1.5em;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.dd-sub-menu-button {
+    padding: 0.15em 1.25em 0;
+    color: var(--base-color);
+    text-decoration: none;
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+    border-radius: var(--base-radius) var(--base-radius) 0 0;
+    border-bottom: none;
+    background: var(--colour-x);
+}
+
+.dd-sub-menu-button .svg-icon {
+    fill: var(--base-color);
+    vertical-align: middle;
+}
+
+.dd-sub-menu-button-selected {
+    border: 0.2em #ffc521 solid;
+    border-bottom: 0;
+}
+
+.dd-subsection {
+    display: none;
 }
 
 /*****************************************************/
