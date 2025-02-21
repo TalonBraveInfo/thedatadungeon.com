@@ -28,6 +28,7 @@ as the name is changed.
     --deep-darker: rgb(127, 35, 35);
 
     --colour-x: #3B62CF;
+    --colour-x2: #1f2639;
 
     --base-radius: 0.35em;
 }
@@ -145,7 +146,7 @@ h4 {
 }
 
 body {
-    background: #242424;
+    background: rgb(28,28,28);
     color: #e9e9e9;
     font-family: 'Hind Siliguri', sans-serif;
     font-size: 1.0em;
@@ -460,7 +461,13 @@ hr {
     margin-right: 0.25em;
     border-radius: var(--base-radius) var(--base-radius) 0 0;
     border-bottom: none;
-    background: var(--colour-x);
+    background: var(--colour-x2);
+}
+
+.dd-sub-menu-button:hover {
+    cursor: pointer;
+    color: var(--base-color);
+    background: var(--deep-color);
 }
 
 .dd-sub-menu-button .svg-icon {
@@ -469,8 +476,11 @@ hr {
 }
 
 .dd-sub-menu-button-selected {
+    /*
     border: 0.2em #ffc521 solid;
     border-bottom: 0;
+    */
+    background: var(--colour-x);
 }
 
 .dd-subsection {
