@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Daikatana 2" 
+	string type game 
+	string source "Games/Daikatana 2 (Cancelled)" 
+	string releaseStatus cancelled 
+}

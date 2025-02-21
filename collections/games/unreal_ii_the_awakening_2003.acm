@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Unreal II The Awakening" 
+	string type game 
+	string source "Games/Unreal II The Awakening (2003)" 
+	array object links {
+				{
+			string url https://tcrf.net/Unreal_II 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2003 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Werewolf The Apocalypse Heart Of Gaia" 
+	string type game 
+	string source "Games/Werewolf The Apocalypse Heart Of Gaia (Cancelled)" 
+	string releaseStatus cancelled 
+}

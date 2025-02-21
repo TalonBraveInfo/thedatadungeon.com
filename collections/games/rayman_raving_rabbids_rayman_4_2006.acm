@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Rayman Raving Rabbids (Rayman 4)" 
+	string type game 
+	string source "Games/Rayman Raving Rabbids (Rayman 4) (2006)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2006 
+		0 
+		0 
+	}
+}

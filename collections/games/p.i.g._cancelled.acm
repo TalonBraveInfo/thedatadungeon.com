@@ -1,0 +1,14 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Politically Incorrect Game" 
+	string type game 
+	string source "Games/Politically Incorrect Game (Cancelled)" 
+	array object links {
+				{
+			string url https://web.archive.org/web/20001204201400/http://cybertag.com/pig/index_en.html 
+			string title "Homepage (archived)" 
+		}
+	}
+	string releaseStatus cancelled 
+}

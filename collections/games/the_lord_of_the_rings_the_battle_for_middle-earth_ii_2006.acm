@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "The Lord of the Rings The Battle for Middle-earth II" 
+	string type game 
+	string source "Games/The Lord of the Rings The Battle for Middle-earth II (2006)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2006 
+		0 
+		0 
+	}
+}

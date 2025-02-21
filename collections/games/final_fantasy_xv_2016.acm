@@ -1,0 +1,247 @@
+node.utf8
+object collection
+{
+	string name "Final Fantasy XV"
+	array string otherNames { "Final Fantasy Versus XIII" }
+	string type "game"
+	string source "Games/Final Fantasy XV (2016)"
+	
+	array string developers { "Square Enix Business Division 2" }
+	array string publishers { "Square Enix" }
+	
+	string releaseStatus "released"
+	array int16 releaseDate { 2016 11 29 }
+
+	array object links
+	{
+		{
+			string url "https://tcrf.net/Final_Fantasy_XV_(PlayStation_4,_Windows)"
+			string title "The Cutting Room Floor"
+		}
+	}
+	
+	array object publications
+	{
+		{
+			string url "https://web.archive.org/web/20150918221416/http://gematsu.com/2008/06/square-enixs-party-2008-announced"
+			string title "Square Enix’s Party 2008 Announced"
+			array int16 date { 2008 6 11 }
+		}
+		{
+			string url "https://web.archive.org/web/20080626225706/http://www.famitsu.com/game/news/1215964_1124.html?ref=rss"
+			string title "『FFXIII』の映像も！ スクウェア・エニックスのプライベートイベント”DKΣ3713”の出展内容が決定"
+			array int16 date { 2008 6 18 }
+		}
+		{
+			string url "https://web.archive.org/web/20150923180644/http://gematsu.com/2008/06/new-final-fantasy-xiii-versus-xiii-scans-from-famitsu"
+			string title "New Final Fantasy XIII & Versus XIII Scans from Famitsu"
+			array int16 date { 2008 6 18 }
+		}
+		{
+			string url "https://web.archive.org/web/20150912185504/http://gematsu.com/2008/06/final-fantasy-versus-xiii-not-on-hold-poor-translation"
+			string title "Final Fantasy Versus XIII Not On Hold, Poor Translation"
+			array int16 date { 2008 6 19 }
+		}
+		{
+			string url "https://web.archive.org/web/20090818232431/http://finalfantasy-xiii.net:80/2008/07/23/final-fantasy-versus-xiii-jump-festa-2007-trailer-leaked.html"
+			string title "Final Fantasy Versus XIII Jump Festa 2007 Trailer Leaked"
+			array int16 date { 2008 7 23 }
+		}
+		{
+			string url "https://web.archive.org/web/20100615080151/http://www.andriasang.com:80/e/blog/2008/08/02/final_fantasy_versus_xiii_tieup_with_roen/"
+			string title "Final Fantasy Versus XIII teams up with Roen"
+			array int16 date { 2008 8 2 }
+		}
+		{
+			string url "https://web.archive.org/web/20090722033321/http://finalfantasy-xiii.net:80/2009/04/16/new-final-fantasy-versus-xiii-and-final-fantasy-agito-xiii-trailers.html"
+			string title "New Final Fantasy Versus XIII and Final Fantasy Agito XIII Trailers"
+			array int16 date { 2009 4 16 }
+		}
+		{
+			string url "https://web.archive.org/web/20100824022334/http://www.andriasang.com:80/e/blog/2009/09/24/playable_ff_versus_xiii_footage/"
+			string title "Square Enix Debuts Playable Final Fantasy Versus XIII Footage"
+			array int16 date { 2009 9 24 }
+		}
+		{
+			string url "https://web.archive.org/web/20100615074701/http://www.andriasang.com:80/e/blog/2009/09/28/nomura_on_ff_versus_xiii/"
+			string title "Tetsuya Nomura Talks Final Fantasy Versus XIII"
+			array int16 date { 2009 9 28 }
+		}
+		{
+			string url "https://web.archive.org/web/20091222201739/http://www.finalfantasy-xiii.net/2009/12/19/jump-festa-09-noctis-new-outfit.html"
+			string title "Jump Festa 09: Noctis' New Outfit"
+			array int16 date { 2009 12 19 }
+		}
+		{
+			string url "https://web.archive.org/web/20100723005617/http://www.andriasang.com:80/e/blog/2009/12/20/ffxiii_versus_trailer/"
+			string title "New Final Fantasy Versus XIII Trailer Debuts at Jump"
+			array int16 date { 2009 12 20 }
+		}
+		{
+			string url "https://web.archive.org/web/20100522070516/http://www.andriasang.com:80/e/blog/2010/02/17/ff_versus_xiii_may_miss_e3/"
+			string title "Final Fantasy Versus XIII Uncertain For E3"
+			array int16 date { 2010 2 17 }
+		}
+		{
+			string url "https://web.archive.org/web/20100521092756/http://www.andriasang.com:80/e/blog/2010/05/18/ff_versus_xiii_multiplatform/"
+			string title "Xbox 360 Final Fantasy Versus XIII Under Consideration"
+			array int16 date { 2010 5 18 }
+		}
+		{
+			string url "https://web.archive.org/web/20100523080157/http://www.andriasang.com:80/e/blog/2010/05/19/wada_clarifies_versus_xiii_statement/"
+			string title "Wada Clarifies Final Fantasy Versus XIII Xbox 360 Statement"
+			array int16 date { 2010 5 19 }
+		}
+		{
+			string url "https://web.archive.org/web/20100701153424/http://www.andriasang.com/e/blog/2010/05/30/versus_xiii_and_ffvii_remake/"
+			string title "Square Enix Staff Discusses Versus XIII and FFVII Remake"
+			array int16 date { 2010 5 30 }
+		}
+		{
+			string url "https://web.archive.org/web/20120620015014/http://andriasang.com/comouj/square_enix_next_gen_engine/"
+			string title "Square Enix Unveils Next Gen Engine: Luminous"
+			array int16 date { 2010 9 2 }
+		}
+		{
+			string url "https://web.archive.org/web/20100627143832/http://www.finalfantasy-xiii.net/2010/06/23/new-final-fantasy-versus-xiii-details.html"
+			string title "New Final Fantasy Versus XIII Details"
+			array int16 date { 2010 6 23 }
+		}
+		{
+			string url "https://web.archive.org/web/20100628160515/http://www.andriasang.com:80/e/blog/2010/06/23/flying_get/"
+			string title "This Week's Flying Get"
+			array int16 date { 2010 6 23 }
+		}
+		{
+			string url "https://web.archive.org/web/20100626105100/http://www.andriasang.com:80/e/blog/2010/06/23/nomura_on_ff_versus_xiii/"
+			string title "Tetsuya Nomura on Final Fantasy Versus XIII"
+			array int16 date { 2010 6 23 }
+		}
+		{
+			string url "https://web.archive.org/web/20160103112358/http://gematsu.com:80/2010/06/final-fantasy-versus-xiii-scenario-complete-confirms-dengeki"
+			string title "Final Fantasy Versus XIII scenario complete, confirms Dengeki"
+			array int16 date { 2010 6 28 }
+		}
+		{
+			string url "https://web.archive.org/web/20160304174525/http://www.ff-xiii.net/index.php?article=versus-in-dengeki-playstation--555&page=article"
+			string title "Versus in Dengeki Playstation"
+			array int16 date { 2010 6 28 }
+		}
+		{
+			string url "https://web.archive.org/web/20100911000329/http://finalfantasy-xiii.net:80/2010/08/26/combined-versus-and-agito-trailer-at-tgs-this-september.html"
+			string title "Combined Versus and Agito Trailer at TGS this September"
+			array int16 date { 2010 8 26 }
+		}
+		{
+			string url "https://web.archive.org/web/20110816000351/http://www.andriasang.com/e/blog/2010/10/18/ff_versus_xiii_planners/"
+			string title "Square Enix Seeking Final Fantasy Versus XIII Planners"
+			array int16 date { 2010 10 18 }
+		}
+		{
+			string url "https://web.archive.org/web/20110802091448/http://www.andriasang.com/e/blog/2011/01/25/ff_versus_xiii_update/"
+			string title "Final Fantasy Versus XIII Update"
+			array int16 date { 2011 1 25 }
+		}
+		{
+			string url "https://web.archive.org/web/20110819195257/http://gematsu.com/2011/01/famitsu-further-details-final-fantasy-versus-xiii"
+			string title "Famitsu further details Final Fantasy Versus XIII"
+			array int16 date { 2011 1 26 }
+		}
+		{
+			string url "https://web.archive.org/web/20110715155459/http://www.gameinformer.com/b/news/archive/2011/07/13/nomura-dishes-out-more-versus-xiii-details-sort-of.aspx"
+			string title "Nomura Dishes Out More Versus XIII Details…Sort Of"
+			array int16 date { 2011 7 13 }
+		}
+		{
+			string url "https://web.archive.org/web/20110714232452/http://www.andriasang.com/e/blog/2011/07/13/nomura_on_ff_versus_xiii/"
+			string title "Tetsuya Nomura Discusses Final Fantasy Versus XIII"
+			array int16 date { 2011 7 13 }
+		}
+		{
+			string url "https://web.archive.org/web/20121225053051/http://andriasang.com/comxio/nomura_dengeki_cover/"
+			string title "Tetsuya Nomura's Dengeki PlayStation Cover"
+			array int16 date { 2011 8 11 }
+		}
+		{
+			string url "https://web.archive.org/web/20120620014421/http://andriasang.com/comxrx/luminous_studio_detailed/"
+			string title "Square Enix Details Luminous Studio"
+			array int16 date { 2011 8 26 }
+		}
+		{
+			string url "https://web.archive.org/web/20111112220434/http://game.watch.impress.co.jp/docs/news/20110826_473138.html"
+			string title "西川善司の3Dゲームファンのための「Luminous Studio」講座"
+			array int16 date { 2011 8 26 }
+		}
+		{
+			string url "https://web.archive.org/web/20120713055351/http://andriasang.com/comy9x/"
+			string title "Why is Final Fantasy Versus XIII Using the Luminous Engine?"
+			array int16 date { 2011 9 21 }
+		}
+		{
+			string url "https://web.archive.org/web/20120503230255/http://andriasang.com/comyql/"
+			string title "Tetsuya Nomura Excited About Spotlight Turning to Final Fantasy Versus XIII"
+			array int16 date { 2011 10 25 }
+		}
+		{
+			string url "https://web.archive.org/web/20120503231855/http://andriasang.com/comz50/ff_versus_xiii_moogles/"
+			string title "Tetsuya Nomura Talks Final Fantasy Versus XIII Moogles"
+			array int16 date { 2011 11 30 }
+		}
+		{
+			string url "https://web.archive.org/web/20120626093530/http://andriasang.com/comzoe/nomura_famitsu_interview/"
+			string title "Tetsuya Nomura on Versus XIII, Final Fantasy X HD and Kingdom Hearts 3D's Secret Ending"
+			array int16 date { 2012 1 18 }
+		}
+		{
+			string url "https://web.archive.org/web/20120626013334/http://andriasang.com/con0gj/ffvxiii_theatrhythm/"
+			string title "Final Fantasy Versus XIII Song Appears as DLC For Theatrhythm Final Fantasy"
+			array int16 date { 2012 4 2 }
+		}
+		{
+			string url "https://web.archive.org/web/20120516072034/http://www.finalfantasy.net/versus/nomura-comments-xiii-development/"
+			string title "Nomura comments on Versus XIII development"
+			array int16 date { 2012 5 4 }
+		}
+		{
+			string url "https://web.archive.org/web/20140716082440/http://rpgsite.net/interview/3081-square-enix-luminous-studio-interview"
+			string title "Square Enix Luminous Studio Interview"
+			array int16 date { 2012 6 25 }
+		}
+		{
+			string url "https://web.archive.org/web/20120720082623/http://kotaku.com/5927645/rumor-final-fantasy-versus-xiii-is-dead"
+			string title "Rumor: Final Fantasy Versus XIII Is Dead"
+			array int16 date { 2012 7 20 }
+		}
+		{
+			string url "https://web.archive.org/web/20191031121849/https://kotaku.com/square-enix-confirms-the-existence-of-final-fantasy-ver-5928488"
+			string title "Square Enix Confirms the Existence of Final Fantasy Versus XIII"
+			array int16 date { 2012 7 24 }
+		}
+		{
+			string url "https://web.archive.org/web/20130317175548/http://gematsu.com/2013/03/ff-versus-xiii-outfit-designer-lists-game-as-final-fantasy-15"
+			string title "Final Fantasy Versus XIII outfit designer lists game as “Final Fantasy 15“ [Update]"
+			array int16 date { 2013 3 15 }
+		}
+		{
+			string url "https://web.archive.org/web/20150605003653/https://www.gameinformer.com/b/news/archive/2015/06/04/final-fantasy-xv-s-entirely-drops-versus-xii_2700_s-heroine-stella-episode-duscae-2-0-next-week.aspx"
+			string title "Final Fantasy XV Entirely Drops Versus XIII's Heroine Stella, Episode Duscae 2.0 Next Week"
+			array int16 date { 2015 6 4 }
+		}
+		{
+			string url "https://web.archive.org/web/20151225024420/http://www.dualshockers.com/2015/12/22/insight-on-transition-between-final-fantasy-versus-xiii-and-xv-shared-by-former-luminous-engine-lead/"
+			string title "Insight on Transition Between Final Fantasy Versus XIII and XV Shared by Former Luminous Engine Lead"
+			array int16 date { 2015 12 22 }
+		}
+		{
+			string url "https://game.watch.impress.co.jp/docs/news/1095385.html"
+			string title "[SIGGRAPH ASIA 2017] Final Fantasy XV Development Summary (Part 1)"
+			array int16 date { 2017 12 6 }
+		}
+		{
+			string url "https://game.watch.impress.co.jp/docs/news/1096057.html"
+			string title "[SIGGRAPH ASIA 2017] Final Fantasy XV Development Summary (Part 2)"
+			array int16 date { 2017 12 11 }
+		}
+	}
+}
+

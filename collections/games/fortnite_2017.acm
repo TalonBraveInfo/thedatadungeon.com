@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Fortnite 
+	string type game 
+	string source "Games/Fortnite (2017)" 
+	array object links {
+				{
+			string url https://tcrf.net/Fortnite:_Save_the_World_(Windows,_Mac_OS_X) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2017 
+		0 
+		0 
+	}
+}

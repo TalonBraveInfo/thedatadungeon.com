@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Deus Ex Invisible War" 
+	string type game 
+	string source "Games/Deus Ex Invisible War (2003)" 
+	array object links {
+				{
+			string url https://tcrf.net/Deus_Ex:_Invisible_War_(Xbox) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2003 
+		0 
+		0 
+	}
+}

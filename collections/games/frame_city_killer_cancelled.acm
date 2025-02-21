@@ -1,0 +1,9 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Frame City Killer" 
+	string type game 
+	string source "Games/Frame City Killer (Cancelled)"
+	string description "<p>Developed by Namco, using Unreal Engine 3. Was cancelled in May of 2006.</p>"
+	string releaseStatus cancelled 
+}

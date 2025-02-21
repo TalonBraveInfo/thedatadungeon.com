@@ -1,0 +1,23 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Beyond Good & Evil" 
+	string type game 
+	string source "Games/Beyond Good & Evil (2003)" 
+	array object links {
+				{
+			string url https://hiddenpalace.org/Category:Beyond_Good_%26_Evil_prototypes 
+			string title "Hidden Palace" 
+		}
+				{
+			string url https://tcrf.net/Beyond_Good_%26_Evil 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2003 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "White Fear (Inuit)" 
+	string type game 
+	string source "Games/White Fear (Inuit) (Cancelled)" 
+	string releaseStatus cancelled 
+}

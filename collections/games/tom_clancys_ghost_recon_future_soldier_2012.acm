@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Tom Clancy's Ghost Recon Future Soldier" 
+	string type game 
+	string source "Games/Tom Clancy's Ghost Recon Future Soldier (2012)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2012 
+		0 
+		0 
+	}
+}

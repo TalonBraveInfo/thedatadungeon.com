@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Duke Nukem Endangered Species" 
+	string type game 
+	string source "Games/Duke Nukem Endangered Species (Cancelled)" 
+	string releaseStatus cancelled 
+}

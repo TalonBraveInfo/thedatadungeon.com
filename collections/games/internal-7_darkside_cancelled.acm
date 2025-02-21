@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Internal-7 (Darkside)" 
+	string type game 
+	string source "Games/Internal-7 (Darkside) (Cancelled)" 
+	string releaseStatus cancelled 
+}

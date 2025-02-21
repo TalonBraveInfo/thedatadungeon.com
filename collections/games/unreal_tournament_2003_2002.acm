@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Unreal Tournament 2003" 
+	string type game 
+	string source "Games/Unreal Tournament 2003 (2002)" 
+	array object links {
+				{
+			string url https://tcrf.net/Unreal_Tournament_2003 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2002 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Star Wars First Assault" 
+	string type game 
+	string source "Games/Star Wars First Assault (Cancelled)" 
+	string releaseStatus cancelled 
+}

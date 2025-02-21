@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Thief (The Dark Project) (Dark Camelot)" 
+	string type game 
+	string source "Games/Thief (The Dark Project) (Dark Camelot) (1998)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		1998 
+		0 
+		0 
+	}
+}

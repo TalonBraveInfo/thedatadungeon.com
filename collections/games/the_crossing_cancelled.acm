@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "The Crossing" 
+	string type game 
+	string source "Games/The Crossing (Cancelled)" 
+	string releaseStatus cancelled 
+}

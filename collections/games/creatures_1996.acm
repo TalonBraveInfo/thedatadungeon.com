@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Creatures 
+	string type game 
+	string source "Games/Creatures (1996)" 
+	array object links {
+				{
+			string url https://tcrf.net/Creatures_(Windows,_Mac_OS_Classic) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		1996 
+		0 
+		0 
+	}
+}

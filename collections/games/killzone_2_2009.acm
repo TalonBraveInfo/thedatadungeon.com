@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Killzone 2" 
+	string type game 
+	string source "Games/Killzone 2 (2009)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2009 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Panic 
+	string type game 
+	string source "Games/Panic (Cancelled)" 
+	string releaseStatus cancelled 
+}

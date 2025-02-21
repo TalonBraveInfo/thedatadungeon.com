@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name BloodRayne 
+	string type game 
+	string source "Games/BloodRayne (2002)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2002 
+		0 
+		0 
+	}
+}

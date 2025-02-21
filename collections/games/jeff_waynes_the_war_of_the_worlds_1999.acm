@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Jeff Wayne's The War of the Worlds" 
+	string type game 
+	string source "Games/Jeff Wayne's The War of the Worlds (1999)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		1999 
+		0 
+		0 
+	}
+}

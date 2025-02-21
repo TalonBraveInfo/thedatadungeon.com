@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Barb Wire" 
+	string type game 
+	string source "Games/Barb Wire (Cancelled)" 
+	string releaseStatus cancelled 
+}

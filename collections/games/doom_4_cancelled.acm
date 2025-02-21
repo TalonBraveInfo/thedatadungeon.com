@@ -1,0 +1,14 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Doom 4" 
+	string type game 
+	string source "Games/Doom 4 (Cancelled)" 
+	array object links {
+				{
+			string url https://tcrf.net/Prerelease:Doom_(2016)/Doom_4 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus cancelled 
+}

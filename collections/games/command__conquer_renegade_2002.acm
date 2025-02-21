@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Command & Conquer Renegade" 
+	string type game 
+	string source "Games/Command & Conquer Renegade (2002)" 
+	array object links {
+				{
+			string url https://tcrf.net/Command_%26_Conquer:_Renegade 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2002 
+		0 
+		0 
+	}
+}

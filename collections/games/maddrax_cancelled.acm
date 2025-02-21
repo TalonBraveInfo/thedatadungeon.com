@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Maddrax 
+	string type game 
+	string source "Games/Maddrax (Cancelled)" 
+	string releaseStatus cancelled 
+}

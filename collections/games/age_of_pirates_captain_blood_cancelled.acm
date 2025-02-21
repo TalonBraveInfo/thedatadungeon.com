@@ -1,0 +1,14 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Age of Pirates Captain Blood" 
+	string type game 
+	string source "Games/Age of Pirates Captain Blood (Cancelled)" 
+	array object links {
+				{
+			string url https://tcrf.net/Captain_Blood_(1C_Entertainment) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus cancelled 
+}

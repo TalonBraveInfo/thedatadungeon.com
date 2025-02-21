@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Doom 3" 
+	string type game 
+	string source "Games/Doom 3 (2004)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2004 
+		0 
+		0 
+	}
+}

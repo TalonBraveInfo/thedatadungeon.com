@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "MechWarrior 4 Mercenaries" 
+	string type game 
+	string source "Games/MechWarrior 4 Mercenaries (2002)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2002 
+		0 
+		0 
+	}
+}

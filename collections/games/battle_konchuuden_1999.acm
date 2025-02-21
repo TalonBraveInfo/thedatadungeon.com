@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Battle Konchuuden" 
+	string type game 
+	string source "Games/Battle Konchuuden (1999)" 
+	array object links {
+				{
+			string url https://tcrf.net/Battle_Konchuuden 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		1999 
+		0 
+		0 
+	}
+}

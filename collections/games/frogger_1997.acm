@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Frogger 
+	string type game 
+	string source "Games/Frogger (1997)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		1997 
+		0 
+		0 
+	}
+}

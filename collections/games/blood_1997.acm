@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Blood 
+	string type game 
+	string source "Games/Blood (1997)" 
+	array object links {
+				{
+			string url https://tcrf.net/Blood 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		1997 
+		0 
+		0 
+	}
+}

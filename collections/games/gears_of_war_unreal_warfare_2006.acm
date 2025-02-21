@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Gears of War"
+	array string otherNames { "Unreal Warfare" }
+
+	array string developers { "Epic Games" }
+	array string publishers { "Microsoft Game Studios" }
+
+	string type game 
+	string source "Games/Gears of War (Unreal Warfare) (2006)"
+
+	string releaseStatus released 
+	array int16 releaseDate { 2006 11 7 }
+}

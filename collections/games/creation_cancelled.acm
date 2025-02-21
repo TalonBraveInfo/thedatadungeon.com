@@ -1,0 +1,14 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Creation 
+	string type game 
+	string source "Games/Creation (Cancelled)" 
+	array object links {
+				{
+			string url https://tcrf.net/Creation 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus cancelled 
+}

@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Fallout Brotherhood of Steel 2" 
+	string type game 
+	string source "Games/Fallout Brotherhood of Steel 2 (Cancelled)" 
+	string releaseStatus cancelled 
+}

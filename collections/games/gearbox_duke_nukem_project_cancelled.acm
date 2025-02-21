@@ -1,0 +1,14 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Duke Nukem Begins" 
+	string type game 
+	string source "Games/Duke Nukem Begins (Cancelled)" 
+	array object links {
+				{
+			string url https://dukenukem.fandom.com/wiki/Duke_Begins 
+			string title "Duke Nukem Wiki" 
+		}
+	}
+	string releaseStatus cancelled 
+}

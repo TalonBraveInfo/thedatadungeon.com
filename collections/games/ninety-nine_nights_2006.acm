@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Ninety-Nine Nights" 
+	string type game 
+	string source "Games/Ninety-Nine Nights (2006)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2006 
+		0 
+		0 
+	}
+}

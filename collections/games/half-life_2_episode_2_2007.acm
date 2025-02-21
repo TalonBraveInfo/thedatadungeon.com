@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Half-Life 2 Episode 2" 
+	string type game 
+	string source "Games/Half-Life 2 Episode 2 (2007)" 
+	array object links {
+				{
+			string url https://tcrf.net/Half-Life_2:_Episode_Two 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2007 
+		0 
+		0 
+	}
+}

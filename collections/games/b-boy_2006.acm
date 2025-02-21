@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name B-Boy 
+	string type game 
+	string source "Games/B-Boy (2006)" 
+	array object links {
+				{
+			string url https://tcrf.net/B-Boy_(PlayStation_2) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2006 
+		0 
+		0 
+	}
+}

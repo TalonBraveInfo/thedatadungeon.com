@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Call of Cthulhu Destiny's End" 
+	string type game 
+	string source "Games/Call of Cthulhu Destiny's End (Cancelled)" 
+	string releaseStatus cancelled 
+}

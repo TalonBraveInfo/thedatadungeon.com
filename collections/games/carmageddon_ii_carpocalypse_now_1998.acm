@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Carmageddon II Carpocalypse Now" 
+	string type game 
+	string source "Games/Carmageddon II Carpocalypse Now (1998)" 
+	array object links {
+				{
+			string url https://tcrf.net/Carmageddon_II:_Carpocalypse_Now 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		1998 
+		0 
+		0 
+	}
+}

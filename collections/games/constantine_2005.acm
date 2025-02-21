@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Constantine 
+	string type game 
+	string source "Games/Constantine (2005)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		2005 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "BioShock Infinite" 
+	string type game 
+	string source "Games/BioShock Infinite (2013)" 
+	array object links {
+				{
+			string url https://tcrf.net/BioShock_Infinite 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2013 
+		0 
+		0 
+	}
+}

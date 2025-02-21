@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Turok 
+	string type game 
+	string source "Games/Turok (2008)" 
+	array object links {
+				{
+			string url https://tcrf.net/Turok_(Windows) 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2008 
+		0 
+		0 
+	}
+}

@@ -1,0 +1,13 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Sega Rally Championship" 
+	string type game 
+	string source "Games/Sega Rally Championship (1994)" 
+	string releaseStatus released 
+	array int16 releaseDate {
+		1994 
+		0 
+		0 
+	}
+}

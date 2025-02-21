@@ -1,0 +1,23 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Counter-Strike 
+	string type game 
+	string source "Games/Counter-Strike (2000)" 
+	array object links {
+				{
+			string url https://tcrf.net/Counter-Strike_(Windows) 
+			string title "The Cutting Room Floor (Windows)" 
+		}
+				{
+			string url https://tcrf.net/Counter-Strike_(Xbox) 
+			string title "The Cutting Room Floor (Xbox)" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2000 
+		0 
+		0 
+	}
+}

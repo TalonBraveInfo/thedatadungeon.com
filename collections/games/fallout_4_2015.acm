@@ -1,0 +1,19 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Fallout 4" 
+	string type game 
+	string source "Games/Fallout 4 (2015)" 
+	array object links {
+				{
+			string url https://tcrf.net/Fallout_4 
+			string title "The Cutting Room Floor" 
+		}
+	}
+	string releaseStatus released 
+	array int16 releaseDate {
+		2015 
+		0 
+		0 
+	}
+}

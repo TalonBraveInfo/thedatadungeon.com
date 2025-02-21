@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name Bloodshot 
+	string type game 
+	string source "Games/Bloodshot (Cancelled)" 
+	string releaseStatus cancelled 
+}

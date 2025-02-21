@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "X-COM Alliance" 
+	string type game 
+	string source "Games/X-COM Alliance (Cancelled)" 
+	string releaseStatus cancelled 
+}

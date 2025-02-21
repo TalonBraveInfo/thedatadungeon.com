@@ -1,0 +1,8 @@
+node.utf8
+; this node file has been auto-generated!
+object collection {
+	string name "Jak 4" 
+	string type game 
+	string source "Games/Jak 4 (Cancelled)" 
+	string releaseStatus cancelled 
+}
