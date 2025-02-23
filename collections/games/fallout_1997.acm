@@ -3,7 +3,7 @@ object collection
 {
 	string name Fallout
 	array string developers { "Interplay Productions" }
-	array string publishers [ "Interplay Productions" }
+	array string publishers { "Interplay Productions" }
 	string type game 
 	string source "Games/Fallout (1997)" 
 	string releaseStatus released 

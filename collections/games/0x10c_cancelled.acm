@@ -1,7 +1,7 @@
 node.utf8
 object collection
 {
-	string name 0x10c 
+	string name "0x10c"
 	string type game
 	array string developers { "Mojang" }
 	string source "Games/0x10c (Cancelled)" 

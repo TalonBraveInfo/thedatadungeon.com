@@ -11,7 +11,7 @@ object collection
 	    {
 	        string url "https://talonbrave.info/2025/02/01/beyond.html"
 	        string title "What's Beyond?"
-	        array date { 2025 2 1 }
+	        array int16 date { 2025 2 1 }
 	    }
 	}
 }
