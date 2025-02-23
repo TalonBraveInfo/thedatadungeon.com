@@ -351,3 +351,11 @@ Added 1 <a href="shadow_of_rome_2004.html#distributions">distributions</a>, unde
 Added 1 <a href="rayman_raving_rabbids_rayman_4_2006.html#distributions">distributions</a>, under <a href="rayman_raving_rabbids_rayman_4_2006.html">Rayman Raving Rabbids (Rayman 4)</a>
 changeset 1739002244 1
 Added 1 <a href="final_fantasy_xv_2016.html#others">others</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+changeset 1740326681 7
+Added 1 <a href="black9_cancelled.html#others">others</a>, under <a href="black9_cancelled.html">Black9</a>
+Added 4 <a href="final_fantasy_xv_2016.html#artworks">artworks</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+Added 7 <a href="final_fantasy_xv_2016.html#others">others</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+Introduced a new 'Publications' section under which you can find various articles related to a given title (see Final Fantasy XV for an example)
+Overhauled the general look of the site once again
+Collection metadata can now be found <a href="https://github.com/TalonBraveInfo/thedatadungeon.com/tree/master/collections/games">here</a>
+Some links may be duplicated, this will be fixed with the next update!
