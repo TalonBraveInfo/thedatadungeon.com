@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Urban Assault" 
+object collection
+{
+	string name "Urban Assault"
+	array string developers { "TerraTools" }
+	array string publishers { "Microsoft Games" }
 	string type game 
 	string source "Games/Urban Assault (1998)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
-		0 
+		8
+		18
 	}
 }

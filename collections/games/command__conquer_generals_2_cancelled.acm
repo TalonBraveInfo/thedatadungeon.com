@@ -1,7 +1,10 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Command & Conquer (Generals 2)" 
+object collection
+{
+	string name "Command & Conquer"
+	array string otherNames { "Command & Conquer: Generals 2" }
+	array string developers { "Victory Games" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Command & Conquer (Generals 2) (Cancelled)" 
 	string releaseStatus cancelled 

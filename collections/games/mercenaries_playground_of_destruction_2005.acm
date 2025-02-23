@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Mercenaries Playground of Destruction" 
+object collection
+{
+	string name "Mercenaries: Playground of Destruction"
+	array string developers { "Pandemic Studios" }
+	array string publishers { "LucasArts" }
 	string type game 
 	string source "Games/Mercenaries Playground of Destruction (2005)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2005 
-		0 
-		0 
+		1
+		11
 	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Ultra Assault" 
+object collection
+{
+	string name "Ultra Assault"
+	array string developers { "Small Rockets" }
+	array string publishers { "Small Rockets" }
 	string type game 
 	string source "Games/Ultra Assault (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		1
+		13
 	}
 }

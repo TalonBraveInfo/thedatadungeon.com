@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Imperium Galactica II Alliances" 
+object collection
+{
+	string name "Imperium Galactica II Alliances"
+	array string developers { "Digital Reality" }
+	array string publishers { "Infogrames" }
 	string type game 
 	string source "Games/Imperium Galactica II Alliances (1999)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1999 
-		0 
-		0 
+		12
+		1
 	}
 }

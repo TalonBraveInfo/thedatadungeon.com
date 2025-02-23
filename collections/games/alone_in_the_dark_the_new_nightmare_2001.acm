@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Alone in the Dark The New Nightmare" 
+object collection
+{
+	string name "Alone in the Dark The New Nightmare"
+	array string developers { "Darkworks" }
+	array string publishers { "Infogrames" }
 	string type game 
 	string source "Games/Alone in the Dark The New Nightmare (2001)" 
 	array object links {
@@ -21,7 +23,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		5
+		18
 	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "SWAT Global Strike Team" 
+object collection
+{
+	string name "SWAT: Global Strike Team"
+	array string developers { "Argonaut Games" }
+	array string publishers { "Vivendi Universal Games" }
 	string type game 
 	string source "Games/SWAT Global Strike Team (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		10
+		28
 	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Dark Messiah of Might and Magic" 
+object collection
+{
+	string name "Dark Messiah of Might and Magic"
+	array string developers { "Arkane Studios" }
+	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/Dark Messiah of Might and Magic (2006)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2006 
-		0 
-		0 
+		10
+		24
 	}
 }

@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Call of Cthulhu Destiny's End" 
+object collection
+{
+	string name "Call of Cthulhu Destiny's End"
+	array string developers { "Headfirst Productions" }
 	string type game 
 	string source "Games/Call of Cthulhu Destiny's End (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/15/call-of-cthulhu-trilogy-xbox-unreleased/"
+	        string title "Unseen64"
+	    }
+	}
 }

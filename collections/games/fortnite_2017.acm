@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Fortnite 
+object collection
+{
+	string name Fortnite
+	array string developers { "Epic Games" }
+	array string publishers { "Epic Games" }
 	string type game 
 	string source "Games/Fortnite (2017)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2017 
-		0 
-		0 
+		7
+		25
 	}
 }

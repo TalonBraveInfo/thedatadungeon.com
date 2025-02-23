@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Haven Call of the King" 
+object collection
+{
+	string name "Haven Call of the King"
+	array string developers { "Traveller's Tales" }
+	array string publishers { "Midway Games" }
 	string type game 
 	string source "Games/Haven Call of the King (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		11
+		18
 	}
 }

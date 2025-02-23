@@ -1,12 +1,14 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Magic Carpet" 
+object collection
+{
+	string name "Magic Carpet"
+	array string developers { "Bullfrog Productions" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Magic Carpet (1995)" 
 	string releaseStatus released 
 	array int16 releaseDate {
-		1995 
+		1994
 		0 
 		0 
 	}

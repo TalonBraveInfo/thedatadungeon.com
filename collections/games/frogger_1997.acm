@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Frogger 
+object collection
+{
+	string name Frogger
+	array string developers { "Sony Computer Entertainment Europe" }
+	array string publishers { "Hasbo Interactive" }
 	string type game 
 	string source "Games/Frogger (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		10
+		31
 	}
 }

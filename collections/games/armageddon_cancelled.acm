@@ -1,8 +1,18 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Armageddon 
+object collection
+{
+	string name Armageddon
+	array string developers { "Boanerges Studios" }
+	array string publishers { "Atari" }
 	string type game 
 	string source "Games/Armageddon (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2023/05/13/armageddon-xbox-360-ps3-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

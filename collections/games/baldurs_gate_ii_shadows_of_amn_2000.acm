@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Baldur's Gate II Shadows of Amn" 
+object collection
+{
+	string name "Baldur's Gate II Shadows of Amn"
+	array string developers { "BioWare" }
+	array string publishers { "Black Isle Studios" "Interplay Entertainment" }
 	string type game 
 	string source "Games/Baldur's Gate II Shadows of Amn (2000)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		9
+		21
 	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Evil Twin Cyprien's Chronicles" 
+object collection
+{
+	string name "Evil Twin Cyprien's Chronicles"
+	array string developers { "In Utero" }
+	array string publishers { "Ubi Soft" }
 	string type game 
 	string source "Games/Evil Twin Cyprien's Chronicles (2001)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		10
+		4
 	}
 }

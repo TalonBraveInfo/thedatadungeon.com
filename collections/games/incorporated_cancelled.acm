@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name INCorporated 
+object collection
+{
+	string name INCorporated
+	array string developers { "Galahan Games" }
 	string type game 
 	string source "Games/INCorporated (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2013/10/03/incorporated-pc-x360-tech-demo-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

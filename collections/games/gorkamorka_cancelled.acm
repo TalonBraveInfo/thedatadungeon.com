@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Gorkamorka 
+object collection
+{
+	string name Gorkamorka
+	array string developers { "Real Sports" }
+	array string publishers { "Ripcord Games" }
 	string type game 
 	string source "Games/Gorkamorka (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2023/12/16/gorkamorka-pc-dreamcast-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

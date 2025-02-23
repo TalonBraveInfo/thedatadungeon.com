@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name MDK2 
+object collection
+{
+	string name MDK2
+	array string developers { "BioWare" }
+	array string publishers { "Interplay Entertainment" }
 	string type game 
 	string source "Games/MDK2 (2000)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		3
+		29
 	}
 }

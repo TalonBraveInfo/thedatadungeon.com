@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Green Thang" 
+object collection
+{
+	string name "Green Thang"
+	array string otherNames { "Frogs" }
 	string type game 
 	string source "Games/Green Thang (Cancelled)" 
 	string releaseStatus cancelled 

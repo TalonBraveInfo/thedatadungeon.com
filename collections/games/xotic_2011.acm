@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Xotic 
+object collection
+{
+	string name Xotic
+	array string developers { "WXP Games" }
+	array string publishers { "WXP Games" }
 	string type game 
 	string source "Games/Xotic (2011)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2011 
-		0 
-		0 
+		9
+		16
 	}
 }

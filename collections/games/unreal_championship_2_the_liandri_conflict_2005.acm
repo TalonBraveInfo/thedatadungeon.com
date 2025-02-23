@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Unreal Championship 2 The Liandri Conflict" 
+object collection
+{
+	string name "Unreal Championship 2: The Liandri Conflict"
+	array string developers { "Epic Games" }
+	array string publishers { "Midway Games" }
 	string type game 
 	string source "Games/Unreal Championship 2 The Liandri Conflict (2005)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2005 
-		0 
-		0 
+		4
+		18
 	}
 }

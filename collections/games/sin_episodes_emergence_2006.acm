@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "SiN Episodes Emergence" 
+object collection
+{
+	string name "SiN Episodes Emergence"
+	array string developers { "Ritual Entertainment" }
+	array string publishers { "Ritual Entertainment" }
 	string type game 
 	string source "Games/SiN Episodes Emergence (2006)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2006 
-		0 
-		0 
+		5
+		10
 	}
 }

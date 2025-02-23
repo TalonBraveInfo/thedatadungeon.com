@@ -1,7 +1,10 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Internal-7 (Darkside)" 
+object collection
+{
+	string name "Internal-7"
+	array string otherNames { "Darkside" }
+	array string developers { "Santa Monica Studio" }
+	array string publishers { "Sony Interactive Entertainment" }
 	string type game 
 	string source "Games/Internal-7 (Darkside) (Cancelled)" 
 	string releaseStatus cancelled 

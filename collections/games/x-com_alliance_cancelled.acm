@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "X-COM Alliance" 
+object collection
+{
+	string name "X-COM Alliance"
+	array string developers { "MicroProse Chipping Sodbury Studio" "MicroProse Hunt Valley Studio/Infogrames Interactive Hunt Valley Studio" }
+	array string publishers { "MicroProse" "Hasbro Interactive" "Infogrames Interactive" }
 	string type game 
 	string source "Games/X-COM Alliance (Cancelled)" 
 	string releaseStatus cancelled 

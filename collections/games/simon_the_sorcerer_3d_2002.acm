@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Simon the Sorcerer 3D" 
+object collection
+{
+	string name "Simon the Sorcerer 3D"
+	array string developers { "Headfirst Productions" }
+	array string publishers { "Adventure Soft" }
 	string type game 
 	string source "Games/Simon the Sorcerer 3D (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		4
+		19
 	}
 }

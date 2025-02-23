@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Impossible Creatures" 
+object collection
+{
+	string name "Impossible Creatures"
+	array string developers { "Relic Entertainment" }
+	array string publishers { "Microsoft Game Studios" }
 	string type game 
 	string source "Games/Impossible Creatures (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		1
+		7
 	}
 }

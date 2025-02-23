@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Chill 
+object collection
+{
+	string name Chill
+	array string developers { "Silicon Dreams Studio" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Chill (1998)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
+		4
 		0 
 	}
 }

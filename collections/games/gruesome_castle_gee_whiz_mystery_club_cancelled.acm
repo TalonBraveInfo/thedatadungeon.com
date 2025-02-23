@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Gruesome Castle Gee Whiz! Mystery Club" 
+object collection
+{
+	string name "Gruesome Castle Gee Whiz! Mystery Club"
+	array string developers { "Gree Whiz! Entertainment" }
 	string type game 
 	string source "Games/Gruesome Castle Gee Whiz! Mystery Club (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2020/06/07/gruesome-castle-gee-whiz-mystery-club-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

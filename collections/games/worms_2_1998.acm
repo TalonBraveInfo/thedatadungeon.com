@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Worms 2" 
+object collection
+{
+	string name "Worms 2"
+	array string developers { "Team17" }
+	array string publishers { "Team17" }
 	string type game 
 	string source "Games/Worms 2 (1998)" 
 	string releaseStatus released 
 	array int16 releaseDate {
-		1998 
-		0 
-		0 
+		1997
+		11
+		21
 	}
 }

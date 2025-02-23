@@ -1,13 +1,14 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Devastation 
+object collection
+{
+	string name Devastation
+	array string developers { "Digitalo Studios" }
 	string type game 
 	string source "Games/Devastation (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		3
+		25
 	}
 }

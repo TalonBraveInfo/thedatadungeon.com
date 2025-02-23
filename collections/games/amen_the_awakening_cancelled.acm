@@ -1,8 +1,19 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Amen The Awakening" 
+object collection
+{
+	string name "Amen The Awakening"
+	array string developers { "Cavedog Entertainment" }
+	array string publishers { "GT Interactive" }
 	string type game 
 	string source "Games/Amen The Awakening (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object publications
+	{
+	    {
+	        string url "https://www.eurogamer.net/a-studiodeath"
+	        string title "The Death Of The Celebrity Studio"
+	        array int16 date { 2001 6 25 }
+	    }
+	}
 }

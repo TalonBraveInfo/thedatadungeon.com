@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Prophecy 
+object collection
+{
+	string name Prophecy
+	array string developers { "Sucker Punch Productions" }
+	array string publishers { "Sony Computer Entertainment" }
 	string type game 
 	string source "Games/Prophecy (Cancelled)" 
 	string releaseStatus cancelled 

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Thief 
+object collection
+{
+	string name Thief
+	array string developers { "Eidos-Montréal" }
+	array string publishers { "Square Enix" }
 	string type game 
 	string source "Games/Thief (2014)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2014 
-		0 
-		0 
+		2
+		25
 	}
 }

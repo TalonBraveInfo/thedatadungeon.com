@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Creatures 3" 
+object collection
+{
+	string name "Creatures 3"
+	array string developers { "Creature Labs" }
+	array string publishers { "Mindscape" }
 	string type game 
 	string source "Games/Creatures 3 (2000)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		11
+		1
 	}
 }

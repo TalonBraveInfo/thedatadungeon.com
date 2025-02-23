@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Vampire The Masquerade Bloodlines" 
+object collection
+{
+	string name "Vampire: The Masquerade - Bloodlines"
+	array string developers { "Troika Games" }
+	array string publishers { "Activision" }
 	string type game 
 	string source "Games/Vampire The Masquerade Bloodlines (2004)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2004 
-		0 
-		0 
+		11
+		16
 	}
 }

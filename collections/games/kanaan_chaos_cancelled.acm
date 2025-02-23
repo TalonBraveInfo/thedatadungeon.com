@@ -1,8 +1,18 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Kanaan (Chaos)" 
+object collection
+{
+	string name "Kanaan"
+	array string otherNames { "Chaos" }
+	array string developers { "Argonaut Games" }
+	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/Kanaan (Chaos) (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2016/05/11/kanaan-argonaut-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

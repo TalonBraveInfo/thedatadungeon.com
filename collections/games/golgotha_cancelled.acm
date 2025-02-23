@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Golgotha 
+object collection
+{
+	string name Golgotha
+	array string developers { "Crack dot Com" }
 	string type game 
 	string source "Games/Golgotha (Cancelled)" 
 	string releaseStatus cancelled 

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Heavy Gear" 
+object collection
+{
+	string name "Heavy Gear"
+	array string developers { "Activision" }
+	array string publishers { "Activision" }
 	string type game 
 	string source "Games/Heavy Gear (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		11
+		26
 	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Command & Conquer Renegade 2" 
+object collection
+{
+	string name "Command & Conquer Renegade 2"
+	array string developers { "Westwood Studios" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Command & Conquer Renegade 2 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2021/10/27/command-conquer-renegade2-cancelled-pc/"
+	        string title "Unseen64"
+	    }
+	}
 }

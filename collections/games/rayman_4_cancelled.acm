@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Rayman 4" 
+object collection
+{
+	string name "Rayman 4"
+	array string developers { "Phoenix Studio" }
+	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/Rayman 4 (Cancelled)" 
 	string releaseStatus cancelled 

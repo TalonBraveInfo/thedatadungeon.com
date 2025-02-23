@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "European Air War" 
+object collection
+{
+	string name "European Air War"
+	array string developers { "MicroProse" }
+	array string publishers { "MicroProse" }
 	string type game 
 	string source "Games/European Air War (1998)" 
 	string releaseStatus released 

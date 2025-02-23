@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Heavenly Sword" 
+object collection
+{
+	string name "Heavenly Sword"
+	array string developers { "Ninja Theory" }
+	array string publishers { "Sony Computer Entertainment" }
 	string type game 
 	string source "Games/Heavenly Sword (2007)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2007 
-		0 
-		0 
+		9
+		12
 	}
 }

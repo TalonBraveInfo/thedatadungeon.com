@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Jak 4" 
+object collection
+{
+	string name "Jak 4"
+	array string otherNames { "Jak & Daxter 4" }
+	array string developers { "Naughty Dog" }
 	string type game 
 	string source "Games/Jak 4 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2014/10/16/jak-daxter-4-reboot-ps3-cancelled-concept/"
+	        string title "Unseen64"
+	    }
+	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Trinity The Shatter Effect" 
+object collection
+{
+	string name "Trinity: The Shatter Effect"
+	array string developers { "Gray Matter Interactive" }
+	array string publishers { "Activision" }
 	string type game 
 	string source "Games/Trinity The Shatter Effect (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2023/05/27/trinity-the-shatter-effect-pcxbox-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

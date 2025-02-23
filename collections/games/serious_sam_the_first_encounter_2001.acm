@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Serious Sam The First Encounter" 
+object collection
+{
+	string name "Serious Sam The First Encounter"
+	array string developers { "Croteam" }
+	array string publishers { "Gathering of Developers" }
 	string type game 
 	string source "Games/Serious Sam The First Encounter (2001)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		3
+		21
 	}
 }

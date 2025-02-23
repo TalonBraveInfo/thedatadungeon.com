@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Prey Invasion" 
+object collection
+{
+	string name "Prey Invasion"
+	array string developers { "MachineWorks" }
+	array string publishers { "Hands-On Mobile" }
 	string type game 
 	string source "Games/Prey Invasion (2009)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2009 
-		0 
-		0 
+		6
+		8
 	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Warcraft II The Dark Saga" 
+object collection
+{
+	string name "Warcraft II: The Dark Saga"
+	array string developers { "Blizzard Entertainment" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Warcraft II The Dark Saga (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		1
+		6
 	}
 }

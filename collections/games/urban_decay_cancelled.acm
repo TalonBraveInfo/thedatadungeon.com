@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Urban Decay" 
+object collection
+{
+	string name "Urban Decay"
+	array string developers { "Andrew Spencer Studios" }
+	array string publishers { "Psygnosis" }
 	string type game 
 	string source "Games/Urban Decay (Cancelled)" 
 	string releaseStatus cancelled 

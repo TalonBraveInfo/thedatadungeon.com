@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Wolfenstein 
+object collection
+{
+	string name Wolfenstein
+	array string developers { "Raven Software" }
+	array string publishers { "Activision" }
 	string type game 
 	string source "Games/Wolfenstein (2009)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2009 
-		0 
-		0 
+		8
+		18
 	}
 }

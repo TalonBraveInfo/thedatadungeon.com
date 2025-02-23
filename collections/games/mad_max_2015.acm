@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Mad Max" 
+object collection
+{
+	string name "Mad Max"
+	array string developers { "Avalanche Studios" }
+	array string publishers { "Warner Bros. Interactive Entertainment" }
 	string type game 
 	string source "Games/Mad Max (2015)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2015 
-		0 
-		0 
+		9
+		1
 	}
 }

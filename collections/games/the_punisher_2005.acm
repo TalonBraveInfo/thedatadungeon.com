@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "The Punisher" 
+object collection
+{
+	string name "The Punisher"
+	array string developers { "Volition" }
+	array string publishers { "THQ" }
 	string type game 
 	string source "Games/The Punisher (2005)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2005 
-		0 
-		0 
+		1
+		18
 	}
 }

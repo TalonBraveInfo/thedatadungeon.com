@@ -1,13 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Star Fox Adventures (Dinosaur Planet)" 
+object collection
+{
+	string name "Star Fox Adventures"
+	array string otherNames { "Dinosaur Planet" }
+	array string developers { "Rare" }
+	array string publishers { "Nintendo" }
 	string type game 
 	string source "Games/Star Fox Adventures (Dinosaur Planet) (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		9
+		23
 	}
 }

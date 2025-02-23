@@ -1,8 +1,47 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "The Crossing" 
+object collection
+{
+	string name "The Crossing"
+	array string developers { "Arkane Studios" }
 	string type game 
 	string source "Games/The Crossing (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object publications
+	{
+	    {
+	        string url "https://www.gamesradar.com/what-is-the-crossing/"
+	        string title "What is The Crossing?"
+	        array int16 date { 2007 1 9 }
+	    }
+	    {
+	        string url "https://www.gamesradar.com/uncovering-the-crossing/"
+	        string title "Uncovering The Crossing"
+	        array int16 date { 2007 1 17 }
+	    }
+	    {
+	        string url "https://www.gamesradar.com/the-crossing-images-reveal-gameplay/"
+	        string title "The Crossing images reveal gameplay"
+	        array int16 date { 2007 1 31 }
+	    }
+	    {
+	        string url "https://www.gamesradar.com/arkanes-the-crossing-crosses-to-xbox-360/"
+	        string title "Arkane's The Crossing crosses to Xbox 360"
+	        array int16 date { 2007 2 21 }
+	    }
+	    {
+	        string url "https://www.shacknews.com/article/58649/arkane-and-valves-crossing"
+	        string title "Arkane and Valve's 'The Crossing' on Hold"
+	        array int16 date { 2009 5 15 }
+	    }
+	    {
+	        string url "https://mcvuk.com/business-news/publishing/production-suspended-for-ambitious-fps-the-crossing/"
+	        string title "Production suspended for ambitious FPS The Crossing"
+	        array int16 date { 2009 5 18 }
+	    }
+	    {
+	        string url "https://www.polygon.com/features/2018/1/30/16937210/the-crossing-arkane-cancelled-game"
+	        string title "The story of The Crossing, Arkane’s lost game"
+	        array int16 date { 2018 1 30 }
+	    }
+	}
 }

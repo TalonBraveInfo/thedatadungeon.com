@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Alone in the Dark" 
+object collection
+{
+	string name "Alone in the Dark"
+	array string developers { "Infogrames" }
+	array string publishers { "Infogrames" "Interplay" }
 	string type game 
 	string source "Games/Alone in the Dark (1992)" 
 	array object links {

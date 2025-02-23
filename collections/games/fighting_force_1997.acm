@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Fighting Force" 
+object collection
+{
+	string name "Fighting Force"
+	array string developers { "Core Design" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Fighting Force (1997)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		11
+		5
 	}
 }

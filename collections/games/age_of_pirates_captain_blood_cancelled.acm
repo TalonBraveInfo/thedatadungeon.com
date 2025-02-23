@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Age of Pirates Captain Blood" 
+object collection
+{
+	string name "Captain Blood"
+	array string otherNames { "Age of Pirates: Captain Blood" }
+	array string developers { "SeaWolf Studio" }
 	string type game 
 	string source "Games/Age of Pirates Captain Blood (Cancelled)" 
 	array object links {
@@ -10,5 +12,5 @@ object collection {
 			string title "The Cutting Room Floor" 
 		}
 	}
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
 }

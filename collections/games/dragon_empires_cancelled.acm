@@ -1,8 +1,24 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Dragon Empires" 
+object collection
+{
+	string name "Dragon Empires"
+	array string developers { "Codemasters" }
+	array string publishers { "Codemasters" }
 	string type game 
 	string source "Games/Dragon Empires (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object publications
+	{
+	    {
+	        string url "https://www.bruceongames.com/2008/03/18/codemasters-disasters-2-dragon-empires/"
+	        string title "Codemasters disasters #2 Dragon Empires"
+	        array int16 date { 2008 3 18 }
+	    }
+	    {
+	        string url "https://talonbrave.info/2020/07/20/the-rise-and-fall-of-dragon-empires.html"
+	        string title "The Rise and Fall of Dragon Empires"
+	        array int16 date { 2020 7 20 }
+	    }
+	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Headhunter 
+object collection
+{
+	string name Headhunter
+	array string developers { "Amuze" }
+	array string publishers { "SEGA" }
 	string type game 
 	string source "Games/Headhunter (2001)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		11
+		16
 	}
 }

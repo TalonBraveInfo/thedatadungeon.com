@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Startopia 
+object collection
+{
+	string name Startopia
+	array string developers { "Mucky Foot Productions" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Startopia (2001)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		6
+		15
 	}
 }

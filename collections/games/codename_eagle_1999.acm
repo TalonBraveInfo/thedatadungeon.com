@@ -1,13 +1,14 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Codename Eagle" 
+object collection
+{
+	string name "Codename Eagle"
+	array string developers { "Refraction Games" }
 	string type game 
 	string source "Games/Codename Eagle (1999)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1999 
-		0 
+		11
 		0 
 	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Energy 
+object collection
+{
+	string name Energy
+	array string developers { "Zeus Software" }
+	array string publishers { "Dinamic Multimedia" }
 	string type game 
 	string source "Games/Energy (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2018/10/26/energy-zeus-software-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Overdrive 
+object collection
+{
+	string name "Project Overdrive"
+	array string developers { "Vistage" }
+	array string publishers { "Buka Entertainment" }
 	string type game 
 	string source "Games/Overdrive (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2017/10/24/project-overdrive-vistage-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

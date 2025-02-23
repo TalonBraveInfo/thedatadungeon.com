@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name X-Plane 
+object collection
+{
+	string name X-Plane
+	array string developers { "Laminar Research" "Austin Meyer" }
+	array string publishers { "Laminar Research" "Aerosoft" }
 	string type game 
 	string source "Games/X-Plane (1995)" 
 	string releaseStatus released 

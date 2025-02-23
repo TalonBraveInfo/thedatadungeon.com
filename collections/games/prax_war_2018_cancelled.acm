@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Prax War 2018" 
+object collection
+{
+	string name "Prax War 2018"
+	array string developers { "Rebel Boat Rocker" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Prax War 2018 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2016/07/18/prax-war-2018-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

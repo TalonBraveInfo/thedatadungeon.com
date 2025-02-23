@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Quark 
+object collection
+{
+	string name Quark
+	array string developers { "Quantic Dream" }
 	string type game 
 	string source "Games/Quark (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2024/03/24/quark-dreamcast-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

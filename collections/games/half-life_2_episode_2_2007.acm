@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Half-Life 2 Episode 2" 
+object collection
+{
+	string name "Half-Life 2: Episode Two"
+	array string developers { "Valve" }
+	array string publishers { "Valve" }
 	string type game 
 	string source "Games/Half-Life 2 Episode 2 (2007)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2007 
-		0 
-		0 
+		10
+		10
 	}
 }

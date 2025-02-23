@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Sid Meier's Gettysburg!" 
+object collection
+{
+	string name "Sid Meier's Gettysburg!"
+	array string developers { "Firaxis Games" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Sid Meier's Gettysburg! (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		10
+		14
 	}
 }

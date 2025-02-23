@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Athanor 
+object collection
+{
+	string name Athanor
+	array string developers { "In Vivo" }
+	array string publishers { "Psygnosis" }
 	string type game 
 	string source "Games/Athanor (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/11/athenor-psx-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

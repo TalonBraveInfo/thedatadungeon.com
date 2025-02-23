@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Tomb Raider II" 
+object collection
+{
+	string name "Tomb Raider II"
+	array string developers { "Core Design" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Tomb Raider II (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		11
+		21
 	}
 }

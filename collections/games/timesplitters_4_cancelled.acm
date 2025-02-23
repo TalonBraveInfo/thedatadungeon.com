@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "TimeSplitters 4" 
+object collection
+{
+	string name "TimeSplitters 4"
+	array string developers { "Free Radical Design" }
 	string type game 
 	string source "Games/TimeSplitters 4 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2009/03/24/time-splitters-4-x360ps3-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

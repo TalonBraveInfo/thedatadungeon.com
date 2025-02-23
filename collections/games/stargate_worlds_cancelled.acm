@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Stargate Worlds" 
+object collection
+{
+	string name "Stargate Worlds"
+	array string developers { "Cheyenne Mountain Entertainment" }
+	array string publishers { "FireSky" }
 	string type game 
 	string source "Games/Stargate Worlds (Cancelled)" 
 	string releaseStatus cancelled 

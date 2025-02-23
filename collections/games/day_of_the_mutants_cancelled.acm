@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Day of the Mutants" 
+object collection
+{
+	string name "Day of the Mutants"
+	array string developers { "Techland" }
 	string type game 
 	string source "Games/Day of the Mutants (Cancelled)" 
 	string releaseStatus cancelled 

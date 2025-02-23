@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Stargate SG-1 The Alliance" 
+object collection
+{
+	string name "Stargate SG-1: The Alliance"
+	array string developers { "Perception Pty" }
 	string type game 
 	string source "Games/Stargate SG-1 The Alliance (Cancelled)" 
 	string releaseStatus cancelled 

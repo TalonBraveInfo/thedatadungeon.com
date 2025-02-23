@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Railroad Tycoon II" 
+object collection
+{
+	string name "Railroad Tycoon II"
+	array string developers { "PopTop Software" }
+	array string publishers { "Gathering of Developers" }
 	string type game 
 	string source "Games/Railroad Tycoon II (1998)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
-		0 
+		11
+		2
 	}
 }

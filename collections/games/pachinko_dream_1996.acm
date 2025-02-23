@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Pachinko Dream" 
+object collection
+{
+	string name "Pachinko Dream"
+	array string developers { "Konami Computer Entertainment Tokyo" }
+	array string publishers { "Konami" }
 	string type game 
 	string source "Games/Pachinko Dream (1996)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1996 
-		0 
-		0 
+		10
+		18
 	}
 }

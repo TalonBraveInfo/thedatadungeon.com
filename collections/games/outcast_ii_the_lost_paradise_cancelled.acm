@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Outcast II The Lost Paradise" 
+object collection
+{
+	string name "Outcast II: The Lost Paradise"
+	array string developers { "Appeal Studios" }
+	array string publishers { "Infogrames" }
 	string type game 
 	string source "Games/Outcast II The Lost Paradise (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2022/12/12/outcast-2-the-lost-paradise/"
+	        string title "Unseen64"
+	    }
+	}
 }

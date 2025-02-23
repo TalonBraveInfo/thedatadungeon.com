@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Legend of Legaia" 
+object collection
+{
+	string name "Legend of Legaia"
+	array string developers { "Prokion" }
+	array string publishers { "Sony Computer Entertainment" }
 	string type game 
 	string source "Games/Legend of Legaia (1998)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
-		0 
+		10
+		29
 	}
 }

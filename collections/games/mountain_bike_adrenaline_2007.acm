@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Mountain Bike Adrenaline" 
+object collection
+{
+	string name "Mountain Bike Adrenaline"
+	array string developers { "Fresh 3D" }
+	array string publishers { "Valcon Games" }
 	string type game 
 	string source "Games/Mountain Bike Adrenaline (2007)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2007 
-		0 
-		0 
+		10
+		9
 	}
 }

@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name B-Boy 
+object collection
+{
+	string name B-Boy
+	array string developers { "FreeStyleGames Ltd." }
 	string type game 
 	string source "Games/B-Boy (2006)" 
 	array object links {
@@ -13,7 +14,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2006 
-		0 
+		9
 		0 
 	}
 }

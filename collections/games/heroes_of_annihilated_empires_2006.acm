@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Heroes of Annihilated Empires" 
+object collection
+{
+	string name "Heroes of Annihilated Empires"
+	array string developers { "GSC Game World" }
+	array string publishers { "GSC World Publishing" }
 	string type game 
 	string source "Games/Heroes of Annihilated Empires (2006)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2006 
-		0 
-		0 
+		10
+		5
 	}
 }

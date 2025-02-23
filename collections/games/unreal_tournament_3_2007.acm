@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Unreal Tournament 3" 
+object collection
+{
+	string name "Unreal Tournament 3"
+	array string developers { "Epic Games" }
+	array string publishers { "Midway Games" }
 	string type game 
 	string source "Games/Unreal Tournament 3 (2007)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2007 
-		0 
-		0 
+		11
+		19
 	}
 }

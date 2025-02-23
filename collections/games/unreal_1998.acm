@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Unreal 
+object collection
+{
+	string name Unreal
+	array string developers { "Epic MegaGames" "Digital Extremes" }
+	array string publishers { "GT Interactive" }
 	string type game 
 	string source "Games/Unreal (1998)" 
 	array object links {
@@ -10,10 +12,23 @@ object collection {
 			string title "The Cutting Room Floor" 
 		}
 	}
+	array object publications
+	{
+	    {
+	        string url "https://web.archive.org/web/20001008035502/http://headline.gamespot.com/news/98_05/22_unrealp/index.html"
+	        string title "Unreal's Special Delivery"
+	        array int16 date { 1998 5 22 }
+	    }
+	    {
+	        string url "https://web.archive.org/web/20000411175344/http://pc.ign.com:80/news/4686.html"
+	        string title "Unreal to Get TV Push"
+	        array int16 date { 1998 9 3 }
+	    }
+	}
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
-		0 
+		5
+		22
 	}
 }

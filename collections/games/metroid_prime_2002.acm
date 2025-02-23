@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Metroid Prime" 
+object collection
+{
+	string name "Metroid Prime"
+	array string developers { "Retro Studios" }
+	array string publishers { "Nintendo" }
 	string type game 
 	string source "Games/Metroid Prime (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		11
+		18
 	}
 }

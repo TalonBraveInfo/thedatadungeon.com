@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Creation 
+object collection
+{
+	string name Creation
+	array string developers { "Bullfrog Productions" }
 	string type game 
 	string source "Games/Creation (Cancelled)" 
 	array object links {

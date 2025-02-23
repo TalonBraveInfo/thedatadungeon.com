@@ -1,8 +1,30 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Titan A.E." 
+object collection
+{
+	string name "Titan A.E."
+	array string developers { "Blitz Games Studios" }
+	array string publishers { "Fox Interactive" }
 	string type game 
 	string source "Games/Titan A.E. (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2023/09/23/titan-ae-psx-pc-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
+	array object publications
+	{
+	    {
+	        string url "https://www.ign.com/articles/2000/06/23/titan-ae-3"
+	        string title "Titan A.E."
+	        array int16 date { 2000 6 23 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2000/07/27/titan-ae-canned"
+	        string title "Titan A.E. Canned"
+	        array int16 date { 2000 7 27 }
+	    }
+	}
 }

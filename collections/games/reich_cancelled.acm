@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Reich 
+object collection
+{
+	string name Reich
+	array string otherNames { "Reich: Downfall" }
 	string type game 
 	string source "Games/Reich (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2010/11/23/reich-xbox-360-ps3-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

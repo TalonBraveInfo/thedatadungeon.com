@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Final Fantasy X" 
+object collection
+{
+	string name "Final Fantasy X"
+	array string developers { "Square Product Development Division 1" }
+	array string publishers { "Square" }
 	string type game 
 	string source "Games/Final Fantasy X (2001)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		7
+		19
 	}
 }

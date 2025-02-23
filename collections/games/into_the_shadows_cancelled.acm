@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Into the Shadows" 
+object collection
+{
+	string name "Into the Shadows"
+	array string developers { "Triton" }
+	array string publishers { "Scavenger" }
 	string type game 
 	string source "Games/Into the Shadows (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/10/into-the-shadows-saturn-unreleased/"
+	        string title "Unseen64"
+	    }
+	}
 }

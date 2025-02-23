@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Goblins 
+object collection
+{
+	string name Goblins
+	array string developers { "Psygnosis" }
 	string type game 
 	string source "Games/Goblins (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2019/07/15/goblins-psygnosis-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

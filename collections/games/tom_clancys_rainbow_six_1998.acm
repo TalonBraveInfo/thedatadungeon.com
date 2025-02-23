@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Tom Clancy's Rainbow Six" 
+object collection
+{
+	string name "Tom Clancy's Rainbow Six"
+	array string developers { "Red Storm Entertainment" }
+	array string publishers { "Red Storm Entertainment" }
 	string type game 
 	string source "Games/Tom Clancy's Rainbow Six (1998)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1998 
-		0 
-		0 
+		8
+		21
 	}
 }

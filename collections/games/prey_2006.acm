@@ -1,13 +1,38 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Prey 
+object collection
+{
+	string name Prey
+	array string developers { "Human Head Studios" }
+	array string publishers { "2K Games" }
 	string type game 
 	string source "Games/Prey (2006)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2006 
-		0 
-		0 
+		7
+		11
+	}
+	array object publications
+	{
+	    {
+	        string url "https://archive.org/details/NEXT_Generation_33/page/n71/mode/2up"
+	        string title "NG Alphas: Prey"
+	        array int16 date { 1997 9 0 }
+	    }
+	    {
+	        string url "https://legacy.3drealms.com/news/1998/11/corrinne_yu_pre.html"
+	        string title "Corrinne Yu Press Release"
+	        array int16 date { 1998 11 20 }
+	    }
+	    {
+	        string url "https://legacy.3drealms.com/news/1999/04/rumor_control_o.html"
+	        string title "Rumor Control on Duke Nukem Forever & Prey"
+	        array int16 date { 1999 4 29 }
+	    }
+	    {
+	        string url "https://web.archive.org/web/20070217160238/http://pc.gamezone.com/news/06_28_06_09_55AM.htm"
+	        string title "2K Announces Prey has Gone Gold"
+	        array int16 date { 2006 6 28 }
+	    }
 	}
 }

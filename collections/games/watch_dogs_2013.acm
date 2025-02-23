@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Watch Dogs" 
+object collection
+{
+	string name "Watch Dogs"
+	array string developers { "Ubisoft Montreal" }
+	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/Watch Dogs (2013)" 
 	string releaseStatus released 
 	array int16 releaseDate {
-		2013 
-		0 
-		0 
+		2014
+		5
+		27
 	}
 }

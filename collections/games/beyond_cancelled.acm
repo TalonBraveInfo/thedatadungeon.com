@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Beyond 
+object collection
+{
+	string name Beyond
+	array string developers { "TeslaLab Interactive, LLC" }
 	string type game 
 	string source "Games/Beyond (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object publications
+	{
+	    {
+	        string url "https://talonbrave.info/2025/02/01/beyond.html"
+	        string title "What's Beyond?"
+	        array date { 2025 2 1 }
+	    }
+	}
 }

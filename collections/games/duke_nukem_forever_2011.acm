@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Duke Nukem Forever" 
+object collection
+{
+	string name "Duke Nukem Forever"
+	array string developers { "3D Realms" "Gearbox Software" }
+	array string publishers { "2K" }
 	string type game 
 	string source "Games/Duke Nukem Forever (2011)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2011 
-		0 
-		0 
+		6
+		10
 	}
 }

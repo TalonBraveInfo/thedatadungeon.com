@@ -1,7 +1,9 @@
 node.utf8
 object collection
 {
-	string name Daikatana 
+	string name Daikatana
+	array string developers { "Ion Storm" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Daikatana (2000)"
 
@@ -16,7 +18,7 @@ object collection
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		5
+		23
 	}
 }

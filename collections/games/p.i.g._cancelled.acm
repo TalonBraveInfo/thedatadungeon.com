@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Politically Incorrect Game" 
+object collection
+{
+	string name "Politically Incorrect Game"
+	array string otherNames { "P.I.G." }
 	string type game 
 	string source "Games/Politically Incorrect Game (Cancelled)" 
 	array object links {

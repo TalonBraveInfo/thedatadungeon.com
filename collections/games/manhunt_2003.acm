@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Manhunt 
+object collection
+{
+	string name Manhunt
+	array string developers { "Rockstar North" }
+	array string publishers { "Rockstar Games" }
 	string type game 
 	string source "Games/Manhunt (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		11
+		19
 	}
 }

@@ -1,13 +1,14 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "V-Rally 2" 
+object collection
+{
+	string name "V-Rally 2"
+	array string developers { "Eden Studios" }
 	string type game 
 	string source "Games/V-Rally 2 (1999)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1999 
-		0 
-		0 
+		6
+		25
 	}
 }

@@ -1,6 +1,6 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
+object collection
+{
 	string name "Command & Conquer 3" 
 	string type game 
 	string source "Games/Command & Conquer 3 (Cancelled)" 

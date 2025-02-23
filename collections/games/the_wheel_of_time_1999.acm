@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "The Wheel of Time" 
+object collection
+{
+	string name "The Wheel of Time"
+	array string developers { "Legend Entertainment" }
+	array string publishers { "GT Interactive" }
 	string type game 
 	string source "Games/The Wheel of Time (1999)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1999 
-		0 
-		0 
+		11
+		9
 	}
 }

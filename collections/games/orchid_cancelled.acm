@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Orchid 
+object collection
+{
+	string name Orchid
+	array string developers { "Argonaut Games" }
+	array string publishers { "Namco" }
 	string type game 
 	string source "Games/Orchid (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/15/orchid-xboxps2-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Warriors of Might and Magic" 
+object collection
+{
+	string name "Warriors of Might and Magic"
+	array string developers { "The 3DO Company" }
+	array string publishers { "The 3DO Company" }
 	string type game 
 	string source "Games/Warriors of Might and Magic (2000)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		12
+		5
 	}
 }

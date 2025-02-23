@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Prey 
+object collection
+{
+	string name Prey
+	array string developers { "Arkane Austin" }
+	array string publishers { "Bethesda Softworks" }
 	string type game 
 	string source "Games/Prey (2017)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2017 
-		0 
-		0 
+		5
+		5
 	}
 }

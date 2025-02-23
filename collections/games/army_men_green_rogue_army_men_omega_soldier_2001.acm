@@ -1,13 +1,14 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Army Men Green Rogue (Army Men Omega Soldier)" 
+object collection
+{
+	string name "Army Men Green Rogue"
+	array string otherNames { "Army Men Omega Soldier" }
 	string type game 
 	string source "Games/Army Men Green Rogue (Army Men Omega Soldier) (2001)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		3
+		20
 	}
 }

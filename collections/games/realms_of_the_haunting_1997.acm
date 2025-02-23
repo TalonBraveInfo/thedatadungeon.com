@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Realms of the Haunting" 
+object collection
+{
+	string name "Realms of the Haunting"
+	array string developers { "Gremlin Interactive" }
+	array string publishers { "Interplay Productions" }
 	string type game 
 	string source "Games/Realms of the Haunting (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
-		1997 
-		0 
+		1996
+		12
 		0 
 	}
 }

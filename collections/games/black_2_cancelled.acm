@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Black 2" 
+object collection
+{
+	string name "Black 2"
+	array string developers { "Criterion Games" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Black 2 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2015/01/05/black-2-xbox-360-ps3-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Project Nomads" 
+object collection
+{
+	string name "Project Nomads"
+	array string developers { "Radon Labs" }
+	array string publishers { "CDV" }
 	string type game 
 	string source "Games/Project Nomads (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		11
+		5
 	}
 }

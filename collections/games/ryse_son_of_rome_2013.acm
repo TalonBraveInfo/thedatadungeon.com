@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Ryse Son of Rome" 
+object collection
+{
+	string name "Ryse Son of Rome"
+	array string developers { "Crytek" }
+	array string publishers { "Microsoft Studios" }
 	string type game 
 	string source "Games/Ryse Son of Rome (2013)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2013 
-		0 
-		0 
+		11
+		22
 	}
 }

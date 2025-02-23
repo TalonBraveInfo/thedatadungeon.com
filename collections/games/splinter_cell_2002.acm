@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Splinter Cell" 
+object collection
+{
+	string name "Tom Clancy's Splinter Cell"
+	array string developers { "Ubi Soft Montreal" }
+	array string publishers { "Ubi Soft" }
 	string type game 
 	string source "Games/Splinter Cell (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		11
+		18
 	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Saboteur 
+object collection
+{
+	string name Saboteur
+	array string developers { "Tigon Software" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Saboteur (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/11/saboteur-psx-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Nomad Soul Exodus" 
+object collection
+{
+	string name "Omikron 2"
+	array string otherNames { "Nomad Soul: Exodus" "Omikron 2: Karma" }
+	array string developers { "Quantic Dream" }
 	string type game 
 	string source "Games/Nomad Soul Exodus (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/10/29/omikron-2-nomad-soul-exodus-dreamcastps2-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

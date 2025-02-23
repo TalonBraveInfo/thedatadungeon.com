@@ -1,13 +1,28 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Rayman 3 Hoodlum Havoc" 
+object collection
+{
+	string name "Rayman 3 Hoodlum Havoc"
+	array string developers { "Ubi Pictures" }
+	array string publishers { "Ubi Soft" }
 	string type game 
 	string source "Games/Rayman 3 Hoodlum Havoc (2003)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2003 
-		0 
-		0 
+		2
+		21
+	}
+	array object publications
+	{
+	    {
+	        string url "https://www.gamespot.com/articles/rayman-3-ships/1100-2912040/"
+	        string title "Rayman 3 ships"
+	        array int16 date { 2003 3 4 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2003/03/18/rayman-3-ships"
+	        string title "Rayman 3 Ships"
+	        array int16 date { 2003 3 18 }
+	    }
 	}
 }

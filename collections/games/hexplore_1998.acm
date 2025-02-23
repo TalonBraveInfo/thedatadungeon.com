@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Hexplore 
+object collection
+{
+	string name Hexplore
+	array string developers { "Heliovisions Productions" }
+	array string publishers { "Infogrames Multimedia" }
 	string type game 
 	string source "Games/Hexplore (1998)" 
 	string releaseStatus released 

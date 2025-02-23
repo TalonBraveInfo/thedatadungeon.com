@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Aliens Colonial Marines" 
+object collection
+{
+	string name "Aliens Colonial Marines"
+	array string developers { "Gearbox Software" }
+	array string publishers { "SEGA" }
 	string type game 
 	string source "Games/Aliens Colonial Marines (2013)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2013 
-		0 
-		0 
+		2
+		12
 	}
 }

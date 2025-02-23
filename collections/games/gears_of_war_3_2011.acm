@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Gears of War 3" 
+object collection
+{
+	string name "Gears of War 3"
+	array string developers { "Epic Games" }
+	array string publishers { "Microsoft Studios" }
 	string type game 
 	string source "Games/Gears of War 3 (2011)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2011 
-		0 
-		0 
+		9
+		20
 	}
 }

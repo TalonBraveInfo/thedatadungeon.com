@@ -1,6 +1,6 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
+object collection
+{
 	string name "Chaos Kingdom" 
 	string type game 
 	string source "Games/Chaos Kingdom (Cancelled)" 

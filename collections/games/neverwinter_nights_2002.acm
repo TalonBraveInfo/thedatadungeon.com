@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Neverwinter Nights" 
+object collection
+{
+	string name "Neverwinter Nights"
+	array string developers { "BioWare" "Obsidian Entertainment" }
+	array string publishers { "Atari" }
 	string type game 
 	string source "Games/Neverwinter Nights (2002)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2002 
-		0 
-		0 
+		6
+		18
 	}
 }

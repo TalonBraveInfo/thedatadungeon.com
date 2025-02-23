@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name WiLD 
+object collection
+{
+	string name WiLD
+	array string developers { "Wild Sheep Studio" }
+	array string publishers { "Sony Interactive Entertainment" }
 	string type game 
 	string source "Games/WiLD (Cancelled)" 
 	string releaseStatus cancelled 

@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "D. JUMP" 
+object collection
+{
+	string name "D-Jump"
+	array string developers { "Ubisoft Paris" }
+	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/D. JUMP (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2010/11/20/d-jump-dreamcast-ps2-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

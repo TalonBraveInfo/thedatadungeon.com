@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Under Pressure" 
+object collection
+{
+	string name "Under Pressure"
+	array string developers { "Rage Software" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Under Pressure (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2021/06/04/under-pressure-rage-software-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

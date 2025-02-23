@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Alien Bash II" 
+object collection
+{
+	string name "Alien Bash II"
+	array string publishers { "Amiga Format" }
 	string type game 
 	string source "Games/Alien Bash II (1996)" 
 	string releaseStatus released 

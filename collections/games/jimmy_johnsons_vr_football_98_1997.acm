@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Jimmy Johnson's VR Football '98" 
+object collection
+{
+	string name "Jimmy Johnson's VR Football '98"
+	array string developers { "Padded Cell Studios" }
+	array string publishers { "VR Sports" }
 	string type game 
 	string source "Games/Jimmy Johnson's VR Football '98 (1997)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		1997 
-		0 
-		0 
+		11
+		13
 	}
 }

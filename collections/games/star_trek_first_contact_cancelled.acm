@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Star Trek First Contact" 
+object collection
+{
+	string name "Star Trek: First Contact"
+	array string developers { "MicroProse" }
+	array string publishers { "MicroProse" }
 	string type game 
 	string source "Games/Star Trek First Contact (Cancelled)" 
 	string releaseStatus cancelled 

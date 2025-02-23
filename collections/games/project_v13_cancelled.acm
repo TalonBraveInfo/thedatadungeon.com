@@ -1,7 +1,10 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Project V13" 
+object collection
+{
+	string name "Fallout Online"
+	array string otherNames { "Project V13" }
+	array string developers { "Interplay Entertainment" "Masthead Studios" }
+	array string publishers { "Interplay Entertainment" }
 	string type game 
 	string source "Games/Project V13 (Cancelled)" 
 	string releaseStatus cancelled 

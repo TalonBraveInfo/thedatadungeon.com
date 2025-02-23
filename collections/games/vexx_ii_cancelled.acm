@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Vexx II" 
+object collection
+{
+	string name "Vexx II"
+	array string developers { "Acclaim Studios Austin" }
+	array string publishers { "Acclaim Entertainment" }
 	string type game 
 	string source "Games/Vexx II (Cancelled)" 
 	string releaseStatus cancelled 

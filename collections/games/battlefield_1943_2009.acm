@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Battlefield 1943" 
+object collection
+{
+	string name "Battlefield 1943"
+	array string developers { "DICE" }
+	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Battlefield 1943 (2009)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2009 
-		0 
-		0 
+		7
+		8
 	}
 }

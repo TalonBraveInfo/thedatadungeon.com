@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Alien Swarm" 
+object collection
+{
+	string name "Alien Swarm"
+	array string developers { "Valve" }
+	array string publishers { "Valve" }
 	string type game 
 	string source "Games/Alien Swarm (2010)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2010 
-		0 
-		0 
+		7
+		19
 	}
 }

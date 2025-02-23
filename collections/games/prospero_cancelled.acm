@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Prospero 
+object collection
+{
+	string name Prospero
+	array string developers { "Valve" }
 	string type game 
 	string source "Games/Prospero (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/07/prospero-pc-valve-prototype/"
+	        string title "Unseen64"
+	    }
+	}
 }

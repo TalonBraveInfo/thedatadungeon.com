@@ -1,8 +1,16 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Witchwood 
+object collection
+{
+	string name Witchwood
+	array string developers { "Team17" }
 	string type game 
 	string source "Games/Witchwood (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2015/08/03/witchwood-team-17-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

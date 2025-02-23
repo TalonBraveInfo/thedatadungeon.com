@@ -1,7 +1,10 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Duke Nukem Begins" 
+object collection
+{
+	string name "Duke Nukem Begins"
+	array string otherNames { "Duke Begins" }
+	array string developers { "Gearbox Software" }
+	array string publishers { "Take-Two Interactive" "3D Realms" }
 	string type game 
 	string source "Games/Duke Nukem Begins (Cancelled)" 
 	array object links {

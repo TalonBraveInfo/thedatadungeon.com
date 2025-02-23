@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "In Pursuit of Greed" 
+object collection
+{
+	string name "In Pursuit of Greed"
+	array string developers { "Mind Shear Software" }
 	string type game 
 	string source "Games/In Pursuit of Greed (1995)" 
 	string releaseStatus released 

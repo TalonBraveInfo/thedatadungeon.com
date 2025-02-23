@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Jeremy McGrath Supercross World" 
+object collection
+{
+	string name "Jeremy McGrath Supercross World"
+	array string developers { "Acclaim Studios Salt Lake City" }
+	array string publishers { "Acclaim Entertainment" }
 	string type game 
 	string source "Games/Jeremy McGrath Supercross World (2001)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
-		0 
-		0 
+		11
+		14
 	}
 }

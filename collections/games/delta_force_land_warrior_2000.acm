@@ -1,13 +1,15 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Delta Force Land Warrior" 
+object collection
+{
+	string name "Delta Force Land Warrior"
+	array string developers { "NovaLogic" }
+	array string publishers { "NovaLogic" }
 	string type game 
 	string source "Games/Delta Force Land Warrior (2000)" 
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		11
+		8
 	}
 }

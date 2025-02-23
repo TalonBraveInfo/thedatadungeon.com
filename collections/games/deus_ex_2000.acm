@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Deus Ex" 
+object collection
+{
+	string name "Deus Ex"
+	array string developers { "Ion Storm" }
+	array string publishers { "Eidos Interactive" }
 	string type game 
 	string source "Games/Deus Ex (2000)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2000 
-		0 
-		0 
+		6
+		23
 	}
 }

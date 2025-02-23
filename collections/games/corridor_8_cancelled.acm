@@ -1,7 +1,8 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Corridor 8" 
+object collection
+{
+	string name "Corridor 8: Galactic Wars"
+	array string developers { "Capstone Software" }
 	string type game 
 	string source "Games/Corridor 8 (Cancelled)" 
 	string releaseStatus cancelled 

@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Final Fantasy Fortress Project" 
+object collection
+{
+	string name "Final Fantasy Fortress Project"
+	array string developers { "Grin" }
+	array string publishers { "Square Enix" }
 	string type game 
 	string source "Games/Final Fantasy Fortress Project (Cancelled)" 
 	string releaseStatus cancelled 

@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Gears of War Judgement" 
+object collection
+{
+	string name "Gears of War Judgement"
+	array string developers { "People Can Fly" "Epic Games" }
+	array string publishers { "Microsoft Studios" }
 	string type game 
 	string source "Games/Gears of War Judgement (2013)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		2013 
-		0 
-		0 
+		3
+		19
 	}
 }

@@ -1,8 +1,39 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Black9 
+object collection
+{
+	string name Black9
+	array string otherNames { "Black 9" }
+	array string developers { "Taldren" }
+	array string publishers { "Majesco" }
 	string type game 
 	string source "Games/Black9 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object publications
+	{
+	    {
+	        string url "https://www.ign.com/articles/2003/05/29/black-9-stills?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
+	        string title "Black 9 Stills"
+	        array int16 date { 2003 5 29 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2003/08/19/black-9-site-re-launched?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
+	        string title "Black 9 Site Re-launched"
+	        array int16 date { 2003 8 19 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2004/06/25/taldren-closes?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
+	        string title "Taldren Closes?"
+	        array int16 date { 2004 6 25 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2004/06/28/black-9-officially-canceled?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
+	        string title "Black 9 Officially Canceled"
+	        array int16 date { 2004 6 28 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2004/06/30/more-on-the-taldren-closure?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
+	        string title "More on the Taldren Closure"
+	        array int16 date { 2004 6 30 }
+	    }
+	}
 }

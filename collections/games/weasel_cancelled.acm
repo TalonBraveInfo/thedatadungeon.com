@@ -1,8 +1,17 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name Weasel 
+object collection
+{
+	string name "Crank the Weasel"
+	array string developers { "Midway Games" }
+	array string publishers { "Midway Games" }
 	string type game 
 	string source "Games/Weasel (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://www.unseen64.net/2008/04/15/crank-the-weasel-xboxps2-cancelled/"
+	        string title "Unseen64"
+	    }
+	}
 }

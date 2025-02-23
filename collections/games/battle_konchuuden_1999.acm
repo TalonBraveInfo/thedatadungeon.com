@@ -1,7 +1,9 @@
 node.utf8
-; this node file has been auto-generated!
-object collection {
-	string name "Battle Konchuuden" 
+object collection
+{
+	string name "Battle Konchuuden"
+	array string developers { "Jaleco" }
+	array string publishers { "Jaleco" }
 	string type game 
 	string source "Games/Battle Konchuuden (1999)" 
 	array object links {
@@ -13,7 +15,7 @@ object collection {
 	string releaseStatus released 
 	array int16 releaseDate {
 		1999 
-		0 
-		0 
+		1
+		21
 	}
 }
