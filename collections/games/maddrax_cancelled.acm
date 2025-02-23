@@ -7,7 +7,7 @@ object collection
 	string source "Games/Maddrax (Cancelled)" 
 	string releaseStatus cancelled
 
-	array objects links
+	array object links
 	{
 	    {
             string url "https://www.unseen64.net/2020/03/12/maddrax-soft-enterprises-cancelled/"
