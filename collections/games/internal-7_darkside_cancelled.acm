@@ -7,5 +7,23 @@ object collection
 	array string publishers { "Sony Interactive Entertainment" }
 	string type game 
 	string source "Games/Internal-7 (Darkside) (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+	array object publications
+	{
+	    {
+	        string url "https://nerdleaks.com/videogames/sony-santa-monicas-cancelled-ip-here-are-all-the-information-296/"
+	        string title "SONY SANTA MONICA’S CANCELLED IP: HERE ARE ALL THE INFORMATION"
+	        array int16 date { 2017 2 15 }
+	    }
+	    {
+	        string url "https://80.lv/articles/the-art-of-sony-santa-monicas-cancelled-ip/"
+	        string title "The Art of Sony Santa Monica’s Cancelled IP"
+	        array int16 date { 2017 2 17 }
+	    }
+	    {
+	        string url "https://dontfeedthegamers.com/god-war-developer-sci-fi-game-darkside/"
+	        string title "A Look at God of War Developers’ Cancelled Sci-fi Game, Code Named ‘Darkside’"
+	        array int16 date { 2017 2 18 }
+	    }
+	}
 }

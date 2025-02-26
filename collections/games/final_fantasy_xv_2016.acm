@@ -22,6 +22,11 @@ object collection
 	
 	array object publications
 	{
+	    {
+	        string url "https://www.ign.com/articles/2008/02/22/gdc-2008-final-fantasy-updates"
+	        string title "GDC 2008: Final Fantasy Updates"
+	        array int16 date { 2008 2 22 }
+	    }
 		{
 			string url "https://web.archive.org/web/20150918221416/http://gematsu.com/2008/06/square-enixs-party-2008-announced"
 			string title "Square Enix’s Party 2008 Announced"
@@ -138,6 +143,11 @@ object collection
 			array int16 date { 2010 10 18 }
 		}
 		{
+		    string url "https://web.archive.org/web/20111116024637/http://www.finalfantasy.net/versus/xiii-details-weeks-famitsu/"
+		    string title "XIII-2/Versus/Type-0 details in this week’s DPS"
+		    array int16 date { 2011 1 24 }
+		}
+		{
 			string url "https://web.archive.org/web/20110802091448/http://www.andriasang.com/e/blog/2011/01/25/ff_versus_xiii_update/"
 			string title "Final Fantasy Versus XIII Update"
 			array int16 date { 2011 1 25 }
@@ -221,6 +231,11 @@ object collection
 			string url "https://web.archive.org/web/20130317175548/http://gematsu.com/2013/03/ff-versus-xiii-outfit-designer-lists-game-as-final-fantasy-15"
 			string title "Final Fantasy Versus XIII outfit designer lists game as “Final Fantasy 15“ [Update]"
 			array int16 date { 2013 3 15 }
+		}
+		{
+		    string url "https://squareportal.net/2014/12/29/fifteen-new-final-fantasy-xv-concept-arts-npc-footage-from-comicfiesta/"
+		    string title "Fifteen New Final Fantasy XV Concept Arts & NPC Footage from ComicFiesta"
+		    array int16 date { 2014 12 29 }
 		}
 		{
 			string url "https://web.archive.org/web/20150605003653/https://www.gameinformer.com/b/news/archive/2015/06/04/final-fantasy-xv-s-entirely-drops-versus-xii_2700_s-heroine-stella-episode-duscae-2-0-next-week.aspx"

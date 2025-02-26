@@ -8,6 +8,13 @@ object collection
 	string type game 
 	string source "Games/Black9 (Cancelled)" 
 	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://web.archive.org/web/20040327004816/http://black-9.com/"
+	        sting title "Official Website"
+	    }
+	}
 	array object publications
 	{
 	    {
@@ -19,6 +26,11 @@ object collection
 	        string url "https://www.ign.com/articles/2003/08/19/black-9-site-re-launched?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
 	        string title "Black 9 Site Re-launched"
 	        array int16 date { 2003 8 19 }
+	    }
+	    {
+	        string url "https://web.archive.org/web/20040218103444/http://actionvault.ign.com/features/interviews/black9int.shtml"
+	        string title "Black9 Interview"
+	        array int16 date { 2003 8 29 }
 	    }
 	    {
 	        string url "https://www.ign.com/articles/2004/06/25/taldren-closes?_gl=1*1jo4lja*_up*MQ..*_ga*MjkzNjcyODIuMTc0MDE1OTA1Nw..*_ga_736S6FVMCL*MTc0MDE1OTA1Ni4xLjAuMTc0MDE1OTA1Ni4wLjAuMA.."
