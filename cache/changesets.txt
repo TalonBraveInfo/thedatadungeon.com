@@ -359,3 +359,5 @@ Introduced a new 'Publications' section under which you can find various article
 Overhauled the general look of the site once again
 Collection metadata can now be found <a href="https://github.com/TalonBraveInfo/thedatadungeon.com/tree/master/collections/games">here</a>
 Some links may be duplicated, this will be fixed with the next update!
+changeset 1740694744 1
+Added 14 <a href="final_fantasy_xv_2016.html#artworks">artworks</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
