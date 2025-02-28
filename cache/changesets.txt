@@ -361,3 +361,7 @@ Collection metadata can now be found <a href="https://github.com/TalonBraveInfo/
 Some links may be duplicated, this will be fixed with the next update!
 changeset 1740694744 1
 Added 14 <a href="final_fantasy_xv_2016.html#artworks">artworks</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+changeset 1740757296 3
+Added 1 <a href="manhunt_2003.html#others">others</a>, under <a href="manhunt_2003.html">Manhunt</a>
+Added 1 <a href="command__conquer_generals_2003.html#distributions">distributions</a>, under <a href="command__conquer_generals_2003.html">Command & Conquer Generals</a>
+Added 1 <a href="command__conquer_renegade_2002.html#distributions">distributions</a>, under <a href="command__conquer_renegade_2002.html">Command & Conquer Renegade</a>
