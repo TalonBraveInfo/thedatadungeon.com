@@ -83,6 +83,11 @@ object collection
 			array int16 date { 2009 12 20 }
 		}
 		{
+		    string url "https://web.archive.org/web/20120906084327/http://andriasang.com/comfhq/tetsuya_nomura_true_intentions"
+		    string title "Tetsuya Nomura's True Intentions Discovered"
+		    array int16 date { 2009 12 29 }
+		}
+		{
 			string url "https://web.archive.org/web/20100522070516/http://www.andriasang.com:80/e/blog/2010/02/17/ff_versus_xiii_may_miss_e3/"
 			string title "Final Fantasy Versus XIII Uncertain For E3"
 			array int16 date { 2010 2 17 }
@@ -148,6 +153,11 @@ object collection
 		    array int16 date { 2011 1 24 }
 		}
 		{
+		    string url "https://web.archive.org/web/20120809035635/http://andriasang.com/comtka/ffvxiii_jump_noctis/"
+		    string title "Final Fantasy Versus XIII Main Character's Outlook"
+		    array int16 date { 2011 1 24 }
+		}
+		{
 			string url "https://web.archive.org/web/20110802091448/http://www.andriasang.com/e/blog/2011/01/25/ff_versus_xiii_update/"
 			string title "Final Fantasy Versus XIII Update"
 			array int16 date { 2011 1 25 }
@@ -158,6 +168,16 @@ object collection
 			array int16 date { 2011 1 26 }
 		}
 		{
+		    string url "https://web.archive.org/web/20121225040816/http://andriasang.com/comu1x/v_jump_versus_xiii/"
+		    string title "V Jump Lists Final Fantasy Versus XIII For Xbox 360"
+		    array int16 date { 2011 2 21 }
+		}
+		{
+		    string url "https://web.archive.org/web/20121225051808/http://andriasang.com/comws7/ff_versus_xiii_followup/"
+		    string title "Final Fantasy Versus XIII Followup Possibly Coming Next Week"
+		    array int16 date { 2011 7 5 }
+		}
+		{
 			string url "https://web.archive.org/web/20110715155459/http://www.gameinformer.com/b/news/archive/2011/07/13/nomura-dishes-out-more-versus-xiii-details-sort-of.aspx"
 			string title "Nomura Dishes Out More Versus XIII Details…Sort Of"
 			array int16 date { 2011 7 13 }
@@ -166,6 +186,11 @@ object collection
 			string url "https://web.archive.org/web/20110714232452/http://www.andriasang.com/e/blog/2011/07/13/nomura_on_ff_versus_xiii/"
 			string title "Tetsuya Nomura Discusses Final Fantasy Versus XIII"
 			array int16 date { 2011 7 13 }
+		}
+		{
+		    string url "https://web.archive.org/web/20121004084709/http://andriasang.com/comxhb/versus_xiii_tgs/"
+		    string title "No Final Fantasy Versus XIII at Tokyo Game Show"
+		    array int16 date { 2011 8 9 }
 		}
 		{
 			string url "https://web.archive.org/web/20121225053051/http://andriasang.com/comxio/nomura_dengeki_cover/"

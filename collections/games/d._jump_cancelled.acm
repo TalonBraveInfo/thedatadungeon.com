@@ -1,7 +1,7 @@
 node.utf8
 object collection
 {
-	string name "D-Jump"
+	string name "D. JUMP" ; this is the name used in a press-release, so let's go with that...
 	array string developers { "Ubisoft Paris" }
 	array string publishers { "Ubisoft" }
 	string type game 
