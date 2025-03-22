@@ -1,0 +1,19 @@
+node.utf8
+object collection
+{
+    string name "EIN"
+    array string otherNames { "Epicus Incognitus" }
+    string type game
+    string releaseStatus cancelled
+
+    string source "Games/EIN (Cancelled)"
+
+    array object publications
+    {
+        {
+            string url "https://web.archive.org/web/20250314082358/https://epicusinsider.wordpress.com/2012/11/22/thoughts-hopes-and-concerns/"
+            string title "Thoughts, Hopes, and Concerns"
+            array int16 date { 2012 11 22 }
+        }
+    }
+}

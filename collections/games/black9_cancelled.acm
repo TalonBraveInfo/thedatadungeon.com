@@ -12,7 +12,7 @@ object collection
 	{
 	    {
 	        string url "https://web.archive.org/web/20040327004816/http://black-9.com/"
-	        sting title "Official Website"
+	        string title "Official Website"
 	    }
 	}
 	array object publications

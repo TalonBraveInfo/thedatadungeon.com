@@ -15,6 +15,11 @@ object collection
 	array object publications
 	{
 	    {
+	        string url "https://web.archive.org/web/19981206093002/http://www.gamespot.com/features/broussard/"
+	        string title "On the Spot: George Broussard"
+	        array int16 date { 1996 8 0 }
+	    }
+	    {
 	        string url "https://archive.org/details/NEXT_Generation_33/page/n71/mode/2up"
 	        string title "NG Alphas: Prey"
 	        array int16 date { 1997 9 0 }
