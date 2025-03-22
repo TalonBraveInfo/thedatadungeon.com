@@ -1,0 +1,50 @@
+node.utf8
+object collection
+{
+	string name "Resident Evil 4"
+    array string developers { "Capcom Production Studio 4" }
+    array string publishers { "Capcom" }
+	string type game
+    array int16 releaseDate { 2005 1 11 }
+	string source "Games/Resident Evil 4 (2005)"
+
+	array object publications
+	{
+	    {
+	        string url "https://web.archive.org/web/20020209163243/http://www.capcom.co.jp/bio/special/vol02/index.html"
+	        string title "(2) 実験動画背景"
+	        ; date sourced from https://www.crimson-head.com/articles/biohazard-35
+	        array int16 date { 2001 11 2 }
+	    }
+	    {
+	        string url "https://game.watch.impress.co.jp/docs/20021114/capcom.htm"
+	        string title "カプコン、「biohazard4」など 個性の強い大人向け作品を一挙に5タイトル発表"
+	        array int16 date { 2002 11 14 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2002/11/14/resident-evil-4-details"
+	        string title "Resident Evil 4 Details"
+	        array int16 date { 2002 11 14 }
+	    }
+	    {
+	        string url "https://www.ign.com/articles/2002/11/18/inside-the-capcom-conference"
+	        string title "Inside the Capcom Conference"
+	        array int16 date { 2002 11 18 }
+	    }
+	    {
+	        string url "http://cube.gamespy.com/gamecube/resident-evil-4/551775p1.html"
+	        string title "Hiroyuki Kobayashi on Resident Evil 4 & Killer 7"
+	        array int16 date { 2004 9 27 }
+	    }
+	    {
+	        string url "https://www.relyonhorror.com/all/exclusive-interview-with-hiroyuki-kobayashi-producer-of-re4/"
+	        string title "Exclusive interview with Hiroyuki Kobayashi (Producer of RE4)"
+	        array int16 date { 2010 6 8 }
+	    }
+	    {
+	        string url "https://www.eurogamer.net/inside-the-resident-evil-4-that-never-was"
+	        string title "Yasuhisa Kawamura and the Resident Evil that never was"
+	        array int16 date { 2015 1 18 }
+	    }
+	}
+}
