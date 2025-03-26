@@ -371,3 +371,7 @@ Added game, <a href="resident_evil_4_2005.html">Resident Evil 4</a>
 Added game, <a href="ein.html">EIN</a>
 Alternate names are now displayed on the root page
 We've changed the way games are indexed by our indexer in quite a significant way, let us know if you spot any issues!
+changeset 1742981475 3
+Added 4 <a href="resident_evil_4_2005.html#artworks">artworks</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
+Added 2 <a href="resident_evil_4_2005.html#screenshots">screenshots</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
+Added game, <a href="hidden_and_dangerous_1999.html">Hidden & Dangerous</a>
