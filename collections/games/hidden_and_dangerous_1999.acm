@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+    string name "Hidden & Dangerous"
+    array string developers { "Illusion Softworks" }
+    array string publishers { "TalonSoft" "Take-Two Interactive" }
+    string type game
+    string source "Games/Hidden & Dangerous (1999)"
+    array int16 releaseDate { 1999 7 2 }
+}
