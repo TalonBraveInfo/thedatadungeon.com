@@ -20,6 +20,11 @@ object collection
 	        array int16 date { 1996 8 0 }
 	    }
 	    {
+	        string url "https://web.archive.org/web/19971012051445/http://www.pcgamer.com/e_prey.html"
+	        string title "Prey Steps Out"
+	        array int16 date { 1997 6 0 }
+	    }
+	    {
 	        string url "https://archive.org/details/NEXT_Generation_33/page/n71/mode/2up"
 	        string title "NG Alphas: Prey"
 	        array int16 date { 1997 9 0 }
