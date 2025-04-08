@@ -380,3 +380,10 @@ Added 2 <a href="prey_2006.html#screenshots">screenshots</a>, under <a href="pre
 Added 1 <a href="resident_evil_4_2005.html#artworks">artworks</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
 Added 2 <a href="resident_evil_4_2005.html#screenshots">screenshots</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
 Added game, <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+changeset 1744112205 6
+Added 1 <a href="final_fantasy_x_2001.html#artworks">artworks</a>, under <a href="final_fantasy_x_2001.html">Final Fantasy X</a>
+Added 65 <a href="bioshock_2007.html#artworks">artworks</a>, under <a href="bioshock_2007.html">BioShock</a>
+Added 3 <a href="final_fantasy_xv_2016.html#artworks">artworks</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+Added 3 <a href="final_fantasy_xiii_2009.html#artworks">artworks</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+Added 5 <a href="final_fantasy_xiii_2009.html#screenshots">screenshots</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+Added 1 <a href="final_fantasy_xiii_2009.html#others">others</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
