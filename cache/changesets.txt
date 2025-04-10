@@ -387,3 +387,11 @@ Added 3 <a href="final_fantasy_xv_2016.html#artworks">artworks</a>, under <a hre
 Added 3 <a href="final_fantasy_xiii_2009.html#artworks">artworks</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
 Added 5 <a href="final_fantasy_xiii_2009.html#screenshots">screenshots</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
 Added 1 <a href="final_fantasy_xiii_2009.html#others">others</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+changeset 1744281019 7
+Added 3 <a href="far_cry_3_2012.html#distributions">distributions</a>, under <a href="far_cry_3_2012.html">Far Cry 3</a>
+Added 1 <a href="portal_2007.html#others">others</a>, under <a href="portal_2007.html">Portal</a>
+Added 1 <a href="half-life_2_episode_2_2007.html#others">others</a>, under <a href="half-life_2_episode_2_2007.html">Half-Life 2: Episode Two</a>
+Added 48 <a href="shogo_mobile_armor_division_1998.html#artworks">artworks</a>, under <a href="shogo_mobile_armor_division_1998.html">Shogo: Mobile Armor Division</a>
+Added 1 <a href="duke_nukem_forever_2011.html#distributions">distributions</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
+Added 16 <a href="duke_nukem_forever_2011.html#screenshots">screenshots</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
+Added 1 <a href="duke_nukem_forever_2011.html#videos">videos</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
