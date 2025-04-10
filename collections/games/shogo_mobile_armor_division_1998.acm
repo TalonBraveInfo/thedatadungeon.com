@@ -13,4 +13,16 @@ object collection
 		10
 		15
 	}
+
+	array object links
+	{
+        {
+            string url "https://web.archive.org/web/19991011103929/http://www.instantaccess.com:80/products/shugotenshi/index_4.html"
+            string title "Shugotenshi Official Expansion Pack (Cancelled)"
+        }
+        {
+            string url "https://web.archive.org/web/20041027024608/http://cyclopsx.com:80/Archives/Shugotenshi/index.html"
+            string title "Cayenne Mandua's Shugotenshi Portfolio"
+        }
+	}
 }
