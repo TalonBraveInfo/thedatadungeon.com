@@ -395,3 +395,6 @@ Added 48 <a href="shogo_mobile_armor_division_1998.html#artworks">artworks</a>, 
 Added 1 <a href="duke_nukem_forever_2011.html#distributions">distributions</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
 Added 16 <a href="duke_nukem_forever_2011.html#screenshots">screenshots</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
 Added 1 <a href="duke_nukem_forever_2011.html#videos">videos</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
+changeset 1745178969 2
+Added 3 <a href="prey_2006.html#screenshots">screenshots</a>, under <a href="prey_2006.html">Prey</a>
+Added game, <a href="hitman_2016.html">Hitman</a>
