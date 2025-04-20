@@ -398,3 +398,5 @@ Added 1 <a href="duke_nukem_forever_2011.html#videos">videos</a>, under <a href=
 changeset 1745178969 2
 Added 3 <a href="prey_2006.html#screenshots">screenshots</a>, under <a href="prey_2006.html">Prey</a>
 Added game, <a href="hitman_2016.html">Hitman</a>
+changeset 1745180225 1
+Added game, <a href="hitman_2016.html">Hitman</a>
