@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Hitman"
+	array string developers { "IO Interactive" }
+	array string publishers { "Square Enix" }
+	string type game
+	string source "Games/Hitman (2015)"
+	array int16 releaseDate { 2016 3 11 }
+}
