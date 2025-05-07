@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+    string name "Deus Ex: Human Revolution"
+    array string developers { "Eidos-Montréal" }
+    array string publishers { "Square Enix Europe" }
+    string source "Games/Deus Ex Human Revolution (2011)"
+    string type "game"
+    array int16 releaseDate { 2011 8 23 }
+}
