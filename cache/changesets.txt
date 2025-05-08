@@ -402,3 +402,6 @@ changeset 1745180225 1
 Added game, <a href="hitman_2016.html">Hitman</a>
 changeset 1746632309 1
 Added game, <a href="deus_ex_human_revolution_2011.html">Deus Ex: Human Revolution</a>
+changeset 1746704361 2
+Added 3 <a href="blood_1997.html#distributions">distributions</a>, under <a href="blood_1997.html">Blood</a>
+Added 1 <a href="deus_ex_human_revolution_2011.html#distributions">distributions</a>, under <a href="deus_ex_human_revolution_2011.html">Deus Ex: Human Revolution</a>
