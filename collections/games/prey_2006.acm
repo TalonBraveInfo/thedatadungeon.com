@@ -7,11 +7,20 @@ object collection
 	string type game 
 	string source "Games/Prey (2006)" 
 	string releaseStatus released 
-	array int16 releaseDate {
-		2006 
-		7
-		11
+	array int16 releaseDate { 2006 7 11 }
+
+	array object links
+	{
+	    {
+            string url "https://web.archive.org/web/19970701075722/http://games.3dreview.com/prey/"
+            string title "Prey Arena (1997)"
+	    }
+	    {
+	        string url "https://web.archive.org/web/19971016052842/http://www.preystation.com:80/"
+	        string title "Preystation (1997)"
+	    }
 	}
+
 	array object publications
 	{
 	    {
