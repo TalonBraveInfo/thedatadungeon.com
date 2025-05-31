@@ -405,3 +405,19 @@ Added game, <a href="deus_ex_human_revolution_2011.html">Deus Ex: Human Revoluti
 changeset 1746704361 2
 Added 3 <a href="blood_1997.html#distributions">distributions</a>, under <a href="blood_1997.html">Blood</a>
 Added 1 <a href="deus_ex_human_revolution_2011.html#distributions">distributions</a>, under <a href="deus_ex_human_revolution_2011.html">Deus Ex: Human Revolution</a>
+changeset 1748709257 15
+Added game, <a href="savage_battle_for_newerth_2003.html">Savage: The Battle for Newerth</a>
+Added game, <a href="command__conquer_red_alert_1996.html">Command & Conquer: Red Alert</a>
+Added game, <a href="zenith_cancelled.html">Zenith</a>
+Added game, <a href="dead_phoenix_cancelled.html">Dead Phoenix</a>
+Added game, <a href="duke_nukem_3d.html">Duke Nukem 3D</a>
+Added game, <a href="turok_2_1998.html">Turok 2: Seeds of Evil</a>
+Added 28 <a href="tonic_trouble_1999.html#artworks">artworks</a>, under <a href="tonic_trouble_1999.html">Tonic Trouble</a>
+Added game, <a href="saints_row_2006.html">Saints Row</a>
+Added game, <a href="asherons_call_1999.html">Asheron's Call</a>
+Added game, <a href="solitude_cancelled.html">Solitude</a>
+Added game, <a href="ragnarok_online_tgw_2007.html">Ragnarok Online 2: The Gate of the World</a>
+Added game, <a href="goman_1997.html">TEAM 47 GoMan</a>
+Added game, <a href="iris_online_2011.html">Iris Online</a>
+Added game, <a href="shadow_warrior_1997.html">Shadow Warrior</a>
+Added game, <a href="rayman_origins_2011.html">Rayman Origins</a>
