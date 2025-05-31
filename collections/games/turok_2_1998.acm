@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Turok 2: Seeds of Evil"
+    array string developers { "Iguana Entertainment" }
+    array string publishers { "Acclaim Entertainment" }
+	string type game
+    array int16 releaseDate { 1998 12 10 }
+	string source "Games/Turok 2 Seeds of Evil (1998)"
+}

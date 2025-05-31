@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Savage: The Battle for Newerth"
+    array string developers { "S2 Games" }
+    array string publishers { "iGames" }
+	string type game
+    array int16 releaseDate { 2003 9 9 }
+	string source "Games/Savage The Battle for Newerth (2003)"
+}

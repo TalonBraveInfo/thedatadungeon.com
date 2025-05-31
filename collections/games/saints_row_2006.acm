@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Saints Row"
+    array string developers { "Volition" }
+    array string publishers { "THQ" }
+	string type game
+    array int16 releaseDate { 2006 8 29 }
+	string source "Games/Saints Row (2006)"
+}

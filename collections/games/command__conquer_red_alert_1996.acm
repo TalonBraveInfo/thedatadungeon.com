@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Command & Conquer: Red Alert"
+    array string developers { "Westwood Studios" }
+    array string publishers { "Westwood Studios" "Virgin Interactive Entertainment" }
+	string type game
+    array int16 releaseDate { 1996 11 22 }
+	string source "Games/Command & Conquer Red Alert (1996)"
+}

@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Shadow Warrior"
+    array string developers { "3D Realms Entertainment, Inc." }
+    array string publishers { "GT Interactive Software Corp." }
+	string type game
+    array int16 releaseDate { 1997 5 13 }
+	string source "Games/Shadow Warrior (1997)"
+}

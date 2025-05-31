@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Ragnarok Online 2: The Gate of the World"
+    array string developers { "Gravity" }
+    array string publishers { "Gravity" }
+	string type game
+    array int16 releaseDate { 2007 5 28 }
+	string source "Games/Ragnarok Online 2 The Gate of the World (2007)"
+}

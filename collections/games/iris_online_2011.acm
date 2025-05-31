@@ -1,0 +1,17 @@
+node.utf8
+object collection
+{
+	string name "Iris Online"
+    array string developers { "EYA SOFT Co. Ltd." }
+	string type game
+    array int16 releaseDate { 2011 }
+	string source "Games/Iris Online (2011)"
+
+    array object links
+    {
+        {
+            string url https://web.archive.org/web/20110511185242/http://iris.gpotato.com/
+            string title "Official Website (2011)"
+        }
+    }
+}

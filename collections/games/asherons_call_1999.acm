@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Asheron's Call"
+    array string developers { "Turbine Entertainment Software" }
+    array string publishers { "Microsoft" }
+	string type game
+    array int16 releaseDate { 1999 11 2 }
+	string source "Games/Asheron's Call (1999)"
+}

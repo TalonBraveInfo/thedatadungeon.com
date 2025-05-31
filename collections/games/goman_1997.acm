@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "TEAM 47 GoMan"
+    array string developers { "47-TEK, Inc." }
+    array string publishers { "47-TEK, Inc." }
+	string type game
+    array int16 releaseDate { 1997 }
+	string source "Games/Team 47 GoMan (1997)"
+}

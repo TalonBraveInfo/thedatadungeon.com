@@ -1,0 +1,9 @@
+node.utf8
+object collection
+{
+	string name "Zenith"
+	array string otherNames { "Climber" }
+    array string developers { "DMA Design" }
+	string type game
+	string source "Games/Zenith (Climber) (Cancelled)"
+}

@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+	string name "Duke Nukem 3D"
+    array string developers { "3D Realms Entertainment, Inc." }
+    array string publishers { "GT Interactive Software Corp." }
+	string type game
+    array int16 releaseDate { 1996 1 29 }
+	string source "Games/Duke Nukem 3D (1996)"
+}

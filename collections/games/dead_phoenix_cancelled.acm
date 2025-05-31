@@ -1,0 +1,8 @@
+node.utf8
+object collection
+{
+	string name "Dead Phoenix"
+    array string developers { "Capcom" }
+	string type game
+	string source "Games/Dead Phoenix (Cancelled)"
+}

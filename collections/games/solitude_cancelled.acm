@@ -1,0 +1,16 @@
+node.utf8
+object collection
+{
+	string name "Solitude"
+    array string developers { "Flaming Ice" }
+	string type game
+	string source "Games/Solitude (Cancelled)"
+
+	array object links
+	{
+        {
+			string url https://www.moddb.com/games/solitude-game
+			string title "Solitude Windows, PSP game - ModDB"
+		}
+	}
+}
