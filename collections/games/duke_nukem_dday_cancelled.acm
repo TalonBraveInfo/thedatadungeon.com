@@ -1,0 +1,8 @@
+node.utf8
+object collection
+{
+	string name "Duke Nukem: D-Day"
+    array string developers { "n-Space" }
+	string type game
+	string source "Games/Duke Nukem D-Day (Cancelled)"
+}
