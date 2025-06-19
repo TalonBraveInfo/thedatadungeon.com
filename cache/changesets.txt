@@ -429,3 +429,7 @@ Added 1 <a href="bioshock_2007.html#videos">videos</a>, under <a href="bioshock_
 Added 3 <a href="far_cry_2004.html#distributions">distributions</a>, under <a href="far_cry_2004.html">Far Cry</a>
 Added 4 <a href="tonic_trouble_1999.html#others">others</a>, under <a href="tonic_trouble_1999.html">Tonic Trouble</a>
 Added game, <a href="duke_nukem_dday_cancelled.html">Duke Nukem: D-Day</a>
+changeset 1750317661 3
+Added 13 <a href="final_fantasy_xiii_2009.html#artworks">artworks</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+Added 3 <a href="final_fantasy_xiii_2009.html#screenshots">screenshots</a>, under <a href="final_fantasy_xiii_2009.html">Final Fantasy XIII</a>
+Added 2 <a href="watch_dogs_2013.html#videos">videos</a>, under <a href="watch_dogs_2013.html">Watch Dogs</a>
