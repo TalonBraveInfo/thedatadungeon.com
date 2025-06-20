@@ -1,0 +1,11 @@
+node.utf8
+object collection
+{
+    string name "Shadows of Reality"
+    string description "Shadows of Reality was an ongoing effort. It began using the Quake 2 engine, evolved to the Shogo engine, finally settled on the Unreal engine, then lost funding. It was going to be an online, multiplayer cyber-punk-type RPG (well before the days of Neocron)."
+
+    string type game
+
+    string source "Games/Shadows of Reality (Cancelled)"
+    string releaseStatus cancelled
+}
