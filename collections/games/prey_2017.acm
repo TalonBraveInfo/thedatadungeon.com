@@ -12,4 +12,13 @@ object collection
 		5
 		5
 	}
+
+	array object publications
+	{
+		{
+			string url "https://web.archive.org/web/20170909080927/https://sugarbombed.com/threads/sb-exclusive-chris-avellone-talks-prey.345/"
+			string title "SB EXCLUSIVE: CHRIS AVELLONE TALKS PREY"
+			array int16 date { 2017 9 8 }
+		}
+	}
 }
