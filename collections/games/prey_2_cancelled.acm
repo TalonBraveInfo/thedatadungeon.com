@@ -7,4 +7,93 @@ object collection
 	string type game 
 	string source "Games/Prey 2 (Cancelled)" 
 	string releaseStatus cancelled 
+
+	array object publications
+	{
+		{
+			string url "https://www.rockpapershotgun.com/interview-prey-2s-oddness-freedom-ians"
+			string title "Interview: Prey 2's Oddness, Freedom & Ians"
+			array int16 date { 2011 5 12 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/your-preyers-answered-prey-2-screenshots"
+			string title "Your Preyers Answered: Prey 2 Screenshots"
+			array int16 date { 2011 8 8 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/rock-opera-tommys-back-in-prey-2"
+			string title "Rock Opera: Tommy's Back In Prey 2"
+			array int16 date { 2011 8 9 }
+		}
+		{
+			string url "https://www.destructoid.com/interview-prey-2-project-lead-chris-rhinehart/"
+			string title "Interview: Prey 2 project lead Chris Rhinehart"
+			array int16 date { 2011 8 15 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/killian-the-name-of-prey-2"
+			string title "Killian The Name Of: Prey 2"
+			array int16 date { 2011 8 24 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/prey-2-interview"
+			string title "Pray Tell: A Prey 2 Interview"
+			array int16 date { 2011 9 28 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/ugh-prey-2-seems-to-have-been-cancelled"
+			string title "Ugh: Prey 2 Seems To Have Been Cancelled"
+			array int16 date { 2012 3 24 }
+		}
+		{
+			string url "https://www.shacknews.com/article/73417/source-human-head-hasnt-worked-on-prey-2-since-november"
+			string title "Source: Human Head hasn't worked on Prey 2 since November"
+			array int16 date { 2012 4 19 }
+		}
+		{
+			string url "https://web.archive.org/web/20120828113653/http://nl.ign.com/feature/665/Business-As-Usual-Pete-Hines-van-Bethesda"
+			string title "Business As Usual - Pete Hines van Bethesda"
+			array int16 date { 2012 8 25 }
+		}
+		{
+			string url "https://web.archive.org/web/20130607094527/http://www.aliennoire.com/home/news/vicious-rumors"
+			string title "Vicious Rumors"
+			array int16 date { 2013 5 30 }
+		}
+		{
+			string url "https://kotaku.com/we-hear-the-people-behind-dishonored-are-now-working-on-510646344"
+			string title "We Hear The People Behind Dishonored Are Now Working On Prey 2"
+			array int16 date { 2013 5 31 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/bethesda-talks-prey-2-denies-arkane-involvement"
+			string title "Bethesda Talks Prey 2, Denies Arkane Involvement"
+			array int16 date { 2013 8 2 }
+		}
+		{
+			string url "https://kotaku.com/leaked-e-mails-suggest-bethesda-misled-gamers-about-pre-1149092622"
+			string title "Leaked E-mails Suggest Bethesda Misled Gamers About Prey 2"
+			array int16 date { 2013 8 15 }
+		}
+		{
+			string url "https://www.cnet.com/tech/gaming/bethesda-confirms-prey-2-cancelled/"
+			string title "Bethesda confirms Prey 2 cancelled"
+			array int16 date { 2014 10 30 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/prey-2-release"
+			string title "Prey 2 Is No Longer In Our Prayers"
+			array int16 date { 2014 10 31 }
+		}
+		{
+			string url "https://www.rockpapershotgun.com/have-you-played-prey-2"
+			string title "Have You Played... Prey 2?"
+			array int16 date { 2017 5 9 }
+		}
+		{
+			string url "https://www.eurogamer.net/the-cancelled-prey-2-had-an-incredible-plot-twist"
+			string title "The cancelled Prey 2 had an incredible plot twist"
+			array int16 date { 2017 5 25 }
+		}
+	}
 }
