@@ -1,0 +1,47 @@
+node.utf8
+object collection
+{
+    string name "Auryn Quest"
+    array string otherNames { "The Real Neverending Story Part 1: Auryn Quest" }
+
+    array string developers { "Discreet Monsters" "Attaction" }
+    array string publishers { "Octagon Entertainment" "DreamCatcher Interactive" }
+
+    string type game
+
+    array int16 releaseDate { 2002 6 12 }
+
+    array object links
+    {
+        {
+            string url "https://web.archive.org/web/20000510051039/http://www.discreetmonsters.com/data/home.htm"
+            string title "Official Website (The Real Neverending Story)"
+        }
+        {
+            string url "https://web.archive.org/web/20020120085514/http://attaction.com/"
+            string title "Official Website (Auryn Quest)"
+        }
+        {
+            string url "https://web.archive.org/web/20010727103526/http://www.justadventure.com/Previews/TNRS/TNRS_Preview.shtm"
+            string title "Just Adventure Preview"
+        }
+    }
+
+    array object publications
+    {
+        {
+            string url "https://www.ign.com/articles/1999/12/23/the-real-neverending-story"
+            string title "German developer Discreet Monsters puts a new twist on the classic adventure."
+            array int16 date { 1999 12 23 }
+        }
+        {
+            string url "https://www.gamespot.com/articles/the-real-neverending-story/1100-2447129/"
+            string title "Discreet Monsters begins making its first US assault by showing off its 3D real-time action-adventure."
+            array int16 date { 2000 4 27 }
+        }
+    }
+
+    ; directory where we're pulling the data from
+    ; (don't touch!!!)
+    string source "Games/Auryn Quest (2002)"
+}
