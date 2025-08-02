@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Ico"
+	array string developers { "Sony Computer Entertainment Japan" }
+	array string publishers { "Sony Computer Entertainment" }
+	string type game
+	string source "Games/Ico (2001)"
+
+    ;string icon         "web/icons/collections/deus_ex.ico"
+    ;string iconSmall    "web/icons/collections/deus_ex_small.ico"
+
+	string releaseStatus released
+	array int16 releaseDate { 2001 9 25 }
+}
