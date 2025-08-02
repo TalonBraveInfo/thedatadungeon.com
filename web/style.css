@@ -494,7 +494,7 @@ hr {
 
 .dd-collection-icon-small {
     height: 16px;
-    /*margin: 1.0em 1.0em 1.0em 0;*/
+    vertical-align: middle;
 }
 
 /*****************************************************/
