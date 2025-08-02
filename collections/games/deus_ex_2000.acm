@@ -5,7 +5,11 @@ object collection
 	array string developers { "Ion Storm" }
 	array string publishers { "Eidos Interactive" }
 	string type game 
-	string source "Games/Deus Ex (2000)" 
+	string source "Games/Deus Ex (2000)"
+
+    string icon         "web/icons/collections/deus_ex.ico"
+    string iconSmall    "web/icons/collections/deus_ex_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/Deus_Ex 

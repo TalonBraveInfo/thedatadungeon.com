@@ -5,7 +5,11 @@ object collection
 	array string developers { "Starbreeze Studios" }
 	string type game 
 	string source "Games/Enclave (2002)" 
-	string releaseStatus released 
+	string releaseStatus released
+
+    ;string icon         "web/icons/collections/enclave.ico"
+    string iconSmall    "web/icons/collections/enclave_small.ico"
+
 	array int16 releaseDate {
 		2002 
 		7
