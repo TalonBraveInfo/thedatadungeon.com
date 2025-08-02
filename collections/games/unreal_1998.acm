@@ -5,7 +5,11 @@ object collection
 	array string developers { "Epic MegaGames" "Digital Extremes" }
 	array string publishers { "GT Interactive" }
 	string type game 
-	string source "Games/Unreal (1998)" 
+	string source "Games/Unreal (1998)"
+
+	;string icon         "web/icons/collections/unreal.ico"
+	string iconSmall    "web/icons/collections/unreal_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/Unreal 

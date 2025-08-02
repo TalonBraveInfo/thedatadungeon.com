@@ -5,7 +5,11 @@ object collection
 	array string developers { "2K Boston" "2K Australia" }
 	array string publishers { "2K" }
 	string type game 
-	string source "Games/BioShock (2007)" 
+	string source "Games/BioShock (2007)"
+
+	;string icon         "web/icons/collections/bioshock.ico"
+	string iconSmall    "web/icons/collections/bioshock_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/BioShock 

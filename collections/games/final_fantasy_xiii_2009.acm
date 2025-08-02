@@ -8,6 +8,9 @@ object collection
 	string source "Games/Final Fantasy XIII (2009)"
 	array int16 releaseDate { 2009 12 17 }
 
+	string icon         "web/icons/collections/ffxiii.ico"
+	string iconSmall    "web/icons/collections/ffxiii_small.ico"
+
 	array object publications
 	{
 	    {

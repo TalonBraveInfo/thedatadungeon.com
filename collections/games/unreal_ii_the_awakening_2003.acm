@@ -5,7 +5,11 @@ object collection
 	array string developers { "Legend Entertainment" }
 	array string publishers { "Infogrames" }
 	string type game 
-	string source "Games/Unreal II The Awakening (2003)" 
+	string source "Games/Unreal II The Awakening (2003)"
+
+	;string icon         "web/icons/collections/unreal2.ico"
+	string iconSmall    "web/icons/collections/unreal2_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/Unreal_II 

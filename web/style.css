@@ -487,6 +487,88 @@ hr {
     display: none;
 }
 
+.dd-collection-icon {
+    height: 64px;
+    margin: 1.0em 1.0em 1.0em 0;
+}
+
+.dd-collection-icon-small {
+    height: 16px;
+    /*margin: 1.0em 1.0em 1.0em 0;*/
+}
+
+/*****************************************************/
+/* Timeline */
+/*****************************************************/
+
+.dd-timeline-scroller {
+    max-width: 1024px;
+    white-space: nowrap;
+    position: relative;
+    overflow-y: hidden;
+    padding: 1.0em;
+
+    /*
+    --mask: linear-gradient(to bottom,
+    rgba(0,0,0, 1) 0,   rgba(0,0,0, 1) 40%,
+    rgba(0,0,0, 0) 95%, rgba(0,0,0, 0) 0
+    ) 100% 50% / 100% 100% repeat-x;
+    -webkit-mask: var(--mask);
+    mask: var(--mask);
+     */
+}
+
+.dd-timeline-line {
+    width: 12px;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin: 3px 0;
+    display:inline-block;
+}
+
+.dd-timeline-bubble {
+    border: solid var(--base-color);
+    display: inline-block;
+    padding: 0.20em;
+    vertical-align: middle;
+    border-radius: 16px;
+    background-color: var(--base-color);
+}
+
+.dd-timeline-bubble:hover {
+    border: solid var(--deep-color);
+    background-color: var(--deep-color);
+}
+
+.dd-timeline-arrow {
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-right: 8px;
+    margin-left: -8px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
 /*****************************************************/
 /* Animations */
 
