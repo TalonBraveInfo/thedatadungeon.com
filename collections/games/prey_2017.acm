@@ -13,6 +13,9 @@ object collection
 		5
 	}
 
+    string icon         "web/icons/collections/prey_2017.ico"
+    string iconSmall    "web/icons/collections/prey_2017_small.ico"
+
 	array object publications
 	{
 		{
