@@ -5,7 +5,11 @@ object collection
 	array string developers { "Westwood Studios" }
 	array string publishers { "EA Games" }
 	string type game 
-	string source "Games/Command & Conquer Renegade (2002)" 
+	string source "Games/Command & Conquer Renegade (2002)"
+
+    string icon         "web/icons/collections/cnc_renegade.ico"
+    string iconSmall    "web/icons/collections/cnc_renegade_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/Command_%26_Conquer:_Renegade 

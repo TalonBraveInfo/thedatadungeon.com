@@ -5,7 +5,11 @@ object collection
 	array string developers { "Ion Storm" }
 	array string publishers { "Eidos Interactive" }
 	string type game 
-	string source "Games/Deus Ex Invisible War (2003)" 
+	string source "Games/Deus Ex Invisible War (2003)"
+
+    ;string icon         "web/icons/collections/deus_ex_invisible_war.ico"
+    string iconSmall    "web/icons/collections/deus_ex_invisible_war_small.ico"
+
 	array object links {
 				{
 			string url https://tcrf.net/Deus_Ex:_Invisible_War_(Xbox) 
