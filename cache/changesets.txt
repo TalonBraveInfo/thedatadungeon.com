@@ -447,3 +447,5 @@ changeset 1754158923 3
 Added game, <a href="ico_2001.html">Ico</a>
 Added 11 <a href="glover_1998.html#distributions">distributions</a>, under <a href="glover_1998.html">Glover</a>
 Added 1 <a href="the_chronicles_of_riddick_escape_from_butcher_bay_2004.html#distributions">distributions</a>, under <a href="the_chronicles_of_riddick_escape_from_butcher_bay_2004.html">The Chronicles of Riddick: Escape from Butcher Bay</a>
+changeset 1755155477 1
+Added 9 <a href="duality_cancelled.html#screenshots">screenshots</a>, under <a href="duality_cancelled.html">Duality</a>
