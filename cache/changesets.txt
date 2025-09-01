@@ -449,3 +449,8 @@ Added 11 <a href="glover_1998.html#distributions">distributions</a>, under <a hr
 Added 1 <a href="the_chronicles_of_riddick_escape_from_butcher_bay_2004.html#distributions">distributions</a>, under <a href="the_chronicles_of_riddick_escape_from_butcher_bay_2004.html">The Chronicles of Riddick: Escape from Butcher Bay</a>
 changeset 1755155477 1
 Added 9 <a href="duality_cancelled.html#screenshots">screenshots</a>, under <a href="duality_cancelled.html">Duality</a>
+changeset 1756725718 4
+Added 1 <a href="haven_call_of_the_king_2002.html#artworks">artworks</a>, under <a href="haven_call_of_the_king_2002.html">Haven Call of the King</a>
+Added 1 <a href="haven_call_of_the_king_2002.html#videos">videos</a>, under <a href="haven_call_of_the_king_2002.html">Haven Call of the King</a>
+Added 6 <a href="omikron_the_nomad_soul_1999.html#artworks">artworks</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
+Added game, <a href="the_darkness_2007.html">The Darkness</a>
