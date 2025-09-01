@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name     "The Darkness"
+    string type     "game"
+    string source   "Games/The Darkness (2007)"
+
+    array string otherNames { "P5" }
+    array string developers { "Starbreeze Studios" }
+    array string publishers { "2K" }
+
+    array int16 releaseDate { 2007 6 25 }
+}
