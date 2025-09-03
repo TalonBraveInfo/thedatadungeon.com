@@ -18,4 +18,7 @@ object collection
 		11
 		22
 	}
+
+	string icon         "web/icons/collections/ut99_small.ico"
+	string iconSmall    "web/icons/collections/ut99_small.ico"
 }

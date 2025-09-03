@@ -9,7 +9,7 @@ object collection
 	string releaseStatus released 
 	array int16 releaseDate { 2006 7 11 }
 
-	;string icon         "web/icons/collections/prey.ico"
+	string icon         "web/icons/collections/prey_small.ico"
 	string iconSmall    "web/icons/collections/prey_small.ico"
 
 	array object links

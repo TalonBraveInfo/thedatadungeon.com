@@ -12,4 +12,7 @@ object collection
 		3
 		29
 	}
+
+	string icon         "web/icons/collections/messiah_small.ico"
+	string iconSmall    "web/icons/collections/messiah_small.ico"
 }

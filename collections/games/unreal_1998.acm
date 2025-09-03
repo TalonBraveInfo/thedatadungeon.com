@@ -7,7 +7,7 @@ object collection
 	string type game 
 	string source "Games/Unreal (1998)"
 
-	;string icon         "web/icons/collections/unreal.ico"
+	string icon         "web/icons/collections/unreal_small.ico"
 	string iconSmall    "web/icons/collections/unreal_small.ico"
 
 	array object links {

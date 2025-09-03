@@ -7,7 +7,7 @@ object collection
 	string type game 
 	string source "Games/Unreal II The Awakening (2003)"
 
-	;string icon         "web/icons/collections/unreal2.ico"
+	string icon         "web/icons/collections/unreal2_small.ico"
 	string iconSmall    "web/icons/collections/unreal2_small.ico"
 
 	array object links {

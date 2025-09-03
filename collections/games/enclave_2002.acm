@@ -7,7 +7,7 @@ object collection
 	string source "Games/Enclave (2002)" 
 	string releaseStatus released
 
-    ;string icon         "web/icons/collections/enclave.ico"
+    string icon         "web/icons/collections/enclave_small.ico"
     string iconSmall    "web/icons/collections/enclave_small.ico"
 
 	array int16 releaseDate {

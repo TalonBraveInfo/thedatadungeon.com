@@ -13,4 +13,16 @@ object collection
 		11
 		1
 	}
+
+	string icon         "web/icons/collections/omikron_small.ico"
+	string iconSmall    "web/icons/collections/omikron_small.ico"
+
+	array object publications
+	{
+	    {
+            string url          "https://web.archive.org/web/20000601050535/http://avault.com/articles/getarticle.asp?name=omikron&page=1"
+            string title        "Creative Synergies: The Development of Omikron"
+            array int16 date    { 1999 11 9 }
+	    }
+	}
 }

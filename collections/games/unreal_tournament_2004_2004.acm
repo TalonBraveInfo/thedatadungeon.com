@@ -12,4 +12,7 @@ object collection
 		3
 		16
 	}
+
+	string icon         "web/icons/collections/ut2004_small.ico"
+	string iconSmall    "web/icons/collections/ut2004_small.ico"
 }

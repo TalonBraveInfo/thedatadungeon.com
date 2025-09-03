@@ -7,7 +7,7 @@ object collection
 	string type game 
 	string source "Games/Deus Ex Invisible War (2003)"
 
-    ;string icon         "web/icons/collections/deus_ex_invisible_war.ico"
+    string icon         "web/icons/collections/deus_ex_invisible_war_small.ico"
     string iconSmall    "web/icons/collections/deus_ex_invisible_war_small.ico"
 
 	array object links {
