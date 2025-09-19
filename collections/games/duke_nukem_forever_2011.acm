@@ -18,7 +18,7 @@ object collection
 	    {
 	        string url          "https://web.archive.org/web/20141228043649/http://www.maximumpc.com/article/DNF"
 	        string title        "Duke Nukem: The Once & Future King?"
-	        array int16 date    { 19 11 2010 }
+	        array int16 date    { 2010 11 19 }
 	    }
 	}
 }
