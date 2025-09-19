@@ -454,3 +454,15 @@ Added 1 <a href="haven_call_of_the_king_2002.html#artworks">artworks</a>, under 
 Added 1 <a href="haven_call_of_the_king_2002.html#videos">videos</a>, under <a href="haven_call_of_the_king_2002.html">Haven Call of the King</a>
 Added 6 <a href="omikron_the_nomad_soul_1999.html#artworks">artworks</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
 Added game, <a href="the_darkness_2007.html">The Darkness</a>
+changeset 1758278252 11
+Added 47 <a href="daikatana_2000.html#distributions">distributions</a>, under <a href="daikatana_2000.html">Daikatana</a>
+Added 109 <a href="daikatana_2000.html#artworks">artworks</a>, under <a href="daikatana_2000.html">Daikatana</a>
+Added 120 <a href="daikatana_2000.html#screenshots">screenshots</a>, under <a href="daikatana_2000.html">Daikatana</a>
+Added 1 <a href="daikatana_2000.html#others">others</a>, under <a href="daikatana_2000.html">Daikatana</a>
+Added 9 <a href="black__white_2_2005.html#videos">videos</a>, under <a href="black__white_2_2005.html">Black & White 2</a>
+Added 1 <a href="evolve_2015.html#distributions">distributions</a>, under <a href="evolve_2015.html">Evolve</a>
+Added 23 <a href="prey_2_cancelled.html#videos">videos</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added 37 <a href="omikron_the_nomad_soul_1999.html#artworks">artworks</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
+Added 1 <a href="omikron_the_nomad_soul_1999.html#screenshots">screenshots</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
+Added 25 <a href="omikron_the_nomad_soul_1999.html#others">others</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
+Added 3 <a href="the_darkness_2007.html#others">others</a>, under <a href="the_darkness_2007.html">The Darkness</a>
