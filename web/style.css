@@ -497,6 +497,12 @@ hr {
     vertical-align: middle;
 }
 
+.dd-collection-comments {
+    padding:1.5em;
+    max-width:1024px;
+    margin:auto;
+}
+
 /*****************************************************/
 /* Timeline */
 /*****************************************************/
