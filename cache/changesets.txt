@@ -466,3 +466,5 @@ Added 37 <a href="omikron_the_nomad_soul_1999.html#artworks">artworks</a>, under
 Added 1 <a href="omikron_the_nomad_soul_1999.html#screenshots">screenshots</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
 Added 25 <a href="omikron_the_nomad_soul_1999.html#others">others</a>, under <a href="omikron_the_nomad_soul_1999.html">The Nomad Soul</a>
 Added 3 <a href="the_darkness_2007.html#others">others</a>, under <a href="the_darkness_2007.html">The Darkness</a>
+changeset 1758556469 1
+Introduced support for comments via Disqus.
