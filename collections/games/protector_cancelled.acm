@@ -1,0 +1,20 @@
+node.utf8
+object collection
+{
+    string name             "The Protector"
+    string type             "game"
+    string releaseStatus    cancelled
+
+    array string developers { "Eurocom" }
+    array string publishers { "Sony Computer Entertainment" }
+
+    string source "Games/Protector (Cancelled)"
+
+    array object links
+    {
+        {
+            string url      "https://www.unseen64.net/2010/06/02/the-protector-ps3-cancelled/"
+            string title    "Unseen64"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+node.utf8
+object collection
+{
+    string name             "Nexus"
+    string type             "game"
+    string releaseStatus    cancelled
+
+    array string developers { "Headspin Technologies" }
+
+    string source "Games/Nexus (Cancelled)"
+}

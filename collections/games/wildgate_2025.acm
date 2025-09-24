@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name             "Wildgate"
+    string type             "game"
+    array int16 releaseDate { 2025 7 22 }
+
+    array string developers { "Moonshot Games" }
+    array string publishers { "Dreamhaven" }
+
+    string source "Games/Wildgate (2025)"
+}

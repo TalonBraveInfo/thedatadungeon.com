@@ -1,0 +1,11 @@
+node.utf8
+object collection
+{
+    string name             "Shogo: Legacy of the Fallen"
+    string type             "game"
+    string releaseStatus    cancelled
+
+    array string developers { "Aztech New Media" }
+
+    string source "Games/Shogo Legacy of the Fallen (Cancelled)"
+}

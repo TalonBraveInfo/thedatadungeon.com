@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name             "Battalion Wars 2"
+    string type             "game"
+    array int16 releaseDate { 2007 10 29 }
+
+    array string developers { "Kuju London" }
+    array string publishers { "Nintendo" }
+
+    string source "Games/Battalion Wars 2 (2007)"
+}

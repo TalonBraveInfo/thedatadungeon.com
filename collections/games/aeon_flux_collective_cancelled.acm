@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name             "Aeon Flux"
+    string type             "game"
+    string releaseStatus    cancelled
+
+    array string developers { "The Collective" }
+    array string publishers { "GT Interactive" }
+
+    string source "Games/Aeon Flux (The Collective) (Cancelled)"
+}

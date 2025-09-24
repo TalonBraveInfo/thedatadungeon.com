@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name             "Assassin's Creed"
+    string type             "game"
+    array int16 releaseDate { 2007 11 13 }
+
+    array string developers { "Ubisoft Montreal" }
+    array string publishers { "Ubisoft" }
+
+    string source "Games/Assassin's Creed (2007)"
+}
