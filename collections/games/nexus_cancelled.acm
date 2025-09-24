@@ -5,7 +5,7 @@ object collection
     string type             "game"
     string releaseStatus    cancelled
 
-    array string developers { "Headspin Technologies" }
+    array string developers { "HeadSpin Technology Inc." }
 
     string source "Games/Nexus (Cancelled)"
 }
