@@ -468,3 +468,16 @@ Added 25 <a href="omikron_the_nomad_soul_1999.html#others">others</a>, under <a 
 Added 3 <a href="the_darkness_2007.html#others">others</a>, under <a href="the_darkness_2007.html">The Darkness</a>
 changeset 1758556469 1
 Introduced support for comments via Disqus.
+changeset 1759240238 12
+Added game, <a href="protector_cancelled.html">The Protector</a>
+Added game, <a href="black_desert_online_2015.html">Black Desert Online</a>
+Added game, <a href="wildgate_2025.html">Wildgate</a>
+Added game, <a href="outcast_2_a_new_beginning_2024.html">Outcast: A New Beginning</a>
+Added game, <a href="starsiege_tribes_1998.html">Starsiege: Tribes</a>
+Added game, <a href="assassins_creed_2007.html">Assassin's Creed</a>
+Added game, <a href="shogo_legacy_of_the_fallen_cancelled.html">Shogo: Legacy of the Fallen</a>
+Added 9 <a href="prey_2_cancelled.html#videos">videos</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added game, <a href="project_apollo_cancelled.html">Project Apollo</a>
+Added game, <a href="nexus_cancelled.html">Nexus</a>
+Added game, <a href="battalion_wars_2_2007.html">Battalion Wars 2</a>
+Added game, <a href="aeon_flux_collective_cancelled.html">Aeon Flux</a>
