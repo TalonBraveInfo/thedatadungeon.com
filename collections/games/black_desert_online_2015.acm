@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name             "Black Desert Online"
+    string type             "game"
+
+    array int16 releaseDate { 2015 7 14 } ; wikipedia
+
+    array string developers { "Pearl Abyss" } ; wikipedia
+    array string publishers { "Pearl Abyss" } ; wikipedia
+
+    string source "Games/Black Desert Online (2015)"
+}
