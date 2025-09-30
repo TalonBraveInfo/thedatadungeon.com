@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name "Project Apollo"
+    string type "game"
+
+	string releaseStatus cancelled
+
+    array string developers { "Monolith Productions" }
+    array string publishers { "Warner Bros. Games" }
+
+    string source "Games/Project Apollo (Cancelled)"
+}
