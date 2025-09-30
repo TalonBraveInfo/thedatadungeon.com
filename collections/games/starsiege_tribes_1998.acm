@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name             "Starsiege: Tribes"
+    string type             "game"
+
+    array int16 releaseDate { 1998 12 23 } ; https://www.gamespot.com/articles/new-releases/1100-2465925/
+
+    array string developers { "Dynamix" } ; wikipedia
+    array string publishers { "Sierra On-Line" } ; wikipedia
+
+    string source "Games/Starsiege Tribes (1998)"
+}
