@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+    string name             "Outcast: A New Beginning"
+    array string otherNames { "Outcast 2: A New Beginning" }
+
+    string type "game"
+
+    array int16 releaseDate { 2024 3 15 }
+
+    array string developers { "Appeal Studios" } ; wikipedia
+    array string publishers { "THQ Nordic" } ; wikipedia
+
+    string source "Games/Outcast 2 A New Beginning (2024)"
+}
