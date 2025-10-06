@@ -481,3 +481,9 @@ Added game, <a href="project_apollo_cancelled.html">Project Apollo</a>
 Added game, <a href="nexus_cancelled.html">Nexus</a>
 Added game, <a href="battalion_wars_2_2007.html">Battalion Wars 2</a>
 Added game, <a href="aeon_flux_collective_cancelled.html">Aeon Flux</a>
+changeset 1759742304 5
+Added 1 <a href="the_sims_2000.html#distributions">distributions</a>, under <a href="the_sims_2000.html">The Sims</a>
+Added 1 <a href="unreal_1998.html#distributions">distributions</a>, under <a href="unreal_1998.html">Unreal</a>
+Added 1 <a href="haven_call_of_the_king_2002.html#artworks">artworks</a>, under <a href="haven_call_of_the_king_2002.html">Haven Call of the King</a>
+Added 1 <a href="jeff_waynes_the_war_of_the_worlds_1999.html#videos">videos</a>, under <a href="jeff_waynes_the_war_of_the_worlds_1999.html">Jeff Wayne's The War of the Worlds</a>
+Added 4 <a href="metal_arms_glitch_in_the_system_2003.html#distributions">distributions</a>, under <a href="metal_arms_glitch_in_the_system_2003.html">Metal Arms: Glitch in the System</a>
