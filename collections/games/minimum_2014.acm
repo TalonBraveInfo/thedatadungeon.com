@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+    string name Minimum
+
+    array string developers { "TimeGate Studios" "Human Head Studios" }
+    array string publishers { "Atari SA" }
+
+	string icon         "web/icons/collections/minimum.png"
+	string iconSmall    "web/icons/collections/minimum_small.ico"
+
+    array int16 releaseDate { 2014 9 10 } ; per Steam
+
+    string source "Games/Minimum (2014)"
+}
