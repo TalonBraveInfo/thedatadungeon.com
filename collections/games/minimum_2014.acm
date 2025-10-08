@@ -6,6 +6,8 @@ object collection
     array string developers { "TimeGate Studios" "Human Head Studios" }
     array string publishers { "Atari SA" }
 
+    string type game
+
 	string icon         "web/icons/collections/minimum.png"
 	string iconSmall    "web/icons/collections/minimum_small.ico"
 
