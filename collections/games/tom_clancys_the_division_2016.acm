@@ -1,0 +1,14 @@
+node.utf8
+object collection
+{
+    string name "Tom Clancy's The Division"
+
+    array string developers { "Massive Entertainment" }
+    array string publishers { "Ubisoft" }
+
+    array int16 releaseDate { 2016 3 8 }
+
+    string type "game"
+
+    string source "Games/Tom Clancy's The Division (2016)"
+}
