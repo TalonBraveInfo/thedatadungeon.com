@@ -489,3 +489,7 @@ Added 1 <a href="jeff_waynes_the_war_of_the_worlds_1999.html#videos">videos</a>,
 Added 4 <a href="metal_arms_glitch_in_the_system_2003.html#distributions">distributions</a>, under <a href="metal_arms_glitch_in_the_system_2003.html">Metal Arms: Glitch in the System</a>
 changeset 1759916775 1
 Added game, <a href="minimum_2014.html">Minimum</a>
+changeset 1760802570 3
+Added 41 <a href="beyond_good__evil_2003.html#artworks">artworks</a>, under <a href="beyond_good__evil_2003.html">Beyond Good & Evil</a>
+Added 1 <a href="prey_2_cancelled.html#videos">videos</a>, under <a href="prey_2_cancelled.html">Prey 2</a>
+Added game, <a href="tom_clancys_the_division_2016.html">Tom Clancy's The Division</a>
