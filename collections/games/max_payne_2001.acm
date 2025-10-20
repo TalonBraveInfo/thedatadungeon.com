@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name     "Max Payne"
+    string type     "game"
+    string source   "Games/Max Payne (2001)"
+
+    array string developers { "Remedy Entertainment" }
+    array string publishers { "3D Realms" "Gathering of Developers" }
+
+    array int16 releaseDate { 2001 7 25 }
+}
