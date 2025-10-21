@@ -1,0 +1,11 @@
+node.utf8
+object collection
+{
+    string name     "Dirty Bomb"
+    string type     "game"
+    string source   "Games/Dirty Bomb (2013)"
+
+    array string developers { "Splash Damage" }
+
+    array int16 releaseDate { 2013 10 1 }
+}
