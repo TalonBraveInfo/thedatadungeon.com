@@ -1,0 +1,27 @@
+node.utf8
+object collection
+{
+    string name     "Primal II"
+    string type     "game"
+    string source   "Games/Primal II (Cancelled)"
+
+    array string developers { "Sony Computer Entertainment Europe" }
+    array string publishers { "Sony Computer Entertainment" }
+
+    array object links
+    {
+        {
+            string url      "https://www.unseen64.net/2015/05/11/primal-2-ps2-cancelled/"
+            string title    "Unseen64"
+        }
+    }
+
+    array object publications
+    {
+        {
+            string url          "https://groups.google.com/g/uk.games.video.playstation/c/O_fIKZhPdzw/m/PXETEFnrDKIJ?hl=en&pli=1"
+            string title        "Oh, Mr. Donovan!"
+            array int16 date    { 2005 10 19 }
+        }
+    }
+}
