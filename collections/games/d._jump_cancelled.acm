@@ -14,4 +14,7 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string icon         "web/icons/collections/djump.png"
+	string iconSmall    "web/icons/collections/djump_small.png"
 }
