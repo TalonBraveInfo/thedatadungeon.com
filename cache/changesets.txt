@@ -495,3 +495,15 @@ Added 1 <a href="prey_2_cancelled.html#videos">videos</a>, under <a href="prey_2
 Added game, <a href="tom_clancys_the_division_2016.html">Tom Clancy's The Division</a>
 changeset 1760981882 1
 Added game, <a href="max_payne_2001.html">Max Payne</a>
+changeset 1761119305 11
+Added game, <a href="dirty_bomb_2013.html">Dirty Bomb</a>
+Added 9 <a href="final_fantasy_xv_2016.html#videos">videos</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+Added 2 <a href="dark_sector_2008.html#videos">videos</a>, under <a href="dark_sector_2008.html">Dark Sector</a>
+Added 1 <a href="area_51_2005.html#distributions">distributions</a>, under <a href="area_51_2005.html">Area 51</a>
+Added 33 <a href="primal_2003.html#artworks">artworks</a>, under <a href="primal_2003.html">Primal</a>
+Added 1 <a href="primal_2003.html#screenshots">screenshots</a>, under <a href="primal_2003.html">Primal</a>
+Added game, <a href="primal_2_cancelled.html">Primal II</a>
+Added 1 <a href="xiii_2003.html#distributions">distributions</a>, under <a href="xiii_2003.html">XIII</a>
+Added 16 <a href="the_darkness_2007.html#screenshots">screenshots</a>, under <a href="the_darkness_2007.html">The Darkness</a>
+Added 11 <a href="the_darkness_2007.html#videos">videos</a>, under <a href="the_darkness_2007.html">The Darkness</a>
+Added 5 <a href="the_darkness_2007.html#others">others</a>, under <a href="the_darkness_2007.html">The Darkness</a>
