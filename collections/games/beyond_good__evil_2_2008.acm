@@ -1,0 +1,38 @@
+node.utf8
+object collection
+{
+    string name     "Beyond Good & Evil 2 (2008)"
+    string source   "Games/Beyond Good & Evil 2 (2008) (Cancelled)"
+    string type     game
+
+    array string publishers { "Ubisoft" }
+
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/20100528154945/http://kotaku.com/5011404/ubisoft-officially-announces-beyond-good--evil-2"
+            string title        "Ubisoft Officially Announces Beyond Good & Evil 2"
+            array int16 date    { 2008 5 28 }
+        }
+        {
+            string url          "https://www.eurogamer.net/beyond-good-and-evil-2-still-in-dev"
+            string title        "Beyond Good & Evil 2 still in development"
+            array int16 date    { 2010 6 1 }
+        }
+        {
+            string url          "https://web.archive.org/web/20100821113143/http://kotaku.com/5616870/ubisoft-beyond-good--evil-2-must-be-perfect"
+            string title        "Ubisoft: Beyond Good & Evil 2 Must Be Perfect"
+            array int16 date    { 2010 8 19 }
+        }
+        {
+            string url          "https://web.archive.org/web/20110613071649/http://www.joystiq.com/2011/06/08/michel-ancel-on-beyond-good-and-evil-2-im-waiting-for-it-as-much/"
+            string title        "Michel Ancel on Beyond Good & Evil 2: I'm waiting for it as much as you are"
+            array int16 date    { 2011 6 8 }
+        }
+        {
+            string url          "https://web.archive.org/web/20110614202131/http://www.computerandvideogames.com/306941/news/dont-panic-beyond-good-evil-2-still-in-progress-says-ancel/"
+            string title        "Don't panic: Beyond Good & Evil 2 'still in progress', says Ancel"
+            array int16 date    { 2011 6 13 }
+        }
+    }
+}
