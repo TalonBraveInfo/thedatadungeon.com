@@ -507,3 +507,5 @@ Added 1 <a href="xiii_2003.html#distributions">distributions</a>, under <a href=
 Added 16 <a href="the_darkness_2007.html#screenshots">screenshots</a>, under <a href="the_darkness_2007.html">The Darkness</a>
 Added 11 <a href="the_darkness_2007.html#videos">videos</a>, under <a href="the_darkness_2007.html">The Darkness</a>
 Added 5 <a href="the_darkness_2007.html#others">others</a>, under <a href="the_darkness_2007.html">The Darkness</a>
+changeset 1761729260 1
+Added game, <a href="beyond_good__evil_2_2008.html">Beyond Good & Evil 2 (2008)</a>
