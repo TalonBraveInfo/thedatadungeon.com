@@ -1,0 +1,14 @@
+node.utf8
+object collection
+{
+    string name "Gears of War 2"
+    array string developers { "Epic Games" }
+    array string publishers { "Microsoft Studios" }
+
+    string type game
+
+    string source "Games/Gears of War 2 (2008)"
+
+    string releaseStatus released
+    array int16 releaseDate { 2008 11 7 }
+}
