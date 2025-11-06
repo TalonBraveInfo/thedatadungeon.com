@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name "B.C."
+    array string developers { "Intrepid Computer Entertainment" "Lionhead" }
+    array string publishers { "Microsoft Game Studios" }
+
+    string type game
+
+    string source "Games/B.C. (Cancelled)"
+
+    string releaseStatus cancelled
+}
