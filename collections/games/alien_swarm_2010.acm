@@ -18,4 +18,7 @@ object collection
 		7
 		19
 	}
+
+	string icon         "web/icons/collections/alien_swarm.ico"
+	string iconSmall    "web/icons/collections/alien_swarm_small.jpg"
 }

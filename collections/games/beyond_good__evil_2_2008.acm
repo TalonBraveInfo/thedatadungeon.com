@@ -25,6 +25,11 @@ object collection
             array int16 date    { 2010 8 19 }
         }
         {
+            string url          "https://www.gamesindustry.biz/no-beyond-good-and-evil-2-this-generation"
+            string title        "No Beyond Good & Evil 2 this generation"
+            array int16 date    { 2011 6 6 }
+        }
+        {
             string url          "https://web.archive.org/web/20110613071649/http://www.joystiq.com/2011/06/08/michel-ancel-on-beyond-good-and-evil-2-im-waiting-for-it-as-much/"
             string title        "Michel Ancel on Beyond Good & Evil 2: I'm waiting for it as much as you are"
             array int16 date    { 2011 6 8 }
