@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name             "Starfield"
+    string type             "game"
+    string releaseStatus    released
+
+    array string developers { "Bethesda Game Studios" }
+    array string publishers { "Bethesda Softworks" }
+
+    string source "Games/Starfield (2023)"
+}
