@@ -9,4 +9,26 @@ object collection
     array string publishers { "Bethesda Softworks" }
 
     string source "Games/Starfield (2023)"
+
+    array object publications
+    {
+        {
+            string url "https://www.dsogaming.com/screenshot-news/first-screenshots-for-bethesdas-starfield-have-been-supposedly-leaked-online/"
+            string title "First screenshots for Bethesda’s Starfield have been supposedly leaked online"
+            array int16 date { 2020 9 27 }
+        }
+        {
+            string url "https://www.tweaktown.com/news/79374/starfield-leaked-screenshots-show-third-person-first-action/index.html"
+            string title "Starfield leaked screenshots show third-person, first-person action"
+            array int16 date { 2021 5 15 }
+        }
+        {
+            string url "https://www.dsogaming.com/screenshot-news/new-leaked-starfield-screenshots-show-off-assets-from-its-2018-build/"
+            string title "New Starfield leaked screenshots show off assets from its 2018 build"
+            array int16 date { 2022 1 1 }
+        }
+    }
+
+	string icon         "web/icons/collections/starfield.ico"
+	string iconSmall    "web/icons/collections/starfield_small.ico"
 }
