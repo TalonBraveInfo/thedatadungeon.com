@@ -12,6 +12,9 @@ object collection
 	string releaseStatus "released"
 	array int16 releaseDate { 2016 11 29 }
 
+	string icon         "web/icons/collections/ffxv.ico"
+	string iconSmall    "web/icons/collections/ffxv_small.ico"
+
 	array object links
 	{
 		{
@@ -19,7 +22,7 @@ object collection
 			string title "The Cutting Room Floor"
 		}
 	}
-	
+
 	array object publications
 	{
 	    {
