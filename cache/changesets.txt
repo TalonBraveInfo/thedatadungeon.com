@@ -525,3 +525,6 @@ Added 3 <a href="halo_2001.html#screenshots">screenshots</a>, under <a href="hal
 Added 2 <a href="max_payne_2001.html#distributions">distributions</a>, under <a href="max_payne_2001.html">Max Payne</a>
 changeset 1764413837 1
 Added game, <a href="starfield_2023.html">Starfield</a>
+changeset 1765360244 2
+Added game, <a href="just_cause_3_2015.html">Just Cause 3</a>
+Added 4 <a href="starfield_2023.html#screenshots">screenshots</a>, under <a href="starfield_2023.html">Starfield</a>
