@@ -13,4 +13,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "incorporated_cancelled/images/artwork/me0000421637_2.jpg"
 }

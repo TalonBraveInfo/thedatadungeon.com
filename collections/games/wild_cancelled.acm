@@ -6,5 +6,43 @@ object collection
 	array string publishers { "Sony Interactive Entertainment" }
 	string type game 
 	string source "Games/WiLD (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string icon         "web/icons/collections/wild.png"
+	string iconSmall    "web/icons/collections/wild_small.png"
+	string banner       "wild_cancelled/images/official_website/artwork/sanctuarytree.jpg"
+
+	array object publications
+	{
+	    {
+	        string url          "https://www.cinemablend.com/games/PS4-Exclusive-Wild-Lets-You-Possess-Animals-Talk-Gods-95467.html"
+	        string title        "PS4 Exclusive Wild Lets You Possess Animals, Talk To Gods"
+	        array int16 date    { 2015 10 28 }
+	    }
+	    {
+	        string url          "https://80.lv/articles/wild-technology-people-behind-an-environmental-adventure"
+	        string title        "WiLD: Technology & People behind an Environmental Adventure"
+	        array int16 date    { 2015 10 28 }
+	    }
+	    {
+	        string url          "https://www.engadget.com/2015-10-29-ps4-exclusive-wild-befriend-a-bear-or-get-killed-by-it.html"
+	        string title        "Befriend a bear or get killed by it in PS4-exclusive 'Wild'"
+	        array int16 date    { 2015 10 29 }
+	    }
+	    {
+	        string url          "https://gameinformer.com/games/wild/b/playstation4/archive/2017/01/27/michel-ancel-posts-picture-promises-more-spoiler-free-screens-soon.aspx"
+	        string title        "Michel Ancel Posts Picture, Promises More Spoiler-Free Screens Soon"
+	        array int16 date    { 2017 1 27 }
+	    }
+	    {
+	        string url          "https://www.eurogamer.net/rayman-creator-michel-ancel-quits-video-games-industry-to-work-on-wildlife-sanctuary"
+	        string title        "Rayman creator Michel Ancel quits video games to work on wildlife sanctuary"
+	        array int16 date    { 2020 9 18 }
+	    }
+	    {
+	        string url          "https://www.videogameschronicle.com/news/ubisofts-handling-of-cancelled-playstation-exclusive-wild-was-a-real-scandal-director-says/"
+	        string title        " Ubisoft’s handling of cancelled PlayStation exclusive Wild was ‘a real scandal’, director claims"
+	        array int16 date    { 2024 12 9 }
+	    }
+	}
 }

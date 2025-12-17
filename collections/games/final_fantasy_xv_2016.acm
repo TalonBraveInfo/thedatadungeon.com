@@ -14,6 +14,7 @@ object collection
 
 	string icon         "web/icons/collections/ffxv.ico"
 	string iconSmall    "web/icons/collections/ffxv_small.ico"
+	string banner       "final_fantasy_xv_2016/images/concept_art/ff15-camping-key-art.jpg"
 
 	array object links
 	{

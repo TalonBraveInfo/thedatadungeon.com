@@ -8,6 +8,8 @@ object collection
 	string source "Games/Dragon Empires (Cancelled)" 
 	string releaseStatus cancelled
 
+	string banner "dragon_empires_cancelled/images/artwork/fin_greenwater.jpg"
+
 	array object publications
 	{
 	    {

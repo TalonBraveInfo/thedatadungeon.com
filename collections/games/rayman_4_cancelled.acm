@@ -6,5 +6,7 @@ object collection
 	array string publishers { "Ubisoft" }
 	string type game 
 	string source "Games/Rayman 4 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "rayman_4_cancelled/images/artwork/renders/6279947.jpg"
 }

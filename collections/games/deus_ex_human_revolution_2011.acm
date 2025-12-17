@@ -7,4 +7,6 @@ object collection
     string source "Games/Deus Ex Human Revolution (2011)"
     string type "game"
     array int16 releaseDate { 2011 8 23 }
+
+    string banner "deus_ex_human_revolution_2011/images/dxhr_screenshot_lowerhengsha2.jpg"
 }

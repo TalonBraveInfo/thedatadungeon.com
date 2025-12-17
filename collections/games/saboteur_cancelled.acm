@@ -14,4 +14,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "saboteur_cancelled/images/screenshots/e3_1999/snap041.jpg"
 }

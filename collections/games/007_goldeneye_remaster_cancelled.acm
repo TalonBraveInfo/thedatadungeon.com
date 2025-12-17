@@ -5,5 +5,13 @@ object collection
 	string type game 
 	string source "Games/007 Goldeneye Remaster (Cancelled)"
 	array string developers { "Rare Limited" }
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object links
+	{
+	    {
+	        string title    "Unseen64"
+	        string url      "https://www.unseen64.net/2010/02/07/goldeneye-007-remake-xbox-360-xbla-cancelled/"
+	    }
+	}
 }

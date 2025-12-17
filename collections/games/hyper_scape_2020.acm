@@ -12,4 +12,6 @@ object collection
 		8
 		11
 	}
+
+	string banner "hyper_scape_2020/images/artwork/thierry_doizon/hyper_scape___prisma_arch_by_barontieri_debee67-fullview.jpg"
 }

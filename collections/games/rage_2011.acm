@@ -15,4 +15,5 @@ object collection
 
 	string icon         "web/icons/collections/rage.ico"
 	string iconSmall    "web/icons/collections/rage_small.ico"
+	string banner       "rage_2011/images/artwork/brandon_kitkouski_portfolio_bkstudio.me/id_63.jpg"
 }

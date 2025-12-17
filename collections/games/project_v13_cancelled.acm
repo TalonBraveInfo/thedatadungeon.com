@@ -7,5 +7,7 @@ object collection
 	array string publishers { "Interplay Entertainment" }
 	string type game 
 	string source "Games/Project V13 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "project_v13_cancelled/images/screenshots/album_pic.php_1.jpg"
 }

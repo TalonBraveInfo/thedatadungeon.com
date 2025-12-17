@@ -16,4 +16,6 @@ object collection
             array int16 date { 2012 11 22 }
         }
     }
+
+    string banner "ein/images/artwork/scenes/hyeon-kim-2.jpeg"
 }

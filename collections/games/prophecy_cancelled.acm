@@ -6,5 +6,7 @@ object collection
 	array string publishers { "Sony Computer Entertainment" }
 	string type game 
 	string source "Games/Prophecy (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "prophecy_cancelled/images/artwork/renders/sucnvzb.jpg"
 }

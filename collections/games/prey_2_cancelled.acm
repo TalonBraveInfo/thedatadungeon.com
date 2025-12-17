@@ -96,4 +96,6 @@ object collection
 			array int16 date { 2017 5 25 }
 		}
 	}
+
+	string banner "prey_2_cancelled/images/artwork/chris_miscik/slum_bar_street_by_chrislazzer_d84t6jl.jpg"
 }

@@ -4,5 +4,7 @@ object collection
 	string name DreamWorld 
 	string type game 
 	string source "Games/DreamWorld (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "dreamworld_cancelled/images/screenshots/ef7p5phuwaawbaa.jpeg"
 }

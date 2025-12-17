@@ -21,4 +21,6 @@ object collection
 	        array int16 date    { 2010 11 19 }
 	    }
 	}
+
+	string banner "duke_nukem_forever_2011/images/screenshots/2022_leaked_screenshots/1652058670472.png"
 }

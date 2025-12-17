@@ -7,6 +7,14 @@ object collection
 
     array string publishers { "Ubisoft" }
 
+    array object links
+    {
+        {
+            string url      "https://www.unseen64.net/2012/05/11/beyond-good-evil-2-ps3-xbox-360-beta-prototype/"
+            string title    "Unseen64"
+        }
+    }
+
     array object publications
     {
         {
@@ -40,4 +48,6 @@ object collection
             array int16 date    { 2011 6 13 }
         }
     }
+
+    string banner "beyond_good__evil_2_2008/images/screenshots/2008_reveal_teaser/teaserscreen_03.jpg"
 }

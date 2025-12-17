@@ -12,4 +12,6 @@ object collection
 		8
 		19
 	}
+
+	string banner "too_human_2008/images/logos/too_human_logo_cmyk_psd_jpgcopy.jpg"
 }

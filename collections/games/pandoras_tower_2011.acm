@@ -12,4 +12,8 @@ object collection
 		5
 		26
 	}
+
+	string icon         "web/icons/collections/pandora_tower.png"
+	string iconSmall    "web/icons/collections/pandora_tower_small.png"
+	string banner       "pandoras_tower_2011/images/artwork/68248_sx3_b_hutou01_ad_kopie.jpg"
 }

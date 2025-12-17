@@ -12,4 +12,6 @@ object collection
 		10
 		16
 	}
+
+	string banner "red_faction_ii_2002/images/artwork/232.png"
 }

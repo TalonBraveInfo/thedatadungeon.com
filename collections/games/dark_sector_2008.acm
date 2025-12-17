@@ -12,4 +12,6 @@ object collection
 		3
 		25
 	}
+
+	string banner "dark_sector_2008/images/artwork/logos/dslogo.jpg"
 }

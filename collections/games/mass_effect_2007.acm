@@ -12,4 +12,6 @@ object collection
 		11
 		20
 	}
+
+	string banner "mass_effect_2007/images/screenshots/411-1280x695-2095008620.jpg"
 }

@@ -13,4 +13,6 @@ object collection
 		4
 		15
 	}
+
+	string banner "purge_2003/images/purgeonline.net/20020820/beta-5.jpg"
 }

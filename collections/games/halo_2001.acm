@@ -21,4 +21,5 @@ object collection
 
 	string icon         "web/icons/collections/halo.ico"
 	;string iconSmall    "web/icons/collections/starfield_small.ico"
+	string banner       "halo_2001/images/artwork/alphamoonconcept-scaled.jpg"
 }

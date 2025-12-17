@@ -5,4 +5,6 @@ object collection
     array string developers { "Capcom" }
 	string type game
 	string source "Games/Dead Phoenix (Cancelled)"
+
+	string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
 }

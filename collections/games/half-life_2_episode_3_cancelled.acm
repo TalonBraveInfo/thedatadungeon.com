@@ -6,5 +6,7 @@ object collection
 	array string publishers { "Valve" }
 	string type game 
 	string source "Games/Half-Life 2 Episode 3 (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "half-life_2_episode_3_cancelled/images/concept_art/ep3_chopper_crashed3.jpg"
 }

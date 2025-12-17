@@ -10,4 +10,6 @@ object collection
     array string publishers { "2K" }
 
     array int16 releaseDate { 2007 6 25 }
+
+    string banner "the_darkness_2007/images/screenshots/01.jpg"
 }

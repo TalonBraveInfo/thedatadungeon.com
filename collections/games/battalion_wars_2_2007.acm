@@ -9,4 +9,6 @@ object collection
     array string publishers { "Nintendo" }
 
     string source "Games/Battalion Wars 2 (2007)"
+
+    string banner "battalion_wars_2_2007/images/imkan_hayati/battalion_wars_2_environment_art/imkan-hayati-aurorasky.jpeg"
 }

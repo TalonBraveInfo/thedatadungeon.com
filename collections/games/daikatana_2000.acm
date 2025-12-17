@@ -9,6 +9,8 @@ object collection
 
 	string description "<p>Daikatana was a game developed by John Romero, one of the developers behind Wolfenstein 3D, Doom and Quake, and highly anticipated prior to it's release.</p>"
 
+    string banner "daikatana_2000/images/artwork/marketing/8hb9l.jpg"
+
 	array object links {
 				{
 			string url https://tcrf.net/Category:Daikatana_series 

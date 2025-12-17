@@ -10,4 +10,12 @@ object collection
     string source "Games/B.C. (Cancelled)"
 
     string releaseStatus cancelled
+
+    array object links
+    {
+        {
+            string title    "Unseen64"
+            string url      "https://www.unseen64.net/2008/04/16/bc-xbox-cancelled/"
+        }
+    }
 }

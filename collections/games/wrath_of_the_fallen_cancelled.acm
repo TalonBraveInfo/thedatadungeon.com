@@ -4,5 +4,7 @@ object collection
 	string name "Wrath of the Fallen" 
 	string type game 
 	string source "Games/Wrath of the Fallen (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "wrath_of_the_fallen_cancelled/images/screenshots/screen01.jpg"
 }

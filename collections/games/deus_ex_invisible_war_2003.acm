@@ -9,6 +9,7 @@ object collection
 
     string icon         "web/icons/collections/deus_ex_invisible_war_small.ico"
     string iconSmall    "web/icons/collections/deus_ex_invisible_war_small.ico"
+    string banner       "deus_ex_invisible_war_2003/images/artwork/seattle.jpg"
 
 	array object links {
 				{

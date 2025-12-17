@@ -12,4 +12,8 @@ object collection
 		1
 		26
 	}
+
+	string icon         "web/icons/collections/oni_small.ico"
+	string iconSmall    "web/icons/collections/oni_small.ico"
+	string banner       "oni_2001/images/artwork/print/onibannere3.jpg"
 }

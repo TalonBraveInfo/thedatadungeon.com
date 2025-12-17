@@ -4,5 +4,7 @@ object collection
 	string name "Forbidden Place" 
 	string type game 
 	string source "Games/Forbidden Place (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "forbidden_place_cancelled/images/screenshots/test10060.jpg"
 }

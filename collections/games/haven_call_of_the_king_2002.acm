@@ -12,4 +12,6 @@ object collection
 		11
 		18
 	}
+
+	string banner "haven_call_of_the_king_2002/images/artwork/game_concept_art_travellers_tales_pirate_ship.jpg"
 }

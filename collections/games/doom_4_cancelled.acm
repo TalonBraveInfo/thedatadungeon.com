@@ -11,5 +11,7 @@ object collection
 			string title "The Cutting Room Floor" 
 		}
 	}
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "doom_4_cancelled/images/shot00098_jpg.jpg"
 }

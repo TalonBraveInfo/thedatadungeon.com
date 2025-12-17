@@ -12,4 +12,6 @@ object collection
 
 	string releaseStatus released 
 	array int16 releaseDate { 2006 11 7 }
+
+	string banner "gears_of_war_unreal_warfare_2006/images/screenshots/pre_lighting_rewrite/2006_mad_world_trailer_screenshots/13_gears_of_war_-_mad_world_-_12_resized.jpg"
 }

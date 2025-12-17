@@ -5,5 +5,15 @@ object collection
 	array string developers { "Contraband Entertainment" }
 	string type game 
 	string source "Games/Abducted (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	array object links
+	{
+	    {
+	        string title    "Unseen64"
+	        string url      "https://www.unseen64.net/2009/06/29/abducted-xbox-cancelled/"
+	    }
+	}
+
+	string banner "abducted_cancelled/images/screenshots/screenshot4.jpg"
 }

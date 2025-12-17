@@ -13,4 +13,8 @@ object collection
 		11
 		19
 	}
+
+	string icon         "web/icons/collections/rrr_small.png"
+	string iconSmall    "web/icons/collections/rrr_small.png"
+	string banner       "rayman_raving_rabbids_rayman_4_2006/images/screenshots/2022_leaked_images/anyconv.com__scrappedrailshooter.jpg"
 }

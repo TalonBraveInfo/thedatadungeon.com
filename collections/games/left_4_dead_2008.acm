@@ -12,4 +12,6 @@ object collection
 		11
 		18
 	}
+
+	string banner "left_4_dead_2008/images/screenshots/warehouse-bill-infected.jpg"
 }

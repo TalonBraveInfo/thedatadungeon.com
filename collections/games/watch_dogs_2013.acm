@@ -26,4 +26,6 @@ object collection
 	        array int16 date { 2013 7 10 }
 	    }
 	}
+
+	string banner "watch_dogs_2013/images/artwork/michel_donze/michel-donze-wd-gasstationnight.jpeg"
 }

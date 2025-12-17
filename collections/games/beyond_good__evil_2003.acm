@@ -22,4 +22,8 @@ object collection
 		11
 		11
 	}
+
+	string icon         "web/icons/collections/beyond_good_evil_small.ico"
+	string iconSmall    "web/icons/collections/beyond_good_evil_small.ico"
+	string banner       "beyond_good__evil_2003/images/artwork/philippe_archer/bge_concept_11.jpg"
 }

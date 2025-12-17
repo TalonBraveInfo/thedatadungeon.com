@@ -18,4 +18,6 @@ object collection
 		4
 		10
 	}
+
+	string banner "final_fantasy_vii_remake_2020/images/january_2020_leaked_demo/data_mining/vhdmdnp.jpg"
 }

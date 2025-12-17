@@ -11,6 +11,7 @@ object collection
 
 	string icon         "web/icons/collections/prey_small.ico"
 	string iconSmall    "web/icons/collections/prey_small.ico"
+	string banner       "prey_2006/paul_schuytema_era/content/pre-release/art/trocara8.jpg"
 
 	array object links
 	{

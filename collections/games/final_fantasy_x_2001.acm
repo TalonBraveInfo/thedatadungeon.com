@@ -18,4 +18,6 @@ object collection
 		7
 		19
 	}
+
+	string banner "final_fantasy_x_2001/images/artwork/logo/image16.jpeg"
 }

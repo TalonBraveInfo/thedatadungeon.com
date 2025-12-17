@@ -5,6 +5,9 @@ object collection
 	array string otherNames { "Black 9" }
 	array string developers { "Taldren" }
 	array string publishers { "Majesco" }
+
+	string banner "black9_cancelled/images/other/pp_img1.png"
+
 	string type game 
 	string source "Games/Black9 (Cancelled)" 
 	string releaseStatus cancelled
@@ -13,6 +16,10 @@ object collection
 	    {
 	        string url "https://web.archive.org/web/20040327004816/http://black-9.com/"
 	        string title "Official Website"
+	    }
+	    {
+	        string url      "https://www.unseen64.net/2008/04/15/black-9-xboxps2-cancelled/"
+	        string title    "Unseen64"
 	    }
 	}
 	array object publications

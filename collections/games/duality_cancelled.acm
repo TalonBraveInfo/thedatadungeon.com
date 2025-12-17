@@ -5,5 +5,7 @@ object collection
 	array string developers { "Double Aught" }
 	string type game 
 	string source "Games/Duality (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "duality_cancelled/images/screenshots/courtney_evans/d07.jpeg"
 }

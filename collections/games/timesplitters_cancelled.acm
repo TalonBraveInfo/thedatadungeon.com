@@ -5,5 +5,7 @@ object collection
 	array string developers { "Free Radical Design" }
 	string type game 
 	string source "Games/TimeSplitters (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "timesplitters_cancelled/images/johnny_patroklou_portfolio/johnny-patroklou-neowars-thetowernight.jpg"
 }

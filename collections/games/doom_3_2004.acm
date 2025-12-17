@@ -15,4 +15,5 @@ object collection
 
 	string icon         "web/icons/collections/doom3_small.ico"
 	string iconSmall    "web/icons/collections/doom3_small.ico"
+	string banner       "doom_3_2004/images/screenshots/2002/1.jpg"
 }

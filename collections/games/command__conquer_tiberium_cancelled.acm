@@ -6,5 +6,7 @@ object collection
 	array string publishers { "Electronic Arts" }
 	string type game 
 	string source "Games/Command & Conquer Tiberium (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "command__conquer_tiberium_cancelled/images/command2.jpg"
 }

@@ -14,4 +14,12 @@ object collection
 	        array int16 date { 2025 2 1 }
 	    }
 	}
+
+	array object links
+	{
+	    {
+	        string title    "Unseen64"
+	        string url      "https://www.unseen64.net/2008/12/19/beyond-xbox-unreleased/"
+	    }
+	}
 }

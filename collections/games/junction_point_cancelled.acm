@@ -13,4 +13,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "junction_point_cancelled/images/screenshots/g_pc_jp2.jpg"
 }

@@ -9,6 +9,7 @@ object collection
 
 	string icon         "web/icons/collections/unreal_small.ico"
 	string iconSmall    "web/icons/collections/unreal_small.ico"
+	string banner       "unreal_1998/media/images/screenshots/1998/unreal-1-epic-11.jpg"
 
 	array object links {
 				{

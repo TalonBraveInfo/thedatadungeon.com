@@ -21,4 +21,5 @@ object collection
 
 	string icon         "web/icons/collections/alien_swarm.ico"
 	string iconSmall    "web/icons/collections/alien_swarm_small.jpg"
+	string banner       "alien_swarm_2010/images/concept_art/02-drone_art4.jpg"
 }

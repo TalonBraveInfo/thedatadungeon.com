@@ -9,6 +9,7 @@ object collection
 
 	string icon         "web/icons/collections/bioshock_small.ico"
 	string iconSmall    "web/icons/collections/bioshock_small.ico"
+	string banner       "bioshock_2007/images/concept_art/david_flamburis/rapture_is_born/david-flamburis-raptureconcept-001.jpg"
 
 	array object links {
 				{

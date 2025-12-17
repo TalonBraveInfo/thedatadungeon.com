@@ -18,4 +18,6 @@ object collection
 		3
 		26
 	}
+
+	string banner "bioshock_infinite_2013/images/artwork/jorge_lacera/tumblr_mo98qwyeje1suo8gho2_1280.jpg"
 }

@@ -12,4 +12,6 @@ object collection
 		11
 		6
 	}
+
+	string banner "ratchet__clank_2003/images/concept_art/the_ratchet__clank_youve_never_seen_10_years_of_concept_art/7834427076_8679f8394c_o.jpg"
 }

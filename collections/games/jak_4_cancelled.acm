@@ -14,4 +14,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "jak_4_cancelled/images/artwork/james-paick-28.jpg"
 }

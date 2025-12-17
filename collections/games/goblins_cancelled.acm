@@ -13,4 +13,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "goblins_cancelled/images/artwork/egan_hirvela/goblins_01.jpg"
 }
