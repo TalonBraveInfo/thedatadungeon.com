@@ -12,4 +12,15 @@ object collection
 		5
 		10
 	}
+
+	array object publications
+	{
+	    {
+	        string title        "What happened to Brink 2 and 3?"
+	        string url          "https://www.eurogamer.net/what-happened-to-brink-2-and-3"
+	        array int16 date    { 2011 2 28 }
+	    }
+	}
+
+	string banner "brink_2011/images/artwork/splash_damage_20th_anniversary/splash-damage-sd20-brink-mural-1920-x-1080-2.jpeg"
 }

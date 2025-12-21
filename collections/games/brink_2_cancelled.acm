@@ -1,0 +1,24 @@
+node.utf8
+object collection
+{
+	string name BRII
+	array string otherNames { "Brink 2" }
+
+	array string developers { "Splash Damage" }
+	;array string publishers { "Bethesda Softworks" }
+
+	string type game
+	string source "Games/BRII (Cancelled)"
+	string releaseStatus released
+
+	string banner "brink_2_cancelled/images/artwork/georgi_simeonov/georgi-simeonov-environment-gs-canyon-city-logo.webp"
+
+	array object publications
+	{
+	    {
+	        string title        "What happened to Brink 2 and 3?"
+	        string url          "https://www.eurogamer.net/what-happened-to-brink-2-and-3"
+	        array int16 date    { 2011 2 28 }
+	    }
+	}
+}
