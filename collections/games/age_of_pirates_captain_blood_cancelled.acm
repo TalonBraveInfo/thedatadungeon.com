@@ -12,5 +12,7 @@ object collection
 			string title "The Cutting Room Floor" 
 		}
 	}
-	string releaseStatus cancelled
+
+    ; wow, took long enough! :)
+	array int16 releaseDate { 2025 5 6 }
 }

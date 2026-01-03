@@ -18,4 +18,6 @@ object collection
 		10
 		4
 	}
+
+	string banner "black__white_2_2005/images/screenshots/e3_2002/bw2.jpg"
 }

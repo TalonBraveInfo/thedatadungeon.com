@@ -12,4 +12,6 @@ object collection
     array string publishers { "THQ Nordic" } ; wikipedia
 
     string source "Games/Outcast 2 A New Beginning (2024)"
+
+    string banner "outcast_2_a_new_beginning_2024/images/screenshots/promotional/2021-09/oc2_2_desan_4k.png"
 }

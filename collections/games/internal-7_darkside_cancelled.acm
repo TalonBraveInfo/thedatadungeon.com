@@ -26,4 +26,6 @@ object collection
 	        array int16 date { 2017 2 18 }
 	    }
 	}
+
+	string banner "internal-7_darkside_cancelled/images/artwork/erik_san_juan/concepts/ya0r0m4.jpg"
 }

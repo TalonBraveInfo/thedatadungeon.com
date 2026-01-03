@@ -13,4 +13,6 @@ object collection
 	        array int16 date { 2019 6 1 }
 	    }
 	}
+
+	string banner "wishworld_cancelled/images/concept_art/preproductionconcepts01.webp"
 }

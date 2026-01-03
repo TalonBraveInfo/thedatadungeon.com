@@ -18,4 +18,6 @@ object collection
 		11
 		10
 	}
+
+	string banner "fallout_4_2015/images/artwork/stephan_martiniere_portfolio_martiniere.com/fallout4bombing.jpg"
 }

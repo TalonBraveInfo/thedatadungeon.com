@@ -12,4 +12,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "terminus_cancelled/images/unseen64.net/terminus-scavenger-cancelled-9.jpg"
 }

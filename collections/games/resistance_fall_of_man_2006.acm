@@ -12,4 +12,6 @@ object collection
 		11
 		11
 	}
+
+	string banner "resistance_fall_of_man_2006/images/screenshots/2006-09/manchester_04.jpg"
 }

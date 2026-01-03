@@ -12,4 +12,6 @@ object collection
 		10
 		25
 	}
+
+	string banner "the_outer_worlds_2019/images/screenshots/2018_december_reveal/tow-roseway-interior-001.jpg"
 }

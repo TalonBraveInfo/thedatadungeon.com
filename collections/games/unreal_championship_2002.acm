@@ -12,4 +12,6 @@ object collection
 		11
 		12
 	}
+
+	string banner "unreal_championship_2002/images/screenshots/shot0015.jpg"
 }

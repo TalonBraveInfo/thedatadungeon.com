@@ -5,5 +5,7 @@ object collection
 	array string developers { "Ritual Entertainment" }
 	string type game 
 	string source "Games/SiN 2 Reborn (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "sin_2_reborn_cancelled/images/artwork/sin-2-reborn-ritual-entertainment-cancelled-pc_4.jpg"
 }

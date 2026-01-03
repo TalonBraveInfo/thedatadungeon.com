@@ -10,4 +10,6 @@ object collection {
 		12
 		1
 	}
+
+	string banner "thief_the_dark_project_dark_camelot_1998/images/screenshots/early_production/v09dkt03-the_prison_factory.jpg"
 }

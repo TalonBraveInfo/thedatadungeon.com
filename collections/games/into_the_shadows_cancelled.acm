@@ -14,4 +14,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "into_the_shadows_cancelled/images/magazine_articles/edge_28/into_the_shadow_edge_28_2.jpg"
 }

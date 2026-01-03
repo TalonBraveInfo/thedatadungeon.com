@@ -1,0 +1,17 @@
+node.utf8
+object collection
+{
+    string name "Spore"
+    array string developers { "Maxis" }
+    array string publishers { "Electronic Arts" }
+
+    string type game
+
+    string source "Games/Spore (2008)"
+
+    array int16 releaseDate { 2008 9 4 }
+
+	string icon         "web/icons/collections/spore.ico"
+	string iconSmall    "web/icons/collections/spore_small.ico"
+    string banner       "spore_2008/images/screenshots/spore34.jpg"
+}

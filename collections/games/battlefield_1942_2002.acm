@@ -12,4 +12,6 @@ object collection
 		9
 		10
 	}
+
+	string banner "battlefield_1942_2002/images/screenshots/2002/screen1.jpg"
 }

@@ -9,6 +9,7 @@ object collection
 
 	string icon         "web/icons/collections/unreal2_small.ico"
 	string iconSmall    "web/icons/collections/unreal2_small.ico"
+	string banner       "unreal_ii_the_awakening_2003/images/screenshots/e3_2002/shot_hires_1.jpg"
 
 	array object links {
 				{

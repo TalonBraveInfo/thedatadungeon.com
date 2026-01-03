@@ -4,5 +4,7 @@ object collection
 	string name "Arena AD" 
 	string type game 
 	string source "Games/Arena AD (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "arena_ad_cancelled/images/screenshots/arena_ad_11.jpg"
 }

@@ -16,6 +16,7 @@ object collection
 
 	string icon         "web/icons/collections/omikron_small.ico"
 	string iconSmall    "web/icons/collections/omikron_small.ico"
+	string banner       "omikron_the_nomad_soul_1999/images/artwork/locations/lahoreh/lahoreh1.jpg"
 
 	array object publications
 	{

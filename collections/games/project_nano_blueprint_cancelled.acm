@@ -6,5 +6,9 @@ object collection
 	array string developers { "Epic Games" }
 	string type game 
 	string source "Games/Project Nano (Blueprint) (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string icon         "web/icons/collections/nano.png"
+	string iconSmall    "web/icons/collections/nano_small.png"
+	string banner       "project_nano_blueprint_cancelled/images/artwork/nano1.jpg"
 }

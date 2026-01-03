@@ -6,5 +6,7 @@ object collection
 	array string publishers { "LucasArts" }
 	string type game 
 	string source "Games/Star Wars Battlefront III (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "star_wars_battlefront_iii_cancelled/images/2008/5a.jpg"
 }

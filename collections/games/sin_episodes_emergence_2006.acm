@@ -12,4 +12,6 @@ object collection
 		5
 		10
 	}
+
+	string banner "sin_episodes_emergence_2006/images/artwork/concept_050826_07.jpg"
 }
