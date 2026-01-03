@@ -27,10 +27,19 @@ as the name is changed.
     --inside-darker: rgb(127, 96, 16);
     --deep-darker: rgb(127, 35, 35);
 
+    --colour-see-through: rgba(0,0,0,0.7);
     --colour-x: #3B62CF;
     --colour-x2: #1f2639;
 
-    --base-radius: 0.35em;
+    --colour-missing-a: rgb(255,0,255);
+    --colour-missing-b: rgb(0,0,0);
+
+    --base-radius:16px;
+    --base-radius-small:8px;
+
+    --border-size:4px;
+
+    --extend-width:1440px;
 }
 
 table {
@@ -82,7 +91,7 @@ table.directory td:nth-of-type(4), table.directory th:nth-of-type(4) {
 th {
     font-size: 1.2em;
     font-weight: bold;
-    border-radius: var(--base-radius);
+    border-radius: var(--base-radius-small);
     padding: 5px;
     background: var(--colour-x);
     color: white;
@@ -125,15 +134,16 @@ th {
 
 h1 {
     font-size: 3.0em;
-    margin-top: 0.2em;
-    margin-bottom: 0;
+    margin-top:auto;
+    margin-bottom:auto;
     padding-bottom: 0;
     font-family: 'Montserrat', sans-serif;
+    text-shadow: black 0 8px 16px;
 }
 
 h2 {
     font-size: 1.5em;
-    border-bottom: 1px solid white;
+    border-bottom: 2px solid white;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -143,14 +153,14 @@ h4 {
     padding: 0;
     margin-bottom: 0.2em;
     font-family: 'Montserrat', sans-serif;
+    display: inline-block;
 }
 
 body {
-    background: rgb(28,28,28);
     color: #e9e9e9;
     font-family: 'Hind Siliguri', sans-serif;
     font-size: 1.0em;
-
+    background:var(--colour-x2);
     margin: 0;
     padding: 0;
 }
@@ -172,6 +182,10 @@ code {
     border-radius: var(--base-radius);
 }
 
+video {
+    border-radius: var(--base-radius-small);
+    background: black;
+}
 
 a {
     color: var(--base-color);
@@ -192,12 +206,60 @@ a:hover {
     text-align: left;
     margin-left: auto;
     margin-right: auto;
+
     padding-left: 1em;
     padding-right: 1em;
+    padding-top:0.5em;
+}
+
+.dd-heading {
+    position:relative;
+    top:-128px;
+    margin-bottom: -128px;
+
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), no-repeat url("file:///home/hogsy/Projects/thedatadungeon.staging/beyond_good__evil_2_2008/images/screenshots/2008_reveal_teaser/teaserscreen_03.jpg") center center;
+    background-size:cover;
+}
+
+.dd-heading-blur {
+    backdrop-filter: blur(16px) brightness(0.5);
+    padding-top: 128px;
+}
+
+.dd-content-heading {
+    padding-top:8px;
+    padding-left:8px;
+    padding-right:8px;
+
+    border-radius:var(--base-radius) var(--base-radius) 0 0;
+    border-bottom:0;
+
+    margin-left:auto;
+    margin-right:auto;
+    max-width:var(--extend-width);
+
+    /*
+    background:
+            repeating-conic-gradient(
+                    var(--colour-missing-a) 0 25%,
+                    var(--colour-missing-b) 0 50%)
+            50% / 30px 30px;
+     */
+
+    background:
+            url('data:image/svg+xml;utf8,<svg style="font-family:sans-serif;transform:rotate(-45deg)" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 120 120"><text x="0" y="50" fill="%20">Missing Banner</text></svg>')
+            0 0/150px 150px, var(--deep-color);
+}
+
+@media (max-width:1440px) {
+    .dd-content-heading {
+        border-radius:0;
+    }
 }
 
 .sub-content {
-    background:#1f2639;
+    border-top: var(--border-size) solid var(--colour-x);
+    background:var(--colour-x2);
 }
 
 .center {
@@ -256,7 +318,11 @@ a:hover {
 }
 
 .gallery-collapsed > .bubble-block, .gallery-expanded > .bubble-block {
-    vertical-align: middle;
+    vertical-align:baseline;
+    text-align: center;
+    text-decoration: none;
+    padding:0.5em;
+    width:1.5em;
 }
 
 .gallery-collapsed > .bubble-block:hover, .gallery-expanded > .bubble-block:hover {
@@ -264,14 +330,26 @@ a:hover {
     color: var(--deep-color);
 }
 
+.dd-bubble-block {
+    background:var(--colour-see-through);
+    backdrop-filter:blur(16px);
+    border-radius:var(--base-radius);
+    width:fit-content;
+    padding:0.5em;
+}
+
+/* remove this */
 .bubble-block {
-    background: rgb(0, 0, 0, 0.7);
+    background: var(--colour-see-through);
+    backdrop-filter: blur(16px);
     border-radius: var(--base-radius);
     padding: 0.5em;
     padding-top: 0.2em;
     padding-bottom:0.2em;
-    margin: 0 0.1em 0.1em 0.1em;
+    margin: 0 0 0.5em 0.5em;
     display: inline-block;
+
+    width:fit-content;
 }
 
 .bubble-block img {
@@ -289,26 +367,51 @@ a:hover {
 }
 
 .bubble-image > img {
-    border: 1px solid rgba(0, 0, 0, 1.0);
+    border: 2px solid var(--colour-x);
     border-radius: var(--base-radius);
     margin: 0.2em;
     width: 128px;
     height: 128px;
 }
 
+.bubble-image > img:hover {
+    border: 2px solid var(--deep-color);
+}
+
 .bubble-image-overlay {
-    position: absolute;
-    top: 75%;
-    left: 5%;
-    width: 90%;
+    position:absolute;
+    left:0;
+    right:0;
+
+    margin:0;
+    top: 77%;
+
+    max-width:90%;
+
     background: rgba(0, 0, 0, 0.5);
     font-size: 0.65em;
     text-align: center;
+
     margin-left: auto;
     margin-right: auto;
     border-radius: var(--base-radius);
-    overflow: hidden;
-    text-overflow: ellipsis;
+
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.bubble-image-overlay:hover {
+    background: rgba(0, 0, 0, 1.0);
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:preserve;
+
+    font-size: 0.75em;
+
+    padding:0.5em;
+
+    max-width:100%;
 }
 
 .bubble-image-overlay-citation {
@@ -391,17 +494,15 @@ hr {
 }
 
 .dd-menu {
-    width: 100%;
-    font-size: 0.875rem;
     position: -webkit-sticky; /* Safari */
     position: sticky;
+    width: 100%;
+    font-size: 0.875rem;
     top: 0;
     z-index: 100; /* Stop YouTube iframes being drawn over us. */
-    backdrop-filter: blur(4px);
-    border-bottom: 0.2em solid var(--colour-x);
     display: flex;
     transition: all 0.75s ease; /* Smooth transition */
-    background: #1f2639;
+    background: none;
 }
 
 .dd-menu ul {
@@ -418,15 +519,17 @@ hr {
     padding: 0.5em 1.45em;
     color: black;
     text-decoration: none;
-    margin: 0.15em;
-    border-radius: var(--base-radius);
+    margin: 0.25em;
+    border-radius: var(--base-radius-small);
     border-bottom: none;
     background: var(--inside-color);
 }
 
 .dd-menu.shrink {
+    backdrop-filter: blur(16px);
     padding: 0.4em 0;
     background: rgba(0, 0, 0, 0.7);
+    border-bottom: var(--border-size) solid var(--colour-x);
 }
 
 .dd-menu.shrink .dd-menu-logo {
@@ -446,7 +549,7 @@ hr {
 
 .dd-sub-menu {
     font-size: 1.15em;
-    border-bottom: 0.3em solid var(--colour-x);
+    /*border-bottom: 0.3em solid var(--colour-x);*/
     margin-top: 1.5em;
     margin-left:auto;
     margin-right:auto;
@@ -459,8 +562,8 @@ hr {
     text-decoration: none;
     margin-left: 0.25em;
     margin-right: 0.25em;
-    border-radius: var(--base-radius) var(--base-radius) 0 0;
-    border-bottom: none;
+    border-radius: var(--base-radius-small) var(--base-radius-small) 0 0;
+    /*border-bottom: none;*/
     background: var(--colour-x2);
 }
 
@@ -485,11 +588,17 @@ hr {
 
 .dd-subsection {
     display: none;
+    max-width: var(--extend-width);
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .dd-collection-icon {
-    height: 64px;
-    margin: 1.0em 1.0em 1.0em 0;
+    height:64px;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-right:1.0em;
+    filter:drop-shadow(0 8px 8px black);
 }
 
 .dd-collection-icon-small {
@@ -501,6 +610,29 @@ hr {
     padding:1.5em;
     max-width:1024px;
     margin:auto;
+}
+
+/*****************************************************/
+/* Heading */
+/*****************************************************/
+
+.dd-heading-metadata {
+    font-size:1.05em;
+    min-width:320px;
+    max-width:fit-content;
+
+    td {
+        padding:0.25em;
+    }
+}
+
+.dd-heading-title {
+    border-radius: var(--base-radius);
+    padding:1em;
+    margin:0.5em;
+    backdrop-filter: blur(16px);
+    background: var(--colour-see-through);
+    width:max-content;
 }
 
 /*****************************************************/

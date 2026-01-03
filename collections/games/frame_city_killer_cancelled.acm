@@ -8,5 +8,7 @@ object collection
 	string description "<p>Developed by Namco, using Unreal Engine 3. Was cancelled in May of 2006.</p>"
 	string releaseStatus cancelled
 
-	string banner "frame_city_killer_cancelled/images/artwork/wallpapers/fcwp_06_1280.jpg"
+	string icon         "web/icons/collections/frame-city.png"
+	string iconSmall    "web/icons/collections/frame-city_small.png"
+	string banner       "frame_city_killer_cancelled/images/artwork/wallpapers/fcwp_06_1280.jpg"
 }

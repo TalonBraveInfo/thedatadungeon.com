@@ -13,4 +13,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "reich_cancelled/images/screenshots/techartninja.com/reichscreens1.jpg"
 }
