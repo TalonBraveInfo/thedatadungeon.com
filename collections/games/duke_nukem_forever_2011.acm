@@ -16,9 +16,84 @@ object collection
 	array object publications
 	{
 	    {
+	        string url          "https://web.archive.org/web/19980625192145/http://www.meccaworld.com/daily_dementia/march/031298/"
+	        string title        "the Daily Dementia -- Your Guide to the Gamers"
+	        array int16 date    { 1998 3 12 }
+	    }
+	    {
+	        string url          "https://www.gamespot.com/articles/3d-realms-denies-duke-nukem-forever-using-doom-3-engine/1100-6107100/"
+	        string title        "3D Realms denies Duke Nukem Forever using Doom 3 engine"
+	        array int16 date    { 2004 9 10 }
+	    }
+	    {
 	        string url          "https://web.archive.org/web/20141228043649/http://www.maximumpc.com/article/DNF"
 	        string title        "Duke Nukem: The Once & Future King?"
 	        array int16 date    { 2010 11 19 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20110125130150/http://www.gearboxity.com/content/view/601/36"
+	        string title        "Duke Nukem Forever Release Date Announced! New Trailer Released!"
+	        array int16 date    { 2011 1 21 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20110330134056/http://resources.news.com.au/files/2011/03/28/1226029/526111-news-pdf-duke-nukem-forever-20110328.pdf"
+	        string title        "Australian Government Classification Board Decision Report"
+	        array int16 date    { 2011 3 28 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20240524032809/https://www.dmagazine.com/publications/d-magazine/2011/may/duke-nukem-forever-the-video-game-that-wouldnt-die/"
+	        string title        "Duke Nukem Forever: The Video Game That Wouldn’t Die"
+	        array int16 date    { 2011 4 20 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20160831160230/http://www.dukenukemforever.com/html/us/community/features/history.html"
+	        string title        "INSIDE DUKE BURGER"
+	        array int16 date    { 2011 5 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20211127084629/https://www.destructoid.com/bafta-qa-duke-nukem-and-his-gay-robot-sidekick/"
+	        string title        "BAFTA Q&A: Duke Nukem and his gay robot sidekick"
+	        array int16 date    { 2011 5 18 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20160405035124/http://dukenukemforever.com/html/us/community/transcripts/transcript7.html"
+	        string title        "PODCAST SEVEN: THE HOME STRETCH"
+	        array int16 date    { 2011 5 20 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20250916231809/https://www.dallasnews.com/business/technology/2011/06/11/plano-based-firm-helped-revive-duke-nukem-forever/"
+	        string title        "Plano-based firm helped revive ‘Duke Nukem Forever’"
+	        array int16 date    { 2011 6 11 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20241224041955/https://loot-ninja.com/2011/06/13/gearbox-community-day-2011-duke-nukem-forever-panel/"
+	        string title        "Gearbox Community Day 2011: Duke Nukem Forever Panel"
+	        array int16 date    { 2011 6 13 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20110706231825/http://www.escapistmagazine.com/articles/view/columns/extra-punctuation/9002-Extra-Punctuation-Yahtzee-Could-Have-Written-Duke-Nukem-Forever"
+	        string title        "Extra Punctuation: Yahtzee Could Have Written Duke Nukem Forever"
+	        array int16 date    { 2011 7 5 }
+	    }
+	    {
+	        string url          "https://www.shacknews.com/article/69499/duke-nukem-forever-expanded-inventory-update-unlikely-consoles"
+	        string title        "Duke Nukem Forever expanded inventory update 'unlikely' for consoles"
+	        array int16 date    { 2011 7 29 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20120323002902/http://www.nowgamer.com/news/1002928/3d_realms_duke_nukem_fans_saw_through_manipulation.html"
+	        string title        "3D Realms: Duke Nukem Fans ‘Saw Through Manipulation’"
+	        array int16 date    { 2011 8 3 }
+	    }
+	    {
+	        string url          "https://www.shacknews.com/article/79724/3d-realms-suing-gearbox-over-duke-nukem-forever-royalties"
+	        string title        "3D Realms suing Gearbox over Duke Nukem Forever royalties"
+	        array int16 date    { 2013 6 13 }
+	    }
+	    {
+	        string url          "https://www.eurogamer.net/digital-extremes-coo-claims-digital-extremes-was-too-busy-with-bioshock-and-the-darkness-2-to-take-on-the-troubled-duke-nukem-forever"
+	        string title        "Digital Extremes COO claims Digital Extremes was too busy with Bioshock and The Darkness 2 to take on the troubled Duke Nukem Forever"
+	        array int16 date    { 2025 7 22 }
 	    }
 	}
 
