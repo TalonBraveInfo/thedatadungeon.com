@@ -528,3 +528,8 @@ Added game, <a href="starfield_2023.html">Starfield</a>
 changeset 1765360244 2
 Added game, <a href="just_cause_3_2015.html">Just Cause 3</a>
 Added 4 <a href="starfield_2023.html#screenshots">screenshots</a>, under <a href="starfield_2023.html">Starfield</a>
+changeset 1768564873 4
+Added 34 <a href="duke_nukem_3d.html#others">others</a>, under <a href="duke_nukem_3d.html">Duke Nukem 3D</a>
+Added 33 <a href="brink_2011.html#artworks">artworks</a>, under <a href="brink_2011.html">Brink</a>
+Added game, <a href="spore_2008.html">Spore</a>
+Added game, <a href="brink_2_cancelled.html">BRII</a>
