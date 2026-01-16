@@ -2,7 +2,7 @@
 
 ## Recommended Sizes
 
-- Header should be 2048x1024 minimum
+1440x512 minimum, and 2560x910 maximum.
 
 ## Sources
 
