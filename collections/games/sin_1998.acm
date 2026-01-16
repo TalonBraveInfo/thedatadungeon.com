@@ -12,4 +12,6 @@ object collection
 		11
 		5
 	}
+
+	string banner "sin_1998/images/screenshots/18_-_q9zvcie.jpg"
 }

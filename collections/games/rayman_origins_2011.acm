@@ -7,4 +7,6 @@ object collection
 	string type game
     array int16 releaseDate { 2011 11 15 }
 	string source "Games/Rayman Origins (2011)"
+
+	string banner "rayman_origins_2011/images/raymanorigins_002.jpg"
 }

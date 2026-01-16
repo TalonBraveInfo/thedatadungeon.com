@@ -217,7 +217,7 @@ a:hover {
     top:-128px;
     margin-bottom: -128px;
 
-    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), no-repeat url("file:///home/hogsy/Projects/thedatadungeon.staging/beyond_good__evil_2_2008/images/screenshots/2008_reveal_teaser/teaserscreen_03.jpg") center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), no-repeat url("backgrounds/fallback.gif") center center;
     background-size:cover;
 }
 
@@ -227,16 +227,16 @@ a:hover {
 }
 
 .dd-content-heading {
-    padding-top:8px;
-    padding-left:8px;
-    padding-right:8px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
 
-    border-radius:var(--base-radius) var(--base-radius) 0 0;
-    border-bottom:0;
+    border-radius: var(--base-radius) var(--base-radius) 0 0;
+    border-bottom: 0;
 
-    margin-left:auto;
-    margin-right:auto;
-    max-width:var(--extend-width);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: var(--extend-width);
 
     /*
     background:
@@ -246,9 +246,8 @@ a:hover {
             50% / 30px 30px;
      */
 
-    background:
-            url('data:image/svg+xml;utf8,<svg style="font-family:sans-serif;transform:rotate(-45deg)" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 120 120"><text x="0" y="50" fill="%20">Missing Banner</text></svg>')
-            0 0/150px 150px, var(--deep-color);
+    background: no-repeat url("backgrounds/fallback.gif") center center;
+    background-size: cover;
 }
 
 @media (max-width:1440px) {
@@ -632,7 +631,18 @@ hr {
     margin:0.5em;
     backdrop-filter: blur(16px);
     background: var(--colour-see-through);
-    width:max-content;
+    width:fit-content;
+}
+
+.dd-heading-other {
+    border-radius: var(--base-radius);
+    padding:0.25em;
+    padding-left:1.0em;
+    padding-right:1.0em;
+    margin-left:0.5em;
+    margin-right:0.5em;
+    backdrop-filter: blur(16px);
+    background: var(--colour-see-through);
 }
 
 /*****************************************************/

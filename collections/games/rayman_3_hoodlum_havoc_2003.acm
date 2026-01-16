@@ -25,4 +25,6 @@ object collection
 	        array int16 date { 2003 3 18 }
 	    }
 	}
+
+	string banner "rayman_3_hoodlum_havoc_2003/images/screenshots/editor/20030212n.png"
 }

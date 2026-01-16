@@ -6,5 +6,7 @@ object collection
 	array string publishers { "ASC Games" }
 	string type game 
 	string source "Games/Werewolf The Apocalypse Heart Of Gaia (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "werewolf_the_apocalypse_heart_of_gaia_cancelled/images/screenshots/screen1.jpg"
 }
