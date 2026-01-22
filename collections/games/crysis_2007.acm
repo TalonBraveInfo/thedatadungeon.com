@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+    string name "Crysis"
+    array string developers { "Crytek" }
+    array string publishers { "Electronic Arts" }
+
+    string type game
+
+    string source "Games/Crysis (2007)"
+
+    array int16 releaseDate { 2007 11 13 }
+}

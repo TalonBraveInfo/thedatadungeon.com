@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+    string name "Crysis Next"
+    array string developers { "Crytek" }
+
+    string type game
+
+    string source "Games/Crysis Next (Cancelled)"
+}
