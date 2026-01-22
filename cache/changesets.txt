@@ -533,3 +533,9 @@ Added 34 <a href="duke_nukem_3d.html#others">others</a>, under <a href="duke_nuk
 Added 33 <a href="brink_2011.html#artworks">artworks</a>, under <a href="brink_2011.html">Brink</a>
 Added game, <a href="spore_2008.html">Spore</a>
 Added game, <a href="brink_2_cancelled.html">BRII</a>
+changeset 1769085237 5
+Added game, <a href="hunt_2019.html">Hunt: Showdown</a>
+Added game, <a href="crysis_2_2011.html">Crysis 2</a>
+Added game, <a href="crysis_next_cancelled.html">Crysis Next</a>
+Added game, <a href="crysis_warhead_2008.html">Crysis Warhead</a>
+Added game, <a href="crysis_2007.html">Crysis</a>
