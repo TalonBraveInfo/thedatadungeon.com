@@ -33,14 +33,164 @@ object collection
 	        array int16 date { 1996 8 0 }
 	    }
 	    {
+	        string url          "https://web.archive.org/web/19980114003342/http://3drealms.com/catalog/prey/prey0397.html#:~:text=01%2F24%2F97"
+	        string title        "Update: 01/24/97"
+	        array int16 date    { 1997 1 24 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003342/http://3drealms.com/catalog/prey/prey0397.html#:~:text=03%2F10%2F97"
+	        string title        "Update: 03/10/97"
+	        array int16 date    { 1997 3 10 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003342/http://3drealms.com/catalog/prey/prey0397.html#:~:text=03%2F14%2F97"
+	        string title        "Update: 03/14/97"
+	        array int16 date    { 1997 3 14 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003342/http://3drealms.com/catalog/prey/prey0397.html#:~:text=03%2F19%2F97"
+	        string title        "Update: 03/19/97"
+	        array int16 date    { 1997 3 19 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F03%2F97"
+	        string title        "Update: 04/03/97"
+	        array int16 date    { 1997 4 3 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F08%2F97"
+	        string title        "Update: 04/08/97"
+	        array int16 date    { 1997 4 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F10%2F97"
+	        string title        "Update: 04/10/97"
+	        array int16 date    { 1997 4 10 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F22%2F97"
+	        string title        "Update: 04/22/97"
+	        array int16 date    { 1997 4 22 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F24%2F97"
+	        string title        "Update: 04/24/97"
+	        array int16 date    { 1997 4 24 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003334/http://3drealms.com/catalog/prey/prey0497.html#:~:text=04%2F25%2F97"
+	        string title        "Update: 04/25/97"
+	        array int16 date    { 1997 4 25 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003327/http://3drealms.com/catalog/prey/prey0597.html#:~:text=05%2F12%2F97"
+	        string title        "Update: 05/12/97"
+	        array int16 date    { 1997 5 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003327/http://3drealms.com/catalog/prey/prey0597.html#:~:text=05%2F20%2F97"
+	        string title        "Update: 05/20/97"
+	        array int16 date    { 1997 5 20 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003327/http://3drealms.com/catalog/prey/prey0597.html#:~:text=05%2F30%2F97"
+	        string title        "Update: 05/30/97"
+	        array int16 date    { 1997 5 30 }
+	    }
+	    {
 	        string url "https://web.archive.org/web/19971012051445/http://www.pcgamer.com/e_prey.html"
 	        string title "Prey Steps Out"
 	        array int16 date { 1997 6 0 }
 	    }
 	    {
+	        string url          "https://web.archive.org/web/19970720044911/http://www.gamecenter.com/Features/Exclusives/E3/News/062097/story02a.html"
+	        string title        "Prey blew our minds"
+	        array int16 date    { 1997 6 20 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19981206230258/http://headline.gamespot.com/news/97_06/24_prey/index.html"
+	        string title        "Exclusive Prey Screenshots"
+	        array int16 date    { 1997 6 24 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003316/http://3drealms.com/catalog/prey/prey0697.html#:~:text=06%2F25%2F97"
+	        string title        "Update: 06/25/97"
+	        array int16 date    { 1997 6 25 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980210144311/http://www.ogr.com/previews/prey.shtml"
+	        string title        "OGR.COM Prey Preview"
+	        array int16 date    { 1997 6 25 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003316/http://3drealms.com/catalog/prey/prey0697.html#:~:text=06%2F26%2F97"
+	        string title        "Update: 06/26/97"
+	        array int16 date    { 1997 6 26 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003316/http://3drealms.com/catalog/prey/prey0697.html#:~:text=06%2F27%2F97"
+	        string title        "Update: 06/27/97"
+	        array int16 date    { 1997 6 27 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003301/http://3drealms.com/catalog/prey/prey0797.html#:~:text=07%2F07%2F97"
+	        string title        "Update: 07/07/97"
+	        array int16 date    { 1997 7 7 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003301/http://3drealms.com/catalog/prey/prey0797.html#:~:text=07%2F11%2F97"
+	        string title        "Update: 07/11/97"
+	        array int16 date    { 1997 7 11 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003301/http://3drealms.com/catalog/prey/prey0797.html#:~:text=07%2F23%2F97"
+	        string title        "Update: 07/23/97"
+	        array int16 date    { 1997 7 23 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003255/http://3drealms.com/catalog/prey/prey0997.html#:~:text=08%2F08%2F97"
+	        string title        "Update: 08/08/97"
+	        array int16 date    { 1997 8 8 }
+	    }
+	    {
 	        string url "https://archive.org/details/NEXT_Generation_33/page/n71/mode/2up"
 	        string title "NG Alphas: Prey"
 	        array int16 date { 1997 9 0 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980114003255/http://3drealms.com/catalog/prey/prey0997.html#:~:text=09%2F12%2F97"
+	        string title        "Update: 09/12/97"
+	        array int16 date    { 1997 9 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980113231309/http://3drealms.com/catalog/prey/preyupd.html#:~:text=10%2F02%2F97"
+	        string title        "Update: 10/02/97"
+	        array int16 date    { 1997 10 2 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980113231309/http://3drealms.com/catalog/prey/preyupd.html#:~:text=10%2F08%2F97"
+	        string title        "Update: 10/08/97"
+	        array int16 date    { 1997 10 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19980119180743/http://www.avault.com/previews/preyp.asp"
+	        string title        "The Adrenaline Vault Previews -- Prey"
+	        array int16 date    { 1997 12 12 }
+	    }
+	    {
+	        string url          "https://www.bluesnews.com/s/233825/more-on-dx6-prey"
+	        string title        "More on DX6 Prey"
+	        array int16 date    { 1998 7 27 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20060321140509/http://3drealms.com/news/1998/08/quake_ii_killer.html"
+	        string title        "Quake II Killers"
+	        array int16 date    { 1998 8 27 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19991010043327/http://headline.gamespot.com/news/98_10/15_prey/index.html"
+	        string title        "Prey Team Loses Two"
+	        array int16 date    { 1998 10 15 }
 	    }
 	    {
 	        string url "https://legacy.3drealms.com/news/1998/11/corrinne_yu_pre.html"
