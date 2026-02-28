@@ -546,3 +546,23 @@ Added 1 <a href="messiah_2000.html#videos">videos</a>, under <a href="messiah_20
 Added 1 <a href="project_apollo_cancelled.html#videos">videos</a>, under <a href="project_apollo_cancelled.html">Project Apollo</a>
 Added 1 <a href="oni_2001.html#distributions">distributions</a>, under <a href="oni_2001.html">Oni</a>
 Added 1 <a href="oni_2001.html#videos">videos</a>, under <a href="oni_2001.html">Oni</a>
+changeset 1772288704 19
+Added game, <a href="club_penguin_elite_penguin_force.html">Club Penguin: Elite Penguin Force</a>
+Added game, <a href="predator_concrete_jungle_2005.html">Predator: Concrete Jungle</a>
+Added 9 <a href="shadows_of_reality_cancelled.html#screenshots">screenshots</a>, under <a href="shadows_of_reality_cancelled.html">Shadows of Reality</a>
+Added game, <a href="halo_4_2012.html">Halo 4</a>
+Added game, <a href="heavy_rain_2010.html">Heavy Rain</a>
+Added game, <a href="catherine_2011.html">Catherine</a>
+Added game, <a href="skate_3_2010.html">Skate 3</a>
+Added game, <a href="alpha_protocol_2010.html">Alpha Protocol</a>
+Added game, <a href="goldeneye_007_2010.html">GoldenEye 007</a>
+Added game, <a href="untold_legends_dark_kingdom.html">Untold Legends: Dark Kingdom</a>
+Added game, <a href="rock_of_ages_2011.html">Rock of Ages</a>
+Added game, <a href="the_cursed_crusade_2011.html">The Cursed Crusade</a>
+Added game, <a href="divinity_2_2009.html">Divinity II</a>
+Added game, <a href="droplitz_2009.html">Droplitz</a>
+Added game, <a href="spiderman_shattered_dimensions_2010.html">Spider-Man: Shattered Dimensions</a>
+Added game, <a href="zeno_clash_2009.html">Zeno Clash</a>
+Added game, <a href="disney_universe_2011.html">Disney Universe</a>
+Added game, <a href="dead_space_2008.html">Dead Space</a>
+Added game, <a href="highlander_cancelled.html">Highlander: The Game</a>
