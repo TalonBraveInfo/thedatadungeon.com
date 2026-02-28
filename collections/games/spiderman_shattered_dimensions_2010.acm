@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Spider-Man: Shattered Dimensions"
+
+	array int16 releaseDate { 2010 9 7 }
+
+    array string developers { "Beenox" }
+    array string publishers { "Activision" }
+
+	string type game
+	string source "Games/Spider-Man Shattered Dimensions (2010)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}

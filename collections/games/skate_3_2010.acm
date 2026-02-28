@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Skate 3"
+
+	array int16 releaseDate { 2010 5 11 }
+
+    array string developers { "EA Black Box" }
+    array string publishers { "Electronic Arts" }
+
+	string type game
+	string source "Games/Skate 3 (2010)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}

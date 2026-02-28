@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Predator: Concrete Jungle"
+
+	array int16 releaseDate { 2005 4 15 }
+
+    array string developers { "Eurocom" }
+    array string publishers { "Vivendi Universal Games" }
+
+	string type game
+	string source "Games/Predator Concrete Jungle (2005)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}
