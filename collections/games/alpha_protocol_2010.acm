@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Alpha Protocol"
+
+	array int16 releaseDate { 2010 5 27 }
+
+    array string developers { "Obsidian Entertainment" }
+    array string publishers { "Sega" }
+
+	string type game
+	string source "Games/Alpha Protocol (2010)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}

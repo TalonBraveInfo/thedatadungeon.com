@@ -1,0 +1,14 @@
+node.utf8
+object collection
+{
+	string name "Catherine"
+
+	array int16 releaseDate { 2011 2 17 }
+
+    array string developers { "Atlus" }
+
+	string type game
+	string source "Games/Catherine (2011)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}

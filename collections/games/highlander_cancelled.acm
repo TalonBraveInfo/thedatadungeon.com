@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+	string name "Highlander: The Game"
+
+    array string developers { "Eidos Interactive" "Widescreen Games" }
+    array string publishers { "Square Enix" }
+
+	string type game
+	string source "Games/Highlander (Cancelled)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}
