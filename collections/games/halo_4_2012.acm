@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Halo 4"
+
+	array int16 releaseDate { 2012 11 6 }
+
+    array string developers { "343 Industries" }
+    array string publishers { "Microsoft Studios" }
+
+	string type game
+	string source "Games/Halo 4 (2012)"
+
+	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+}
