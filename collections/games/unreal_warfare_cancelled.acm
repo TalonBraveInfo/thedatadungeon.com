@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+	string name "Unreal Warfare"
+    string description "A first-person class oriented multiplayer title. Development was seemingly halted sometime in late 2002 and content was recycled into the <a href='https://unrealarchive.org/unreal-tournament-2003/patches-updates/bonus-packs/epic-bonus-pack/index.html'>'Epic Bonus Pack'</a> for Unreal Tournament 2003, released in March of 2003. After development picked up again, it ultimately became <a href='gears_of_war_unreal_warfare_2006.html'>Gears of War</a>."
+
+	array string developers { "Epic Games" }
+
+	string type game
+	string source "Games/Unreal Warfare (Cancelled)"
+
+	string banner "unreal_warfare_cancelled/images/artwork/fzd_gearsofwar_02.jpg"
+}

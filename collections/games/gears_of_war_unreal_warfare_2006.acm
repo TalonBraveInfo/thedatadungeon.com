@@ -3,6 +3,7 @@ object collection
 {
 	string name "Gears of War"
 	array string otherNames { "Unreal Warfare" }
+    string description "Mind that <i>Unreal Warfare</i> content has been moved under a dedicated section you can now find <a href='unreal_warfare_cancelled.html'>here</a>."
 
 	array string developers { "Epic Games" }
 	array string publishers { "Microsoft Game Studios" }
