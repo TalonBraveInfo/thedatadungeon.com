@@ -566,3 +566,7 @@ Added game, <a href="zeno_clash_2009.html">Zeno Clash</a>
 Added game, <a href="disney_universe_2011.html">Disney Universe</a>
 Added game, <a href="dead_space_2008.html">Dead Space</a>
 Added game, <a href="highlander_cancelled.html">Highlander: The Game</a>
+changeset 1774180567 3
+Added game, <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
+Added 1 <a href="army_men_1998.html#distributions">distributions</a>, under <a href="army_men_1998.html">Army Men</a>
+Added 6 <a href="highlander_cancelled.html#distributions">distributions</a>, under <a href="highlander_cancelled.html">Highlander: The Game</a>
