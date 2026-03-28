@@ -1,16 +1,21 @@
 node.utf8
 object collection
 {
-	string name WishWorld 
+	string name Wishworld
 	string type game 
 	string source "Games/WishWorld (Cancelled)" 
 	string releaseStatus cancelled
 	array object publications
 	{
 	    {
-	        string url "https://www.eurogamer.net/before-fable-there-was-wishworld"
-	        string title "Before Fable, there was Wishworld"
-	        array int16 date { 2019 6 1 }
+	        string url          "https://www.eurogamer.net/before-fable-there-was-wishworld"
+	        string title        "Before Fable, there was Wishworld"
+	        array int16 date    { 2019 6 1 }
+	    }
+	    {
+	        string url          "https://blog.simoncarter.me/blog/the-origins-of-fable/"
+	        string title        "The Origins of Fable"
+	        array int16 date    { 2026 3 26 }
 	    }
 	}
 
