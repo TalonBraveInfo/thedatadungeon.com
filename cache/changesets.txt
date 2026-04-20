@@ -570,3 +570,7 @@ changeset 1774180567 3
 Added game, <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
 Added 1 <a href="army_men_1998.html#distributions">distributions</a>, under <a href="army_men_1998.html">Army Men</a>
 Added 6 <a href="highlander_cancelled.html#distributions">distributions</a>, under <a href="highlander_cancelled.html">Highlander: The Game</a>
+changeset 1776672092 3
+Added 4 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+Added 3 <a href="bioshock_infinite_2013.html#videos">videos</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+Added 2 <a href="wishworld_cancelled.html#screenshots">screenshots</a>, under <a href="wishworld_cancelled.html">Wishworld</a>
