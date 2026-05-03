@@ -574,3 +574,11 @@ changeset 1776672092 3
 Added 4 <a href="bioshock_infinite_2013.html#artworks">artworks</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
 Added 3 <a href="bioshock_infinite_2013.html#videos">videos</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
 Added 2 <a href="wishworld_cancelled.html#screenshots">screenshots</a>, under <a href="wishworld_cancelled.html">Wishworld</a>
+changeset 1777809725 7
+Added 1 <a href="bioshock_infinite_2013.html#videos">videos</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+Added 1 <a href="bioshock_infinite_2013.html#others">others</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+Added 4 publications, under <a href="anachronox_2001.html">Anachronox</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gamespot.com/articles/anachronox-first-impressions/1100-2568212/">Anachronox First Impressions</a> (via gamespot.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gamespot.com/reviews/anachronox-review/1900-2787355/">Anachronox Review</a> (via gamespot.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eurogamer.net/r-anachronox">Anachronox review</a> (via eurogamer.net)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.vice.com/en/article/how-kindness-saved-the-cult-hit-anachronox-from-the-wreck-of-ion-storm/">How Kindness Saved the Cult Hit ‘Anachronox’ from the Wreck of Ion Storm</a> (via vice.com)

@@ -18,4 +18,28 @@ object collection
 		6
 		27
 	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://www.gamespot.com/articles/anachronox-first-impressions/1100-2568212/"
+	        string title        "Anachronox First Impressions"
+	        array int16 date    { 2000 12 19 }
+	    }
+	    {
+	        string url          "https://www.gamespot.com/reviews/anachronox-review/1900-2787355/"
+	        string title        "Anachronox Review"
+	        array int16 date    { 2001 7 16 }
+	    }
+	    {
+	        string url          "https://www.eurogamer.net/r-anachronox"
+	        string title        "Anachronox review"
+	        array int16 date    { 2001 9 25 }
+	    }
+	    {
+	        string url          "https://www.vice.com/en/article/how-kindness-saved-the-cult-hit-anachronox-from-the-wreck-of-ion-storm/"
+	        string title        "How Kindness Saved the Cult Hit ‘Anachronox’ from the Wreck of Ion Storm"
+	        array int16 date    { 2021 11 29 }
+	    }
+	}
 }
