@@ -21,6 +21,11 @@ object collection
 	        array int16 date    { 1998 3 12 }
 	    }
 	    {
+	        string url          "https://web.archive.org/web/20000816001330/http://www.shugashack.com/extras/interviews/031000_broussard_1.x"
+	        string title        "Shugashack Interview: George Broussard"
+	        array int16 date    { 2000 3 10 }
+	    }
+	    {
 	        string url          "https://www.gamespot.com/articles/3d-realms-denies-duke-nukem-forever-using-doom-3-engine/1100-6107100/"
 	        string title        "3D Realms denies Duke Nukem Forever using Doom 3 engine"
 	        array int16 date    { 2004 9 10 }

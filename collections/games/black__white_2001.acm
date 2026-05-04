@@ -18,4 +18,13 @@ object collection
 		3
 		27
 	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20000815080738/http://www.actiontrip.com/previews/blackwhite.phtml"
+	        string title        "Black & White Preview"
+	        array int16 date    { 2000 8 10 }
+	    }
+	}
 }

@@ -10,4 +10,13 @@ object collection
 	string source "Games/Unreal Warfare (Cancelled)"
 
 	string banner "unreal_warfare_cancelled/images/artwork/fzd_gearsofwar_02.jpg"
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20000816001311/http://www.shugashack.com/extras/interviews/033100_cliffyb_1.x"
+	        string title        "Shugashack Interview: Cliff Bleszinski"
+	        array int16 date    { 2000 3 31 }
+	    }
+	}
 }

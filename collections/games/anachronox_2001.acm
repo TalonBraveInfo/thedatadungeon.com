@@ -5,13 +5,20 @@ object collection
 	array string developers { "Ion Storm" }
 	array string publishers { "Eidos Interactive" }
 	string type game 
-	string source "Games/Anachronox (2001)" 
-	array object links {
-				{
+	string source "Games/Anachronox (2001)"
+
+	array object links
+	{
+        {
 			string url https://tcrf.net/Anachronox 
 			string title "The Cutting Room Floor" 
 		}
+		{
+		    string url      "https://web.archive.org/web/20000815195020/http://www.anachronox.com/"
+		    string title    "Official Website"
+		}
 	}
+
 	string releaseStatus released 
 	array int16 releaseDate {
 		2001 
@@ -21,6 +28,51 @@ object collection
 
 	array object publications
 	{
+	    {
+	        string url          "https://web.archive.org/web/19970205015903/http://www.gamespot.com/features/tomhall/index.html"
+	        string title        "On the Spot: TOM HALL"
+	        array int16 date    { 1997 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000815222120/http://rpgvault.ign.com/features/intelligence/anachronox.shtml"
+	        string title        "Anachronox Intelligence Report"
+	        array int16 date    { 1999 10 29 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000817184700/http://www.dailyradar.com/previews/game_preview_220.html"
+	        string title        "Anachronox Preview"
+	        array int16 date    { 2000 1 7 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000818064855/https://www.gamespot.com/features/anachronox_pre/"
+	        string title        "Gamespot Preview Anachronox"
+	        array int16 date    { 2000 5 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000817231123/http://www.dailyradar.com/previews/game_preview_594.html"
+	        string title        "Anachronox Preview"
+	        array int16 date    { 2000 5 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000815224117/http://rpgvault.ign.com/features/media/e3anachronox.shtml"
+	        string title        "E3 Gallery: Anachronox"
+	        array int16 date    { 2000 5 15 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000815234724/http://www.planetcrap.com/stories/121/"
+	        string title        "AnachroLith"
+	        array int16 date    { 2000 8 6 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000815070201/http://www.stomped.com/news/comments/965723364,38867,.html"
+	        string title        "New Hire at id Software"
+	        array int16 date    { 2000 8 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000815080808/http://www.actiontrip.com/previews/anachronox.phtml"
+	        string title        "Anachronox Preview"
+	        array int16 date    { 2000 8 9 }
+	    }
 	    {
 	        string url          "https://www.gamespot.com/articles/anachronox-first-impressions/1100-2568212/"
 	        string title        "Anachronox First Impressions"

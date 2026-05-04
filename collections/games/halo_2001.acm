@@ -19,6 +19,15 @@ object collection
 		15
 	}
 
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20000817100022/http://www.dailyradar.com/previews/game_preview_37.html"
+	        string title        "Halo Preview"
+	        array int16 date    { 1999 10 18 }
+	    }
+	}
+
 	string icon         "web/icons/collections/halo.ico"
 	;string iconSmall    "web/icons/collections/starfield_small.ico"
 	string banner       "halo_2001/images/artwork/alphamoonconcept-scaled.jpg"
