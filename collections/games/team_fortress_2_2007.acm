@@ -9,6 +9,8 @@ object collection
 	string releaseStatus released
 	array int16 releaseDate { 2007 10 10 }
 
+	string source "Games/Team Fortress 2 (2007)"
+
 	array object publications
 	{
 	    {
