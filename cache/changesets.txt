@@ -582,3 +582,24 @@ Added 4 publications, under <a href="anachronox_2001.html">Anachronox</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gamespot.com/reviews/anachronox-review/1900-2787355/">Anachronox Review</a> (via gamespot.com)
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eurogamer.net/r-anachronox">Anachronox review</a> (via eurogamer.net)
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.vice.com/en/article/how-kindness-saved-the-cult-hit-anachronox-from-the-wreck-of-ion-storm/">How Kindness Saved the Cult Hit ‘Anachronox’ from the Wreck of Ion Storm</a> (via vice.com)
+changeset 1777900531 20
+Added 1 publications, under <a href="halo_2001.html">Halo: Combat Evolved</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000817100022/http://www.dailyradar.com/previews/game_preview_37.html">Halo Preview</a> (via dailyradar.com)
+Added 9 publications, under <a href="anachronox_2001.html">Anachronox</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19970205015903/http://www.gamespot.com/features/tomhall/index.html">On the Spot: TOM HALL</a> (via gamespot.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815222120/http://rpgvault.ign.com/features/intelligence/anachronox.shtml">Anachronox Intelligence Report</a> (via rpgvault.ign.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000817184700/http://www.dailyradar.com/previews/game_preview_220.html">Anachronox Preview</a> (via dailyradar.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000818064855/https://www.gamespot.com/features/anachronox_pre/">Gamespot Preview Anachronox</a> (via gamespot.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000817231123/http://www.dailyradar.com/previews/game_preview_594.html">Anachronox Preview</a> (via dailyradar.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815224117/http://rpgvault.ign.com/features/media/e3anachronox.shtml">E3 Gallery: Anachronox</a> (via rpgvault.ign.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815234724/http://www.planetcrap.com/stories/121/">AnachroLith</a> (via planetcrap.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815070201/http://www.stomped.com/news/comments/965723364,38867,.html">New Hire at id Software</a> (via stomped.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815080808/http://www.actiontrip.com/previews/anachronox.phtml">Anachronox Preview</a> (via actiontrip.com)
+Added 6 <a href="anachronox_2001.html#screenshots">screenshots</a>, under <a href="anachronox_2001.html">Anachronox</a>
+Added 1 publications, under <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000816001311/http://www.shugashack.com/extras/interviews/033100_cliffyb_1.x">Shugashack Interview: Cliff Bleszinski</a> (via shugashack.com)
+Added game, <a href="team_fortress_2_2007.html">Team Fortress 2</a>
+Added 1 publications, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000816001330/http://www.shugashack.com/extras/interviews/031000_broussard_1.x">Shugashack Interview: George Broussard</a> (via shugashack.com)
+Added 1 publications, under <a href="black__white_2001.html">Black & White</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815080738/http://www.actiontrip.com/previews/blackwhite.phtml">Black & White Preview</a> (via actiontrip.com)
