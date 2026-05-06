@@ -603,3 +603,6 @@ Added 1 publications, under <a href="duke_nukem_forever_2011.html">Duke Nukem Fo
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000816001330/http://www.shugashack.com/extras/interviews/031000_broussard_1.x">Shugashack Interview: George Broussard</a> (via shugashack.com)
 Added 1 publications, under <a href="black__white_2001.html">Black & White</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000815080738/http://www.actiontrip.com/previews/blackwhite.phtml">Black & White Preview</a> (via actiontrip.com)
+changeset 1778073215 2
+Added 5 <a href="dark_sector_2008.html#artworks">artworks</a>, under <a href="dark_sector_2008.html">Dark Sector</a>
+Added 1 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
