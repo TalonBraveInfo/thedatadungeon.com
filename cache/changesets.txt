@@ -606,3 +606,5 @@ Added 1 publications, under <a href="black__white_2001.html">Black & White</a>
 changeset 1778073215 2
 Added 5 <a href="dark_sector_2008.html#artworks">artworks</a>, under <a href="dark_sector_2008.html">Dark Sector</a>
 Added 1 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+changeset 1778588915 1
+Added 2 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
