@@ -18,5 +18,30 @@ object collection
 	        string title        "Shugashack Interview: Cliff Bleszinski"
 	        array int16 date    { 2000 3 31 }
 	    }
+	    {
+	        string url          "https://web.archive.org/web/20010331203745/http://www.epicgames.com:80/UnrealEngine/Build633Enhancements.html"
+	        string title        "Full List of Unreal Engine Enhancements in Warfare Build 633"
+	        array int16 date    { 2001 1 16 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010202160300/http://www.voodooextreme.com/articles/thestateofunreal.html"
+	        string title        "Unreal Engine Update"
+	        array int16 date    { 2001 1 23 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010322201356/http://www.epicgames.com:80/UnrealEngineNews.html#:~:text=January%202001"
+	        string title        "Top 10 Unreal Engine Enhancements"
+	        array int16 date    { 2001 1 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010322201356/http://www.epicgames.com:80/UnrealEngineNews.html#:~:text=March%202001"
+	        string title        "Making Faces"
+	        array int16 date    { 2001 3 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20020402161238/http://www.epicgames.com/UnrealEngineNews.html#:~:text=Major%20Highlights%20of%20Build%20739"
+	        string title        "Major Highlights of Build 739"
+	        array int16 date    { 2001 7 }
+	    }
 	}
 }

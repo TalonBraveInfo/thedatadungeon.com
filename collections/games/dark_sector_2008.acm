@@ -7,11 +7,46 @@ object collection
 	string type game 
 	string source "Games/Dark Sector (2008)" 
 	string releaseStatus released 
-	array int16 releaseDate {
-		2008 
-		3
-		25
-	}
+	array int16 releaseDate { 2008 3 25	}
+
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/20010331155901fw_/http://www.digitalextremes.com/Misc.html"
+            string title        "DIGITAL EXTREMES ANNOUNCES DEVELOPMENT OF DARK SECTOR"
+            array int16 date    { 2000 2 11 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010329215740/http://www.voodooextreme.com/games/interviews/panchoe.html"
+            string title        "VE's Q&A with Digital Extremes' Pancho Eekels"
+            array int16 date    { 2000 2 21 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010501013539/http://www.loonygames.com/content/2.14/feat/"
+            string title        "To the Extreme"
+            array int16 date    { 2000 2 28 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010317222344/http://www.gg8.com/news.php?id=306"
+            string title        "New World Nightmares - Discussing Dark Sector With Digital Extremes' James Schmalz"
+            array int16 date    { 2000 3 31 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010201165600/http://www.actiontrip.com/previews/darksector.phtml"
+            string title        "Dark Sector Preview"
+            array int16 date    { 2000 6 30 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010331124538/http://www.stomped.com/interviews/darksector2.html"
+            string title        "Interview with Steve Sinclair"
+            array int16 date    { 2000 7 5 }
+        }
+        {
+            string url          "https://web.archive.org/web/20010331111835/http://www.stomped.com/interviews/darksector3.html"
+            string title        "Interview with James Schmalz Pt. I"
+            array int16 date    { 2000 7 6 }
+        }
+    }
 
 	string banner "dark_sector_2008/images/artwork/logos/dslogo.jpg"
 }

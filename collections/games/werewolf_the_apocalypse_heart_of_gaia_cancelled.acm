@@ -8,5 +8,14 @@ object collection
 	string source "Games/Werewolf The Apocalypse Heart Of Gaia (Cancelled)" 
 	string releaseStatus cancelled
 
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/20010413124705/http://pc.ign.com/news/5122.html"
+            string title        "Werewolf: The Apocalypse"
+            array int16 date    { 1998 10 5 }
+        }
+    }
+
 	string banner "werewolf_the_apocalypse_heart_of_gaia_cancelled/images/screenshots/screen1.jpg"
 }
