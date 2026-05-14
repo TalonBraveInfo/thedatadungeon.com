@@ -608,3 +608,13 @@ Added 5 <a href="dark_sector_2008.html#artworks">artworks</a>, under <a href="da
 Added 1 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
 changeset 1778588915 1
 Added 2 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+changeset 1778762454 9
+Added 27 <a href="dark_sector_2008.html#artworks">artworks</a>, under <a href="dark_sector_2008.html">Dark Sector</a>
+Added 5 publications, under <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010331203745/http://www.epicgames.com:80/UnrealEngine/Build633Enhancements.html">Full List of Unreal Engine Enhancements in Warfare Build 633</a> (via epicgames.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010202160300/http://www.voodooextreme.com/articles/thestateofunreal.html">Unreal Engine Update</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010322201356/http://www.epicgames.com:80/UnrealEngineNews.html#:~:text=January%202001">Top 10 Unreal Engine Enhancements</a> (via epicgames.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010322201356/http://www.epicgames.com:80/UnrealEngineNews.html#:~:text=March%202001">Making Faces</a> (via epicgames.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20020402161238/http://www.epicgames.com/UnrealEngineNews.html#:~:text=Major%20Highlights%20of%20Build%20739">Major Highlights of Build 739</a> (via epicgames.com)
+Added 1 publications, under <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html">Werewolf The Apocalypse Heart Of Gaia</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010413124705/http://pc.ign.com/news/5122.html">Werewolf: The Apocalypse</a> (via pc.ign.com)
