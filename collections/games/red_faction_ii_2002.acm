@@ -13,5 +13,19 @@ object collection
 		16
 	}
 
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20040619012052/http://www.thq.com/Corporate/PressReleases/press-486.asp"
+	        string title        "THQ® SHIPS RED FACTION® II FOR PLAYSTATION® 2"
+	        array int16 date    { 2002 10 16 }
+	    }
+	    {
+	        string url          "https://www.eurogamer.net/news060603whatsnew"
+	        string title        "What's New?"
+	        array int16 date    { 2003 6 6 }
+	    }
+	}
+
 	string banner "red_faction_ii_2002/images/artwork/232.png"
 }

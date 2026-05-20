@@ -178,6 +178,21 @@ object collection
 	        array int16 date    { 1997 12 12 }
 	    }
 	    {
+	        string url          "https://web.archive.org/web/19990424070236/http://www.3dportal.com:80/e3/1998/previews/prey/index.html"
+	        string title        "Lithium: A Talon Brave Fan"
+	        array int16 date    { 1998 5 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20001210120300/http://www.3dportal.com:80/e3/prey_pr1.html"
+	        string title        "E3 Coverage - 1998"
+	        array int16 date    { 1998 5 28 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/19990427192125/http://www.gamespot.co.uk/news/1998/05/765.html"
+	        string title        "E3 PREVIEW: Prey"
+	        array int16 date    { 1998 5 31 }
+	    }
+	    {
 	        string url          "https://www.bluesnews.com/s/233825/more-on-dx6-prey"
 	        string title        "More on DX6 Prey"
 	        array int16 date    { 1998 7 27 }

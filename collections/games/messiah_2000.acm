@@ -13,6 +13,15 @@ object collection
 		29
 	}
 
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/19991012070204/http://www.gamespot.co.uk/news/1998/05/768.html"
+	        string title        "E3 PREVIEW: Messiah"
+	        array int16 date    { 1998 5 31 }
+	    }
+	}
+
 	string icon         "web/icons/collections/messiah_small.ico"
 	string iconSmall    "web/icons/collections/messiah_small.ico"
 }

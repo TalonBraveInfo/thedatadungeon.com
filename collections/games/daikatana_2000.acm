@@ -7,6 +7,15 @@ object collection
 	string type game 
 	string source "Games/Daikatana (2000)"
 
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/19990504012945/http://gamespot.co.uk/news/1998/05/740.html"
+	        string title        "E3 PREVIEW: Daikatana"
+	        array int16 date    { 1998 5 28 }
+	    }
+	}
+
 	string description "<p>Daikatana was a game developed by John Romero, one of the developers behind Wolfenstein 3D, Doom and Quake, and highly anticipated prior to it's release.</p>"
 
     string banner "daikatana_2000/images/artwork/marketing/8hb9l.jpg"

@@ -1,0 +1,23 @@
+node.utf8
+object collection
+{
+    string name "Outcast"
+
+    string type "game"
+
+    array int16 releaseDate { 1999 6 25 }
+
+    array string developers { "Appeal" } ; wikipedia
+    array string publishers { "Infogrames" } ; wikipedia
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20000201083547/http://www.gamespot.co.uk/news/1998/05/766.html"
+	        string title        "E3 PREVIEW: Outcast"
+	        array int16 date    { 1998 5 31 }
+	    }
+	}
+
+    string source "Games/Outcast (1999)"
+}
