@@ -618,3 +618,18 @@ Added 5 publications, under <a href="unreal_warfare_cancelled.html">Unreal Warfa
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20020402161238/http://www.epicgames.com/UnrealEngineNews.html#:~:text=Major%20Highlights%20of%20Build%20739">Major Highlights of Build 739</a> (via epicgames.com)
 Added 1 publications, under <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html">Werewolf The Apocalypse Heart Of Gaia</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010413124705/http://pc.ign.com/news/5122.html">Werewolf: The Apocalypse</a> (via pc.ign.com)
+changeset 1779294955 14
+Added game, <a href="outcast_1999.html">Outcast</a>
+Added 3 publications, under <a href="prey_2006.html">Prey</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19990424070236/http://www.3dportal.com:80/e3/1998/previews/prey/index.html">Lithium: A Talon Brave Fan</a> (via 3dportal.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20001210120300/http://www.3dportal.com:80/e3/prey_pr1.html">E3 Coverage - 1998</a> (via 3dportal.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19990427192125/http://www.gamespot.co.uk/news/1998/05/765.html">E3 PREVIEW: Prey</a> (via gamespot.co.uk)
+Added 1 publications, under <a href="daikatana_2000.html">Daikatana</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19990504012945/http://gamespot.co.uk/news/1998/05/740.html">E3 PREVIEW: Daikatana</a> (via gamespot.co.uk)
+Added game, <a href="skull_and_bones_2024.html">Skull and Bones</a>
+Added 1 publications, under <a href="messiah_2000.html">Messiah</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19991012070204/http://www.gamespot.co.uk/news/1998/05/768.html">E3 PREVIEW: Messiah</a> (via gamespot.co.uk)
+Added 2 publications, under <a href="red_faction_ii_2002.html">Red Faction II</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20040619012052/http://www.thq.com/Corporate/PressReleases/press-486.asp">THQ® SHIPS RED FACTION® II FOR PLAYSTATION® 2</a> (via thq.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eurogamer.net/news060603whatsnew">What's New?</a> (via eurogamer.net)
+Added 1 <a href="red_faction_ii_2002.html#screenshots">screenshots</a>, under <a href="red_faction_ii_2002.html">Red Faction II</a>
