@@ -633,3 +633,26 @@ Added 2 publications, under <a href="red_faction_ii_2002.html">Red Faction II</a
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20040619012052/http://www.thq.com/Corporate/PressReleases/press-486.asp">THQ® SHIPS RED FACTION® II FOR PLAYSTATION® 2</a> (via thq.com)
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eurogamer.net/news060603whatsnew">What's New?</a> (via eurogamer.net)
 Added 1 <a href="red_faction_ii_2002.html#screenshots">screenshots</a>, under <a href="red_faction_ii_2002.html">Red Faction II</a>
+changeset 1779706054 22
+Added game, <a href="torn.html">TORN</a>
+Added 7 publications, under <a href="dark_sector_2008.html">Dark Sector</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010331155901fw_/http://www.digitalextremes.com/Misc.html">DIGITAL EXTREMES ANNOUNCES DEVELOPMENT OF DARK SECTOR</a> (via digitalextremes.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010329215740/http://www.voodooextreme.com/games/interviews/panchoe.html">VE's Q&A with Digital Extremes' Pancho Eekels</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010501013539/http://www.loonygames.com/content/2.14/feat/">To the Extreme</a> (via loonygames.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010317222344/http://www.gg8.com/news.php?id=306">New World Nightmares - Discussing Dark Sector With Digital Extremes' James Schmalz</a> (via gg8.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010201165600/http://www.actiontrip.com/previews/darksector.phtml">Dark Sector Preview</a> (via actiontrip.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010331124538/http://www.stomped.com/interviews/darksector2.html">Interview with Steve Sinclair</a> (via stomped.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010331111835/http://www.stomped.com/interviews/darksector3.html">Interview with James Schmalz Pt. I</a> (via stomped.com)
+Added 5 publications, under <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.shacknews.com/article/11799/epics-unreal-warfare">Epic's Unreal Warfare</a> (via shacknews.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20230605100426/https://www.ign.com/articles/2001/03/22/gdc-2001-unreal-technology-demo">GDC 2001: Unreal Technology Demo</a> (via ign.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bluesnews.com/a/332/epic-games-update">Epic Games Update</a> (via bluesnews.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20171112073654/http://worthplaying.com/archive/2003/1/12/#:~:text=%27Unreal%20Tournament%202003%27%20Bonus%20Pack%20Update">'Unreal Tournament 2003' Bonus Pack Update</a> (via worthplaying.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20140823210821/http://www.gamestm.co.uk/features/gears-of-war-was-like-battlefield-had-mechs-and-class-based-combat/">Gears Of War intended to be like Battlefield, had mechs and class-based combat</a> (via gamestm.co.uk)
+Added 3 <a href="unreal_warfare_cancelled.html#screenshots">screenshots</a>, under <a href="unreal_warfare_cancelled.html">Unreal Warfare</a>
+Added 1 publications, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20030409071251/http://www.worthplaying.com/article.php?sid=9217">Preview PS2 Preview - 'Rayman3 : Hoodlum Havoc'</a> (via worthplaying.com)
+Added game, <a href="rtx_red_rock.html">RTX Red Rock</a>
+Added 1 <a href="black__white_2001.html#others">others</a>, under <a href="black__white_2001.html">Black & White</a>
+Added 1 publications, under <a href="arx_fatalis_2002.html">Arx Fatalis</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20021129075151/http://www.worthplaying.com/article.php?sid=2028&mode=thread&order=0">Preview PC Preview: Fishtank's ARX FATALIS ! </a> (via worthplaying.com)
