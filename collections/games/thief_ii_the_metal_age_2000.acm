@@ -12,4 +12,6 @@ object collection
 		3
 		23
 	}
+
+	string banner "thief_ii_the_metal_age_2000/images/2000/radar2.jpg"
 }

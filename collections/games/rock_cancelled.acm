@@ -4,5 +4,7 @@ object collection
 	string name Rock 
 	string type game 
 	string source "Games/Rock (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "rock_cancelled/images/screenshots/502576784_801c06d846_o.jpg"
 }

@@ -27,4 +27,6 @@ object collection
 	        array int16 date    { 2000 8 10 }
 	    }
 	}
+
+	string banner "black__white_2001/images/pre-rendered_mockups/05.jpg"
 }

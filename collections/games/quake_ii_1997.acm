@@ -12,4 +12,6 @@ object collection
 		12
 		9
 	}
+
+	string banner "quake_ii_1997/images/screenshots/q25.jpg"
 }

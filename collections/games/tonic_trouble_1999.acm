@@ -18,4 +18,6 @@ object collection
 		8
 		31
 	}
+
+	string banner "tonic_trouble_1999/images/artwork/plain.jpg"
 }

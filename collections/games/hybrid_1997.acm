@@ -17,4 +17,6 @@ object collection
 		11
 		27
 	}
+
+	string banner "hybrid_1997/images/assorted/chars/credits.png"
 }

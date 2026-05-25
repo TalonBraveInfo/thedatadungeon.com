@@ -24,4 +24,5 @@ object collection
 
 	string icon         "web/icons/collections/messiah_small.ico"
 	string iconSmall    "web/icons/collections/messiah_small.ico"
+	string banner       "messiah_2000/images/screenshots/1211017.jpg"
 }

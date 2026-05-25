@@ -1,0 +1,109 @@
+node.utf8
+object collection
+{
+	string name "TORN"
+	array string developers { "Black Isle Studios" }
+	array string publishers { "Interplay Entertainment Corp." }
+	string type game
+	string source "Games/TORN (Cancelled)"
+	string releaseStatus cancelled
+
+	array object links
+	{
+	    {
+	        string url      "https://web.archive.org/web/20010405062228/http://torn.blackisle.com/index.html"
+	        string title    "Official Website"
+	    }
+	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20010408015632/http://torn.blackisle.com/press.html"
+	        string title        "ANNOUNCING THE ULTIMATE GAME FOR RPG FANS, BLACK ISLE STUDIOS: TORN"
+	        array int16 date    { 2001 3 22 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010405005228/http://www.zdnet.com/gamespot/stories/news/0,10870,2700364,00.html"
+	        string title        "GDC 2001: Black Isle's Torn: new details"
+	        array int16 date    { 2001 3 22 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010607155531/http://rpgvault.ign.com/features/interviews/bistorn.shtml"
+	        string title        "Black Isle Studios: TORN Interview"
+	        array int16 date    { 2001 3 22 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010409082330/http://rpgvault.ign.com/features/interviews/bistorn2.shtml"
+	        string title        "Black Isle Studios: TORN Interview #2"
+	        array int16 date    { 2001 3 29 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20191014190906/https://freelancer.ag.ru/interview/torn_eng.shtml"
+	        string title        "Interview"
+	        array int16 date    { 2001 4 4 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010413152311/http://www.gamespot.co.uk/stories/previews/0,2160,2045405,00.html"
+	        string title        "Torn Preview"
+	        array int16 date    { 2001 4 5 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010416235203/http://pc.ign.com/previews/16223.html"
+	        string title        "Torn"
+	        array int16 date    { 2001 4 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20021205133209/http://pc.ign.com/articles/093/093597p1.html"
+	        string title        "Torn Interview"
+	        array int16 date    { 2001 4 18 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010604170105/http://rpgvault.ign.com/features/den/bistorn01.shtml"
+	        string title        "Black Isle Studios: TORN Designer Diary, Chapter 1"
+	        array int16 date    { 2001 4 20 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010604083249/http://rpgvault.ign.com/features/den/bistorn02.shtml"
+	        string title        "Black Isle Studios: TORN Designer Diary, Chapter 2"
+	        array int16 date    { 2001 5 4 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010526180511/http://rpgvault.ign.com/features/den/bistorn04.shtml"
+	        string title        "Black Isle Studios: TORN Designer Diary, Chapter 4"
+	        array int16 date    { 2001 5 18 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20010622151518/http://rpgvault.ign.com/features/specials/e301torn.shtml"
+	        string title        "BIS: TORN E3 2001 Report"
+	        array int16 date    { 2001 5 24 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20060807021555/http://www.rpgplanet.com/features/firstlooks/torn/"
+	        string title        "RPGPlanet | First Looks | TORN"
+	        array int16 date    { 2001 6 11 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20021124233207/http://pc.ign.com/articles/096/096856p1.html"
+	        string title        "The Torn Pause"
+	        array int16 date    { 2001 7 24 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20020803212744/http://pc.ign.com/articles/096/096916p1.html"
+	        string title        "TORN Officially Officially Cancelled"
+	        array int16 date    { 2001 7 26 }
+	    }
+	    {
+	        string url          "https://www.neoseeker.com/news/1169-black-isles-torn-cancelled/"
+	        string title        "Black Isle's TORN Cancelled"
+	        array int16 date    { 2001 7 27 }
+	    }
+	    {
+	        string url          "https://www.gamespot.com/articles/heartbreakers/1100-6132028/"
+	        string title        "Heartbreakers"
+	        array int16 date    { 2005 8 30 }
+	    }
+	}
+
+    string banner "torn/images/screenshots/2001-06_rpgplanet_first_look/torn4.jpg"
+}

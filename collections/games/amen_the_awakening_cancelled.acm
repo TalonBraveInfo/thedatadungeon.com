@@ -16,4 +16,6 @@ object collection
 	        array int16 date { 2001 6 25 }
 	    }
 	}
+
+	string banner "amen_the_awakening_cancelled/images/artwork/landscape_concept_art.jpg"
 }

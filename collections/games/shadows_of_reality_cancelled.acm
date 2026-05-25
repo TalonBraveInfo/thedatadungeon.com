@@ -8,4 +8,6 @@ object collection
 
     string source "Games/Shadows of Reality (Cancelled)"
     string releaseStatus cancelled
+
+    string banner "shadows_of_reality_cancelled/images/screenshots/early_2000_build/shot0001.jpg"
 }

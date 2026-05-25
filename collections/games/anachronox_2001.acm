@@ -94,4 +94,6 @@ object collection
 	        array int16 date    { 2021 11 29 }
 	    }
 	}
+
+	string banner "anachronox_2001/images/screenshots/1998/anachronoxb010.jpg"
 }

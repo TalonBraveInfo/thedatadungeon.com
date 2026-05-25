@@ -25,4 +25,6 @@ object collection
             string title "Cayenne Mandua's Shugotenshi Portfolio"
         }
 	}
+
+	string banner "shogo_mobile_armor_division_1998/images/artwork/wallpapers/wp007_1024.jpg"
 }

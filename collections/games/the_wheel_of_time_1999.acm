@@ -12,4 +12,6 @@ object collection
 		11
 		9
 	}
+
+	string banner "the_wheel_of_time_1999/images/screenshots/1998/wheel03.gif"
 }

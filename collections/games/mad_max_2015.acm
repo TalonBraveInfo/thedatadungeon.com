@@ -12,4 +12,6 @@ object collection
 		9
 		1
 	}
+
+	string banner "mad_max_2015/images/art/env_concept_wasteland_05.jpg"
 }

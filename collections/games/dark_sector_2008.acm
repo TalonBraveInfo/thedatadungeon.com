@@ -7,7 +7,7 @@ object collection
 	string type game 
 	string source "Games/Dark Sector (2008)" 
 	string releaseStatus released 
-	array int16 releaseDate { 2008 3 25	}
+	array int16 releaseDate { 2008 3 25 }
 
     array object publications
     {
@@ -48,5 +48,5 @@ object collection
         }
     }
 
-	string banner "dark_sector_2008/images/artwork/logos/dslogo.jpg"
+	string banner "dark_sector_2008/images/artwork/early_2000s_iteration/rbot1.jpg"
 }

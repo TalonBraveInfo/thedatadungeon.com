@@ -4,5 +4,7 @@ object collection
 	string name Mutatis 
 	string type game 
 	string source "Games/Mutatis (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "mutatis_cancelled/images/artwork/attachment_006.jpg"
 }

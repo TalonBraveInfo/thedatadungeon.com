@@ -17,4 +17,5 @@ object collection
 
 	string icon         "web/icons/collections/djump.png"
 	string iconSmall    "web/icons/collections/djump_small.png"
+	string banner       "d._jump_cancelled/images/artwork/djump1.jpg"
 }

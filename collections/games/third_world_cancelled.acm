@@ -4,5 +4,7 @@ object collection
 	string name "Third World" 
 	string type game 
 	string source "Games/Third World (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "third_world_cancelled/images/screenshots/corpbg.jpg"
 }

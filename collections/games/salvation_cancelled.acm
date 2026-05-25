@@ -4,5 +4,7 @@ object collection
 	string name Salvation 
 	string type game 
 	string source "Games/Salvation (Cancelled)" 
-	string releaseStatus cancelled 
+	string releaseStatus cancelled
+
+	string banner "salvation_cancelled/images/screenshots/189278.jpg"
 }

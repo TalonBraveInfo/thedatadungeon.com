@@ -13,4 +13,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "quark_cancelled/images/screenshots/q-ss14.jpg"
 }

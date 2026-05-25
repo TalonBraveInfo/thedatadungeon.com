@@ -15,4 +15,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "kanaan_chaos_cancelled/images/screenshots/1471550241.or.38349.jpg"
 }

@@ -12,4 +12,13 @@ object collection
 		6
 		28
 	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20021129075151/http://www.worthplaying.com/article.php?sid=2028&mode=thread&order=0"
+	        string title        "Preview PC Preview: Fishtank's ARX FATALIS ! "
+	        array int16 date    { 2002 1 22 }
+	    }
+	}
 }

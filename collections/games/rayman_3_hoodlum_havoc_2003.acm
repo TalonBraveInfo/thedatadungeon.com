@@ -15,14 +15,19 @@ object collection
 	array object publications
 	{
 	    {
-	        string url "https://www.gamespot.com/articles/rayman-3-ships/1100-2912040/"
-	        string title "Rayman 3 ships"
-	        array int16 date { 2003 3 4 }
+	        string url          "https://www.gamespot.com/articles/rayman-3-ships/1100-2912040/"
+	        string title        "Rayman 3 ships"
+	        array int16 date    { 2003 3 4 }
 	    }
 	    {
-	        string url "https://www.ign.com/articles/2003/03/18/rayman-3-ships"
-	        string title "Rayman 3 Ships"
-	        array int16 date { 2003 3 18 }
+	        string url          "https://web.archive.org/web/20030409071251/http://www.worthplaying.com/article.php?sid=9217"
+	        string title        "Preview PS2 Preview - 'Rayman3 : Hoodlum Havoc'"
+	        array int16 date    { 2003 3 11 }
+	    }
+	    {
+	        string url          "https://www.ign.com/articles/2003/03/18/rayman-3-ships"
+	        string title        "Rayman 3 Ships"
+	        array int16 date    { 2003 3 18 }
 	    }
 	}
 

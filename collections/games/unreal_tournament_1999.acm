@@ -21,4 +21,5 @@ object collection
 
 	string icon         "web/icons/collections/ut99_small.ico"
 	string iconSmall    "web/icons/collections/ut99_small.ico"
+	string banner       "unreal_tournament_1999/images/screenshots/1999_gt_digital_press_kit/unt004.png"
 }

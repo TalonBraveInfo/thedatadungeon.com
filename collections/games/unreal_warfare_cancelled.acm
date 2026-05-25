@@ -24,6 +24,11 @@ object collection
 	        array int16 date    { 2001 1 16 }
 	    }
 	    {
+	        string url          "https://www.shacknews.com/article/11799/epics-unreal-warfare"
+	        string title        "Epic's Unreal Warfare"
+	        array int16 date    { 2001 1 22 }
+	    }
+	    {
 	        string url          "https://web.archive.org/web/20010202160300/http://www.voodooextreme.com/articles/thestateofunreal.html"
 	        string title        "Unreal Engine Update"
 	        array int16 date    { 2001 1 23 }
@@ -39,9 +44,30 @@ object collection
 	        array int16 date    { 2001 3 }
 	    }
 	    {
+	        string url          "https://web.archive.org/web/20230605100426/https://www.ign.com/articles/2001/03/22/gdc-2001-unreal-technology-demo"
+	        string title        "GDC 2001: Unreal Technology Demo"
+	        array int16 date    { 2001 3 22 }
+	    }
+	    {
 	        string url          "https://web.archive.org/web/20020402161238/http://www.epicgames.com/UnrealEngineNews.html#:~:text=Major%20Highlights%20of%20Build%20739"
 	        string title        "Major Highlights of Build 739"
 	        array int16 date    { 2001 7 }
+	    }
+	    {
+	        string url          "https://www.bluesnews.com/a/332/epic-games-update"
+	        string title        "Epic Games Update"
+	        array int16 date    { 2002 3 15 }
+	    }
+	    {
+	        ; noteworthy because the bonus pack included content recycled from Unreal Warfare
+	        string url          "https://web.archive.org/web/20171112073654/http://worthplaying.com/archive/2003/1/12/#:~:text=%27Unreal%20Tournament%202003%27%20Bonus%20Pack%20Update"
+	        string title        "'Unreal Tournament 2003' Bonus Pack Update"
+	        array int16 date    { 2003 1 12 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20140823210821/http://www.gamestm.co.uk/features/gears-of-war-was-like-battlefield-had-mechs-and-class-based-combat/"
+	        string title        "Gears Of War intended to be like Battlefield, had mechs and class-based combat"
+	        array int16 date    { 2014 8 }
 	    }
 	}
 }
