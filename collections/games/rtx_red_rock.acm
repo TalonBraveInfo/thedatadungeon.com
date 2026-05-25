@@ -7,7 +7,7 @@ object collection
 	string type game
 	string source "Games/RTX Red Rock (2003)"
 	string releaseStatus released
-	array int16 releaseDate { 2003 6 17	}
+	array int16 releaseDate { 2003 6 17 }
 
 	array object publications
 	{
