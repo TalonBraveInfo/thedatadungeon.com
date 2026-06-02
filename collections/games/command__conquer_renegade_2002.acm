@@ -22,4 +22,13 @@ object collection
 		2
 		26
 	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20010430024647/http://www.planetcnc.com/features/interviews/chris_rubyor3/"
+	        string title        "Interviews: Chris Rubyor"
+	        array int16 date    { 2001 2 24 }
+	    }
+	}
 }

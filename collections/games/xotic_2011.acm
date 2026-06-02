@@ -1,7 +1,9 @@
 node.utf8
 object collection
 {
-	string name Xotic
+	string name             Xotic
+	array string otherNames { "Experience" "Exod Intervention" }
+
 	array string developers { "WXP Games" }
 	array string publishers { "WXP Games" }
 	string type game 
@@ -12,4 +14,97 @@ object collection
 		9
 		16
 	}
+
+	array object links
+	{
+	    {
+	        string url      "https://web.archive.org/web/20000303031233/http://www.wxp3d.com/"
+	        string title    "The Whole Experience"
+	    }
+	    {
+	        string url      "https://web.archive.org/web/20090621074112/http://exod.wxpgames.com/"
+	        string title    "Exod Intervention Blog"
+	    }
+	}
+
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/20000208072308/http://www.rtimeinc.com/html/wxp.html"
+	        string title        "WHOLE EXPERIENCE PARTNERS WITH RTIME TO BRING STATE-OF-THE-ART MULTIPLAYER INTERNET ACTION TO 'EXPERIENCE'"
+	        array int16 date    { 1999 2 23 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000817085329/http://www.voodooextreme.com/games/previews/experience/"
+	        string title        "Experience"
+	        array int16 date    { 1999 3 6 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000307045527/http://www.voodooextreme.com/games/interviews/experience.html"
+	        string title        "Experience - Interview With Patrick Moynihan"
+	        array int16 date    { 1999 3 6 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%231"
+	        string title        "Experience Update #1"
+	        array int16 date    { 1999 7 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000311004604/http://avault.com/previews/preview_temp.asp?game=experience&page=1"
+	        string title        "Experience"
+	        array int16 date    { 1999 7 8 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%232"
+	        string title        "Experience Update #2"
+	        array int16 date    { 1999 7 21 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%233"
+	        string title        "Experience Update #3"
+	        array int16 date    { 1999 8 17 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%2FDMZG%20Update%20%234"
+	        string title        "Experience/DMZG Update #4"
+	        array int16 date    { 1999 8 31 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%235"
+	        string title        "Experience Update #5"
+	        array int16 date    { 1999 9 2 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000229141754/http://www.3dgpu.com/interviews/wxp_sky.cfm"
+	        string title        "Sky Kensok, VP The Whole Experience, Inc."
+	        array int16 date    { 1999 11 2 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%236"
+	        string title        "Experience Update #6"
+	        array int16 date    { 1999 11 5 }
+	    }
+	    {
+	        string url          "https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Screenshots-,Experience%20Update%20%237"
+	        string title        "Experience Update #7"
+	        array int16 date    { 2000 1 14 }
+	    }
+	    {
+	        string url          "https://www.gamesindustry.biz/exod-intervention-indie-fps-that-s-been-10-years-in-the-making-presumably-on-a-very-early-xbox-360-dev-kit"
+	        string title        "Exod Intervention"
+	        array int16 date    { 2009 6 18 }
+	    }
+	    {
+	        string url          "https://worthplaying.com/article/2009/6/18/news/62610-exod-intervention-x360-announced/"
+	        string title        "'EXOD Intervention' (X360) Announced"
+	        array int16 date    { 2009 6 18 }
+	    }
+	    {
+	        string url          "https://worthplaying.com/article/2009/6/19/news/62668-exod-intervention-x360-screens-trailer/"
+	        string title        "'Exod Intervention' (X360) - Screens & Trailer"
+	        array int16 date    { 2009 6 19 }
+	    }
+	}
+
+	string banner "xotic_2011/images/experience_1998/screenshots/screen6.jpg"
 }

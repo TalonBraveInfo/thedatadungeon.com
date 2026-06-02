@@ -26,6 +26,11 @@ object collection
 	        string title        "Halo Preview"
 	        array int16 date    { 1999 10 18 }
 	    }
+	    {
+	        string url          "https://web.archive.org/web/20010602110733/http://carnage.bungie.org/haloforum/halo.forum.pl?read=50663"
+	        string title        "Gadzooks"
+	        array int16 date    { 2001 2 24 }
+	    }
 	}
 
 	string icon         "web/icons/collections/halo.ico"
