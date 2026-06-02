@@ -656,3 +656,32 @@ Added game, <a href="rtx_red_rock.html">RTX Red Rock</a>
 Added 1 <a href="black__white_2001.html#others">others</a>, under <a href="black__white_2001.html">Black & White</a>
 Added 1 publications, under <a href="arx_fatalis_2002.html">Arx Fatalis</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20021129075151/http://www.worthplaying.com/article.php?sid=2028&mode=thread&order=0">Preview PC Preview: Fishtank's ARX FATALIS ! </a> (via worthplaying.com)
+changeset 1780403960 28
+Added 3 <a href="bioshock_infinite_2013.html#videos">videos</a>, under <a href="bioshock_infinite_2013.html">BioShock Infinite</a>
+Added 1 <a href="prey_2006.html#distributions">distributions</a>, under <a href="prey_2006.html">Prey</a>
+Added 15 publications, under <a href="xotic_2011.html">Xotic</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000208072308/http://www.rtimeinc.com/html/wxp.html">WHOLE EXPERIENCE PARTNERS WITH RTIME TO BRING STATE-OF-THE-ART MULTIPLAYER INTERNET ACTION TO 'EXPERIENCE'</a> (via rtimeinc.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000817085329/http://www.voodooextreme.com/games/previews/experience/">Experience</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000307045527/http://www.voodooextreme.com/games/interviews/experience.html">Experience - Interview With Patrick Moynihan</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%231">Experience Update #1</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000311004604/http://avault.com/previews/preview_temp.asp?game=experience&page=1">Experience</a> (via avault.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%232">Experience Update #2</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%233">Experience Update #3</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%2FDMZG%20Update%20%234">Experience/DMZG Update #4</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%235">Experience Update #5</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000229141754/http://www.3dgpu.com/interviews/wxp_sky.cfm">Sky Kensok, VP The Whole Experience, Inc.</a> (via 3dgpu.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Patrick-,Experience%20Update%20%236">Experience Update #6</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20000520001352/http://www.voodooextreme.com/articles/experience/Expdev1.html#:~:text=Screenshots-,Experience%20Update%20%237">Experience Update #7</a> (via voodooextreme.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gamesindustry.biz/exod-intervention-indie-fps-that-s-been-10-years-in-the-making-presumably-on-a-very-early-xbox-360-dev-kit">Exod Intervention</a> (via gamesindustry.biz)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://worthplaying.com/article/2009/6/18/news/62610-exod-intervention-x360-announced/">'EXOD Intervention' (X360) Announced</a> (via worthplaying.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://worthplaying.com/article/2009/6/19/news/62668-exod-intervention-x360-screens-trailer/">'Exod Intervention' (X360) - Screens & Trailer</a> (via worthplaying.com)
+Added 11 <a href="xotic_2011.html#screenshots">screenshots</a>, under <a href="xotic_2011.html">Xotic</a>
+Added 1 <a href="xotic_2011.html#others">others</a>, under <a href="xotic_2011.html">Xotic</a>
+Added 1 publications, under <a href="command__conquer_renegade_2002.html">Command & Conquer Renegade</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010430024647/http://www.planetcnc.com/features/interviews/chris_rubyor3/">Interviews: Chris Rubyor</a> (via planetcnc.com)
+Added 1 publications, under <a href="halo_2001.html">Halo: Combat Evolved</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010602110733/http://carnage.bungie.org/haloforum/halo.forum.pl?read=50663">Gadzooks</a> (via carnage.bungie.org)
+Added 40 <a href="starfield_2023.html#others">others</a>, under <a href="starfield_2023.html">Starfield</a>
+Added 1 <a href="bioshock_2007.html#others">others</a>, under <a href="bioshock_2007.html">BioShock</a>
+Added 1 publications, under <a href="command__conquer_red_alert_2_2000.html">Command & Conquer Red Alert 2</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010430024647/http://www.planetcnc.com/features/interviews/chris_rubyor3/">Interviews: Chris Rubyor</a> (via planetcnc.com)
