@@ -1,0 +1,17 @@
+node.utf8
+object config
+{
+    string title        "The Data Dungeon"
+    string description  "Data archival website."
+    string url          "https://archive.thedatadungeon.com"
+
+    string contactEmail "hogsy@oldtimes-software.com"
+    string contactName  "Mark Sowden"
+
+    array string linkIcons
+    {
+        https://hiddenpalace.org    web/hiddenpalace.ico
+        https://tcrf.net            web/tcrf.png
+        https://www.unseen64.net    web/icons/unseen64.png
+    }
+}
