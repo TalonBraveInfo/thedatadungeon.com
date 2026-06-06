@@ -487,7 +487,7 @@ hr {
 }
 
 .dd-menu-logo {
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: all 0.4s ease;
     margin-left: 1em;
     height: 6.0em;
 }
@@ -500,7 +500,7 @@ hr {
     top: 0;
     z-index: 100; /* Stop YouTube iframes being drawn over us. */
     display: flex;
-    transition: all 0.75s ease; /* Smooth transition */
+    transition: all 0.25s; /* Smooth transition */
     background: none;
 }
 
@@ -532,9 +532,9 @@ hr {
 }
 
 .dd-menu.shrink .dd-menu-logo {
-    height: 4em;
+    height: 5em;
     clip-path: rect(auto 50% auto auto);
-    margin-right: -7.5em;
+    margin-right: -9em;
 }
 
 .dd-menu.shrink .svg-icon {
