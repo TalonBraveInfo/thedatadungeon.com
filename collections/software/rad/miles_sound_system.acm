@@ -8,6 +8,6 @@ object collection
     string icon         "web/icons/collections/software/miles_sound_system.png"
 	string iconSmall    "web/icons/collections/software/miles_sound_system_small.png"
 
-    array int16 releaseDate { 1991 }
+    array int16 releaseDate { 1991 0 0 }
     array string developers { "John Miles" "RAD Game Tools" "Epic Games Tools" }
 }
