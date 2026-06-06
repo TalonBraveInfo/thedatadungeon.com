@@ -9,4 +9,6 @@ object collection
     array string publishers { "3D Realms" "Gathering of Developers" }
 
     array int16 releaseDate { 2001 7 25 }
+
+    string banner "max_payne_2001/images/1998/screenshots/63_b.jpg"
 }
