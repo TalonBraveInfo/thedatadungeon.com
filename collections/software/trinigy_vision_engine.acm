@@ -1,0 +1,14 @@
+node.utf8
+object collection
+{
+    string name     "Vision Engine"
+    string type     "software"
+    string source   "Software/Game Engines/Vision Engine (Vulpine Vision, Havok Vision, Project Anarchy)"
+
+    string icon         "trinigy_vision_engine/images/havok_vision_logo/havok-vision-engine-150x150.png"
+	string iconSmall    "trinigy_vision_engine/images/havok_vision_logo/vision_engine_logo_60x60.png"
+	string banner       "trinigy_vision_engine/images/screenshots/57_bmlightsandshadows.jpg"
+
+    array int16 releaseDate { 2003 0 0 }
+    array string developers { "Trinigy" "Havok" }
+}

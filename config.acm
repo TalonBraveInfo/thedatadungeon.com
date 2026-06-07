@@ -5,7 +5,7 @@ object config
     string description  "Data archival website."
     string url          "https://archive.thedatadungeon.com"
 
-    string contactEmail "hogsy@oldtimes-software.com"
+    string contactEmail "markelswo@gmail.com"
     string contactName  "Mark Sowden"
 
     array string linkIcons
