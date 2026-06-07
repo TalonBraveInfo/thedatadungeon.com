@@ -685,11 +685,6 @@ Added 40 <a href="starfield_2023.html#others">others</a>, under <a href="starfie
 Added 1 <a href="bioshock_2007.html#others">others</a>, under <a href="bioshock_2007.html">BioShock</a>
 Added 1 publications, under <a href="command__conquer_red_alert_2_2000.html">Command & Conquer Red Alert 2</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20010430024647/http://www.planetcnc.com/features/interviews/chris_rubyor3/">Interviews: Chris Rubyor</a> (via planetcnc.com)
-changeset 1780761135 4
-Added software, <a href="miles_sound_system.html">Miles Sound System</a>
-Added 5 <a href="max_payne_2001.html#artworks">artworks</a>, under <a href="max_payne_2001.html">Max Payne</a>
-Added 51 <a href="max_payne_2001.html#screenshots">screenshots</a>, under <a href="max_payne_2001.html">Max Payne</a>
-Added 7 <a href="max_payne_2001.html#others">others</a>, under <a href="max_payne_2001.html">Max Payne</a>
 changeset 1780762857 4
 Added 5 <a href="max_payne_2001.html#artworks">artworks</a>, under <a href="max_payne_2001.html">Max Payne</a>
 Added 51 <a href="max_payne_2001.html#screenshots">screenshots</a>, under <a href="max_payne_2001.html">Max Payne</a>
