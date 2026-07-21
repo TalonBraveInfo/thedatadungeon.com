@@ -1,0 +1,21 @@
+node.utf8
+object collection
+{
+	string name             Alive       ; this is what an artist involved called it
+    array string otherNames { Orpheus } ; this is what Unseen64 calls it, but I don't know where that name comes from!
+	array string developers { "Darkworks" }
+	string releaseStatus    cancelled
+	string type             game
+
+	string source "Games/Alive (Orpheus) (Cancelled)"
+
+	array object links
+	{
+	    {
+	        string title    "Unseen64"
+	        string url      "https://www.unseen64.net/2012/10/17/orpheus-ps2-xbox-prototype/"
+	    }
+	}
+
+	string banner "alive/images/artwork/mathieu_lauffray/concept_vision_jv_alive_02.jpg"
+}

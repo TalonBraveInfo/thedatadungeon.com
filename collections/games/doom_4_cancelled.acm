@@ -13,5 +13,19 @@ object collection
 	}
 	string releaseStatus cancelled
 
+	array object publications
+	{
+		{
+			string url          "https://web.archive.org/web/20090214171741/http://wire.ggl.com/2008/05/07/id-software-announces-doom-4"
+			string title        "id Software announces Doom 4"
+			array int16 date    { 2008 5 7 }
+		}
+		{
+		    string url          "https://web.archive.org/web/20090215000927/http://wire.ggl.com/2009/01/15/graham-joyce-to-write-doom-4/"
+		    string title        "Graham Joyce to write DOOM 4"
+		    array int16 date    { 2009 1 15 }
+		}
+	}
+
 	string banner "doom_4_cancelled/images/shot00098_jpg.jpg"
 }

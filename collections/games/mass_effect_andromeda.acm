@@ -1,0 +1,16 @@
+node.utf8
+object collection
+{
+    string type game
+
+    string name "Mass Effect: Andromeda"
+
+    array string developers { "BioWare" }
+    array string publishers { "Electronic Arts" }
+
+    array int16 releaseDate { 2017 3 21 }
+
+    string source "Games/Mass Effect Andromeda (2017)"
+
+    string banner "mass_effect_andromeda/images/e3_2015/desert_scene/michael-havart-e3-2015-desert-scene-final.jpeg"
+}

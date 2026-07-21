@@ -1,0 +1,24 @@
+node.utf8
+object collection
+{
+    string type game
+
+    string name "Beyond Good & Evil 2"
+
+    array string developers { "Ubisoft Montpellier" }
+    array string publishers { Ubisoft }
+
+    string releaseStatus pending
+
+    string source "Games/Beyond Good & Evil 2 (Pending)"
+
+    array object links
+    {
+        {
+            string title    "Official Website"
+            string url      "https://www.ubisoft.com/en-us/game/beyond-good-and-evil-2"
+        }
+    }
+
+    string banner "beyond_good__evil_2/images/artwork/environments/omar-sabrou-macao-def.jpg"
+}

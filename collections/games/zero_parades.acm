@@ -1,0 +1,25 @@
+node.utf8
+object collection
+{
+	string type game
+
+	string name             "Zero Parades: For Dead Spies"
+    array string otherNames { C4 }
+
+	array string developers { "ZA/UM" }
+	array string publishers { "ZA/UM" }
+
+    array int16 releaseDate { 2026 5 21 }
+
+	string source "Games/ZERO PARADES For Dead Spies (2026)"
+
+	array object links
+	{
+	    {
+	        string title    "Official Website"
+	        string url      "https://zeroparades.com/"
+	    }
+	}
+
+	;string banner "alive/images/artwork/mathieu_lauffray/concept_vision_jv_alive_02.jpg"
+}
