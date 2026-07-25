@@ -20,5 +20,6 @@ object collection
         }
     }
 
-    string banner "beyond_good__evil_2/images/artwork/environments/omar-sabrou-macao-def.jpg"
+    string icon     "web/icons/collections/beyond_good_and_evil_2.avif"
+    string banner   "beyond_good__evil_2/images/artwork/environments/omar-sabrou-macao-def.jpg"
 }
