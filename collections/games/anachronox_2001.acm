@@ -95,5 +95,6 @@ object collection
 	    }
 	}
 
-	string banner "anachronox_2001/images/screenshots/1998/anachronoxb010.jpg"
+    string icon     "web/icons/collections/anox_small.ico"
+	string banner   "anachronox_2001/images/screenshots/1998/anachronoxb010.jpg"
 }
