@@ -379,7 +379,7 @@ a:hover {
     position: relative;
 }
 
-.bubble-image > img {
+.bubble-image img {
     border: 2px solid var(--colour-x);
     border-radius: var(--base-radius);
     margin: 0.2em;
@@ -387,7 +387,7 @@ a:hover {
     height: 128px;
 }
 
-.bubble-image > img:hover {
+.bubble-image img:hover {
     border: 2px solid var(--deep-color);
 }
 
@@ -429,13 +429,12 @@ a:hover {
 
 .bubble-image-overlay-citation {
     position: absolute;
-    left: 8%;
-    top: 0;
-    padding: 0.25em;
-    background: rgba(0, 0, 0, 0.5);
-    font-size: 0.65em;
-    text-align: left;
-    border-radius: var(--base-radius);
+    left: 110px;
+    top: 10px;
+    background: var(--colour-x);
+    padding-left: 0.45em;
+    padding-right: 0.45em;
+    border-radius: var(--base-radius-small);
 }
 
 hr {
@@ -700,9 +699,15 @@ hr {
     position: absolute;
     border-radius: var(--base-radius);
     background: var(--colour-see-through);
-    text-align: center;
     margin-left: -0.25em;
-    padding: 0.5em;
+    padding-left: 0.5em;
+    padding-right:0.5em;
+    width:max-content;
+}
+
+.dd-tooltip p {
+    margin-top:0.5em;
+    margin-bottom:0;
 }
 
 .dd-tooltip:hover .dd-tooltip-text {
