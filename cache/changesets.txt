@@ -692,3 +692,23 @@ Added 7 <a href="max_payne_2001.html#others">others</a>, under <a href="max_payn
 Added software, <a href="miles_sound_system.html">Miles Sound System</a>
 changeset 1780841380 1
 Added software, <a href="trinigy_vision_engine.html">Vision Engine</a>
+changeset 1785101030 19
+Added 4 <a href="halo_2_2004.html#others">others</a>, under <a href="halo_2_2004.html">Halo 2</a>
+Added 3 <a href="doom_3_2004.html#screenshots">screenshots</a>, under <a href="doom_3_2004.html">Doom 3</a>
+Added 1 <a href="xotic_2011.html#distributions">distributions</a>, under <a href="xotic_2011.html">Xotic</a>
+Added game, <a href="mass_effect_andromeda.html">Mass Effect: Andromeda</a>
+Added 2 publications, under <a href="doom_4_cancelled.html">Doom 4</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20090214171741/http://wire.ggl.com/2008/05/07/id-software-announces-doom-4">id Software announces Doom 4</a> (via wire.ggl.com)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/20090215000927/http://wire.ggl.com/2009/01/15/graham-joyce-to-write-doom-4/">Graham Joyce to write DOOM 4</a> (via wire.ggl.com)
+Added 1 <a href="doom_4_cancelled.html#artworks">artworks</a>, under <a href="doom_4_cancelled.html">Doom 4</a>
+Added 1 <a href="doom_4_cancelled.html#videos">videos</a>, under <a href="doom_4_cancelled.html">Doom 4</a>
+Added 4 <a href="doom_4_cancelled.html#others">others</a>, under <a href="doom_4_cancelled.html">Doom 4</a>
+Added 1 <a href="final_fantasy_xv_2016.html#others">others</a>, under <a href="final_fantasy_xv_2016.html">Final Fantasy XV</a>
+Added 122 <a href="rayman_3_hoodlum_havoc_2003.html#artworks">artworks</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+Added 103 <a href="rayman_3_hoodlum_havoc_2003.html#screenshots">screenshots</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+Added 6 <a href="rayman_3_hoodlum_havoc_2003.html#videos">videos</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+Added 143 <a href="rayman_3_hoodlum_havoc_2003.html#others">others</a>, under <a href="rayman_3_hoodlum_havoc_2003.html">Rayman 3 Hoodlum Havoc</a>
+Added game, <a href="beyond_good__evil_2.html">Beyond Good & Evil 2</a>
+Added game, <a href="alive.html">Alive</a>
+Added 1 <a href="resistance_fall_of_man_2006.html#videos">videos</a>, under <a href="resistance_fall_of_man_2006.html">Resistance Fall of Man</a>
+Added game, <a href="zero_parades.html">Zero Parades: For Dead Spies</a>
