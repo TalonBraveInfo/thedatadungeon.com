@@ -707,7 +707,7 @@ hr {
 
 .dd-tooltip p {
     margin-top:0.5em;
-    margin-bottom:0;
+    margin-bottom:0.5em;
 }
 
 .dd-tooltip:hover .dd-tooltip-text {
