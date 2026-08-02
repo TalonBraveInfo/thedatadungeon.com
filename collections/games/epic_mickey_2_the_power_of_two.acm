@@ -1,0 +1,14 @@
+node.utf8
+object collection
+{
+    string type game
+
+    string name "Epic Mickey 2: The Power of Two"
+
+    array string developers { "Junction Point Studios" }
+    array string publishers { "Disney Interactive Studios" }
+
+    array int16 releaseDate { 2012 11 18 }
+
+    string source "Games/Epic Mickey 2 The Power of Two (2012)"
+}
