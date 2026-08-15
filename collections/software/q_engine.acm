@@ -18,5 +18,9 @@ object collection
             string url      "https://web.archive.org/web/20160306120226/http://www.qubesoft.com/index.php"
             string title    "Qube Software"
         }
+        {
+            string url      "https://web.archive.org/web/20130815040218/http://qdn.qubesoft.com/"
+            string title    "Q Developer Network"
+        }
     }
 }

@@ -707,14 +707,14 @@ hr {
 }
 
 .dd-tooltip a {
-    width:350px;
+    max-width:350px;
     display:block ruby;
     overflow:hidden;
     text-overflow:ellipsis;
 }
 
 .dd-tooltip a:hover {
-    width:max-content;
+    max-width:max-content;
     display:block ruby;
 }
 
