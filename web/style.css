@@ -703,6 +703,19 @@ hr {
     padding-left: 0.5em;
     padding-right:0.5em;
     width:max-content;
+    /*max-width:400px;*/
+}
+
+.dd-tooltip a {
+    width:350px;
+    display:block ruby;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+
+.dd-tooltip a:hover {
+    width:max-content;
+    display:block ruby;
 }
 
 .dd-tooltip p {
