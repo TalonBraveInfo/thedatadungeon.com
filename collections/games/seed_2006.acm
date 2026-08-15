@@ -1,0 +1,92 @@
+node.utf8
+object collection
+{
+    string type game
+
+    string name "Seed"
+
+    array string developers { "Runestone Game Development" }
+
+    array int16 releaseDate { 2006 5 2 }
+
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/20060502031759/http://www.seedthegame.com/news.php?page=35&letter=1"
+            string title        "Newsletter #1"
+            array int16 date    { 2005 5 23 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502031804/http://www.seedthegame.com/news.php?page=35&letter=2"
+            string title        "Newsletter #2"
+            array int16 date    { 2005 6 6 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502093318/http://www.seedthegame.com/news.php?page=35&letter=3"
+            string title        "Newsletter #3"
+            array int16 date    { 2005 6 29 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060616181208/http://www.seedthegame.com/press.php?page=21&release=1"
+            string title        "Runestone launches Seed game website"
+            array int16 date    { 2005 7 21 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502002336/http://www.seedthegame.com/news.php?page=35&letter=4"
+            string title        "Newsletter #4"
+            array int16 date    { 2005 8 2 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502002324/http://www.seedthegame.com/news.php?page=35&letter=5"
+            string title        "Newsletter #5"
+            array int16 date    { 2005 9 1 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502002314/http://www.seedthegame.com/news.php?page=35&letter=6"
+            string title        "Newsletter #6"
+            array int16 date    { 2005 10 3 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502054450/http://www.seedthegame.com/news.php?page=35&letter=7"
+            string title        "Newsletter #7"
+            array int16 date    { 2005 11 22 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060616181158/http://www.seedthegame.com/press.php?page=21&release=2"
+            string title        "Runestone Announces Seed"
+            array int16 date    { 2005 12 20 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502031810/http://www.seedthegame.com/news.php?page=35&letter=8"
+            string title        "Newsletter #8"
+            array int16 date    { 2005 12 23 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060310202916/http://www.seedthegame.com/press.php?page=21&release=3"
+            string title        "Runestone Announces Contract with Alchemic Dream"
+            array int16 date    { 2006 1 4 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060207082043/http://www.seedthegame.com/press.php?page=21"
+            string title        "Runestone Announces Beta Test Sign-Ups for Seed"
+            array int16 date    { 2006 1 9 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060502002330/http://www.seedthegame.com/news.php?page=35&letter=9"
+            string title        "Newsletter #9"
+            array int16 date    { 2006 2 9 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060503075145/http://www.seedthegame.com/news.php?page=35&letter=10"
+            string title        "Newsletter #10"
+            array int16 date    { 2006 3 14 }
+        }
+        {
+            string url          "https://web.archive.org/web/20060616174605/http://www.seedthegame.com/news.php?page=35&letter=11"
+            string title        "Newsletter #11"
+            array int16 date    { 2006 5 22 }
+        }
+    }
+
+    string source "Games/Seed (2006)"
+}

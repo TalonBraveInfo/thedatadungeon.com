@@ -9,7 +9,7 @@ object collection
 
 	string type game
 	string source "Games/BRII (Cancelled)"
-	string releaseStatus released
+	string releaseStatus cancelled
 
 	string banner "brink_2_cancelled/images/artwork/georgi_simeonov/georgi-simeonov-environment-gs-canyon-city-logo.webp"
 

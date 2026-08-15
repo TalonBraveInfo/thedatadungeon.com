@@ -12,5 +12,5 @@ object collection
 
     string source "Games/Mass Effect Andromeda (2017)"
 
-    string banner "mass_effect_andromeda/images/e3_2015/desert_scene/michael-havart-e3-2015-desert-scene-final.jpeg"
+    string banner "mass_effect_andromeda/images/artwork/e3_2015/desert_scene/michael-havart-e3-2015-desert-scene-final.jpeg"
 }

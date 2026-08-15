@@ -3,7 +3,9 @@ object collection
 {
     string name             "Starfield"
     string type             "game"
+    
     string releaseStatus    released
+    array int16 releaseDate { 2023 9 6 }
 
     array string developers { "Bethesda Game Studios" }
     array string publishers { "Bethesda Softworks" }

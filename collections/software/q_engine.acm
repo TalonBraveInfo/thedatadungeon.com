@@ -1,0 +1,22 @@
+node.utf8
+object collection
+{
+    string name     "Q Engine"
+    string type     "software"
+    string source   "Software/Game Engines/Q (Qube Software)"
+
+    string icon         "q_engine/images/artwork/logo/poweredbyq.png"
+	;string iconSmall    "trinigy_vision_engine/images/havok_vision_logo/vision_engine_logo_60x60.png"
+	;string banner       "trinigy_vision_engine/images/screenshots/57_bmlightsandshadows.jpg"
+
+    array int16 releaseDate { 2001 0 0 }
+    array string developers { "Qube Software" }
+
+    array object links
+    {
+        {
+            string url      "https://web.archive.org/web/20160306120226/http://www.qubesoft.com/index.php"
+            string title    "Qube Software"
+        }
+    }
+}
