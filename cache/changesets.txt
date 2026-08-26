@@ -719,3 +719,9 @@ Added game, <a href="epic_mickey_2_the_power_of_two.html">Epic Mickey 2: The Pow
 Added 52 <a href="mass_effect_andromeda.html#artworks">artworks</a>, under <a href="mass_effect_andromeda.html">Mass Effect: Andromeda</a>
 Added 3 <a href="mass_effect_andromeda.html#videos">videos</a>, under <a href="mass_effect_andromeda.html">Mass Effect: Andromeda</a>
 Added game, <a href="seed_2006.html">Seed</a>
+changeset 1787735899 5
+Added 27 <a href="q_engine.html#distributions">distributions</a>, under <a href="q_engine.html">Q Engine</a>
+Added 2 publications, under <a href="blood_1997.html">Blood</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19970606142640/http://www.avault.com:80/articles/bloodinter.asp">An exclusive Interview with Nick Newhard the Senior Game Designer for Blood</a> (via avault.com:80)
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19970606142730/http://www.avault.com:80/articles/hallinter.asp">An exclusive Interview with Jason Hall the C.E.O. of Monolith</a> (via avault.com:80)
+Added game, <a href="shadow_of_the_colossus.html">Shadow of the Colossus</a>
