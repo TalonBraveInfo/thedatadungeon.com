@@ -1,0 +1,12 @@
+node.utf8
+object collection
+{
+    string name     "Shadow of the Colossus"
+    string type     "game"
+    string source   "Games/Shadow of the Colossus (2005)"
+
+    array int16 releaseDate { 2005 10 18 }
+    array string developers { "Sony Computer Entertainment Japan" }
+
+    string banner   "shadow_of_the_colossus/images/screenshots/2004/wanda20040925_pic01.jpg"
+}

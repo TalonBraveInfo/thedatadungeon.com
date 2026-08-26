@@ -18,4 +18,20 @@ object collection
 		3
 		7
 	}
+
+	array object publications
+	{
+	    {
+            ; credits to mantismen
+	        string url          "https://web.archive.org/web/19970606142640/http://www.avault.com:80/articles/bloodinter.asp"
+	        string title        "An exclusive Interview with Nick Newhard the Senior Game Designer for Blood"
+	        array int16 date    { 1997 4 26 }
+	    }
+	    {
+            ; credits to mantismen
+	        string url          "https://web.archive.org/web/19970606142730/http://www.avault.com:80/articles/hallinter.asp"
+	        string title        "An exclusive Interview with Jason Hall the C.E.O. of Monolith"
+	        array int16 date    { 1997 3 31 }
+	    }
+	}
 }
