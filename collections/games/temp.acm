@@ -1,0 +1,7 @@
+node.utf8
+object collection
+{
+	string name "2026 Valve Depot Leak"
+	string type game
+	string source "Games/2026 Valve Depot Leak"
+}

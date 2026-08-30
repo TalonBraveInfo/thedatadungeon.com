@@ -725,3 +725,5 @@ Added 2 publications, under <a href="blood_1997.html">Blood</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19970606142640/http://www.avault.com:80/articles/bloodinter.asp">An exclusive Interview with Nick Newhard the Senior Game Designer for Blood</a> (via avault.com:80)
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://web.archive.org/web/19970606142730/http://www.avault.com:80/articles/hallinter.asp">An exclusive Interview with Jason Hall the C.E.O. of Monolith</a> (via avault.com:80)
 Added game, <a href="shadow_of_the_colossus.html">Shadow of the Colossus</a>
+changeset 1788090068 1
+Added game, <a href="temp.html">2026 Valve Depot Leak</a>
