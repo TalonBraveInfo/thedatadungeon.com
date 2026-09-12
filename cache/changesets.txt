@@ -727,3 +727,9 @@ Added 2 publications, under <a href="blood_1997.html">Blood</a>
 Added game, <a href="shadow_of_the_colossus.html">Shadow of the Colossus</a>
 changeset 1788090068 1
 Added game, <a href="temp.html">2026 Valve Depot Leak</a>
+changeset 1789233977 5
+Added 10 <a href="the_mark_of_kri_2003.html#artworks">artworks</a>, under <a href="the_mark_of_kri_2003.html">The Mark of Kri</a>
+Added 18 <a href="the_mark_of_kri_2003.html#screenshots">screenshots</a>, under <a href="the_mark_of_kri_2003.html">The Mark of Kri</a>
+Added 73 <a href="the_movies_2005.html#screenshots">screenshots</a>, under <a href="the_movies_2005.html">The Movies</a>
+Added 17 <a href="the_movies_2005.html#others">others</a>, under <a href="the_movies_2005.html">The Movies</a>
+Added 3 <a href="temp.html#others">others</a>, under <a href="temp.html">2026 Steam Depot Leak</a>
