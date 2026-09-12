@@ -12,4 +12,8 @@ object collection
 		7
 		30
 	}
+
+	;string icon         "web/icons/collections/oni_small.ico"
+	;string iconSmall    "web/icons/collections/oni_small.ico"
+	string banner       "the_mark_of_kri_2003/images/artwork/4027nar3startpainting_1014076_jpg100.jpg"
 }
