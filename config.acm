@@ -10,8 +10,8 @@ object config
 
     array string linkIcons
     {
-        https://hiddenpalace.org    web/hiddenpalace.ico
-        https://tcrf.net            web/tcrf.png
+        https://hiddenpalace.org    web/icons/hiddenpalace.ico
+        https://tcrf.net            web/icons/tcrf.png
         https://www.unseen64.net    web/icons/unseen64.png
     }
 }
