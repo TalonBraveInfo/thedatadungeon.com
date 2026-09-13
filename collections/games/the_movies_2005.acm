@@ -12,6 +12,15 @@ object collection
 		8
 	}
 
+	array object publications
+	{
+	    {
+	        string url          "http://pc.gamespy.com/pc/the-movies/532487p1.html"
+	        string title        "The Beginnings of The Movies"
+	        array int16 date    { 2004 7 21 }
+	    }
+	}
+
 	;string icon         "web/icons/collections/oni_small.ico"
 	;string iconSmall    "web/icons/collections/oni_small.ico"
 	string banner       "the_movies_2005/images/early_renders/02.jpg"
