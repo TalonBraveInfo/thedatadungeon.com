@@ -812,6 +812,11 @@ hr {
     background-color: var(--colour-x);
 }
 
+.dd-tag-updated {
+    background-color:#00ff50;
+    color:black;
+}
+
 /*****************************************************/
 /* Animations */
 
