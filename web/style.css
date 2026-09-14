@@ -800,6 +800,19 @@ hr {
 }
 
 /*****************************************************/
+
+.dd-tag {
+    display:inline-block;
+    padding:0 0.5em;
+    margin:0 0 0 0.5em;
+    font-size: 0.75em;
+    font-weight: bold;
+    vertical-align: middle;
+    border-radius: 0.25em;
+    background-color: var(--colour-x);
+}
+
+/*****************************************************/
 /* Animations */
 
 @keyframes fadein {
