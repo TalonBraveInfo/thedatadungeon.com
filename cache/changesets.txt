@@ -733,3 +733,6 @@ Added 18 <a href="the_mark_of_kri_2003.html#screenshots">screenshots</a>, under 
 Added 73 <a href="the_movies_2005.html#screenshots">screenshots</a>, under <a href="the_movies_2005.html">The Movies</a>
 Added 17 <a href="the_movies_2005.html#others">others</a>, under <a href="the_movies_2005.html">The Movies</a>
 Added 3 <a href="temp.html#others">others</a>, under <a href="temp.html">2026 Steam Depot Leak</a>
+changeset 1789399601 2
+Added 1 publications, under <a href="the_movies_2005.html">The Movies</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pc.gamespy.com/pc/the-movies/532487p1.html">The Beginnings of The Movies</a> (via pc.gamespy.com)
