@@ -1,0 +1,15 @@
+node.utf8
+object collection
+{
+	string name "Sly Cooper and the Thievius Raccoonus"
+	array string developers { "Sucker Punch Productions" }
+	array string publishers { "Sony Computer Entertainment" }
+	string type game
+
+	string releaseStatus released
+	array int16 releaseDate { 2002 9 24 }
+
+	string source "Games/Sly Cooper and the Thievius Racoonus (2003)"
+
+	string banner "sly_cooper/images/screenshots/e3_2002/p2scre18.jpg"
+}

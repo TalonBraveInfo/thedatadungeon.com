@@ -1,0 +1,242 @@
+node.utf8
+object collection
+{
+    string type game
+    string name "Armed Fantasia"
+
+    array string developers { "Wild Bunch Productions" }
+    array string publishers { "505 Games" }
+
+    string releaseStatus cancelled
+
+    string source "Games/Armed Fantasia"
+
+    string banner "armed_fantasia/images/artwork/environments/af_forupdate13_shimazaki02.jpg"
+
+    array object links
+    {
+        {
+            string url      "https://wildbunchproductions.co.jp/eng/"
+            string title    "Official Website"
+        }
+    }
+
+    array object publications
+    {
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/08/30/%e3%83%9f%e3%83%8b%e3%83%9e%e3%83%a0%e3%82%b4%e3%83%bc%e3%83%ab%e9%81%94%e6%88%90%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/"
+            string title        "Minimum Goal Reached! Update Timeline Details"
+            array int16 date    { 2022 8 30 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/01/%e8%a8%ad%e5%ae%9a%e7%b4%b9%e4%bb%8b%ef%bc%83%ef%bc%91%e3%80%80%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e7%b4%b9%e4%bb%8b/"
+            string title        "Worldbuilding Wednesday #1"
+            array int16 date    { 2022 9 1 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/03/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc%ef%bc%83%ef%bc%91/"
+            string title        "Feature Friday #1"
+            array int16 date    { 2022 9 3 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/06/%e3%82%b2%e3%83%bc%e3%83%a0%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e7%b4%b9%e4%bb%8b%ef%bc%83%ef%bc%91/"
+            string title        "Mechanics Mondays #1"
+            array int16 date    { 2022 9 6 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/08/%e8%a8%ad%e5%ae%9a%e7%b4%b9%e4%bb%8b%ef%bc%83%ef%bc%92%e3%80%80%e4%b8%96%e7%95%8c%e8%a6%b3%e7%b4%b9%e4%bb%8b/"
+            string title        "Worldbuilding Wednesday #2"
+            array int16 date    { 2022 9 8 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/10/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc%ef%bc%83%ef%bc%92/"
+            string title        "Feature Fridays #2"
+            array int16 date    { 2022 9 10 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/13/mechanics-mondays-2/"
+            string title        "Mechanics Mondays #2"
+            array int16 date    { 2022 9 13 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/15/worldbuilding-wednesday-3/"
+            string title        "Worldbuilding Wednesday #3"
+            array int16 date    { 2022 9 15 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/17/feature-fridays-3/"
+            string title        "Feature Fridays #3"
+            array int16 date    { 2022 9 17 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/20/mechanics-mondays-3/"
+            string title        "Mechanics Mondays #3"
+            array int16 date    { 2022 9 20 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/22/worldbuilding-wednesday-4/"
+            string title        "Worldbuilding Wednesday #4"
+            array int16 date    { 2022 9 22 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/24/feature-fridays-4/"
+            string title        "Feature Fridays #4"
+            array int16 date    { 2022 9 24 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/27/mechanics-mondays-4/"
+            string title        "Mechanics Mondays #4"
+            array int16 date    { 2022 9 27 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/29/worldbuilding-wednesday-5/"
+            string title        "Worldbuilding Wednesday #5"
+            array int16 date    { 2022 9 29 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/09/30/320-million-jpy-achieved-the-deadline-for-armed-fantasia-penny-blood-by-double-kickstarter-crowdfunding-is-950am-pst-050pm-est-september-30-be-quick-and-dont-miss-this-very-last-chanc/"
+            string title        "Press release: [320 Million JPY Achieved]"
+            array int16 date    { 2022 9 30 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/10/01/the-campaign-is-over/"
+            string title        "The campaign is over!"
+            array int16 date    { 2022 10 1 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/10/29/october-2022-update/"
+            string title        "October 2022 Update"
+            array int16 date    { 2022 10 29 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/11/26/november-2022-update/"
+            string title        "November 2022 Update"
+            array int16 date    { 2022 11 26 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2022/12/24/december-2022-update/"
+            string title        "December 2022 Update"
+            array int16 date    { 2022 12 24 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/01/28/january-2023-update/"
+            string title        "January 2023 Update"
+            array int16 date    { 2023 1 28 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/02/25/february-2023-update/"
+            string title        "February 2023 Update"
+            array int16 date    { 2023 2 25 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/04/01/march-2023-update/"
+            string title        "March 2023 Update"
+            array int16 date    { 2023 4 1 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/04/29/april-2023-update/"
+            string title        "April 2023 Update"
+            array int16 date    { 2023 4 29 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/05/27/may-2023-update/"
+            string title        "May 2023 Update"
+            array int16 date    { 2023 5 27 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/07/01/june-2023-update/"
+            string title        "June 2023 Update"
+            array int16 date    { 2023 7 1 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/07/29/july-2023-update/"
+            string title        "July 2023 Update"
+            array int16 date    { 2023 7 29 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/08/26/august-2023-update/"
+            string title        "August 2023 Update"
+            array int16 date    { 2023 8 26 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/09/30/september-2023-update/"
+            string title        "September 2023 Update"
+            array int16 date    { 2023 9 30 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/10/28/october-2023-update/"
+            string title        "October 2023 Update"
+            array int16 date    { 2023 10 28 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2023/12/02/november-december-2023-update/"
+            string title        "November/December 2023 Update"
+            array int16 date    { 2023 12 2 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/01/06/january-2024-update/"
+            string title        "January 2024 Update"
+            array int16 date    { 2024 1 6 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/02/03/february-2024-update/"
+            string title        "February 2024 Update"
+            array int16 date    { 2024 2 3 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/03/02/march-2024-update/"
+            string title        "March 2024 Update"
+            array int16 date    { 2024 3 2 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/04/06/april-2024-update/"
+            string title        "April 2024 Update"
+            array int16 date    { 2024 4 6 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/05/11/may-2024-update/"
+            string title        "May 2024 Update"
+            array int16 date    { 2024 5 11 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/06/08/june-2024-update/"
+            string title        "June 2024 Update"
+            array int16 date    { 2024 6 8 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/07/06/july-2024-update/"
+            string title        "July 2024 Update"
+            array int16 date    { 2024 7 6 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/08/03/august-2024-update/"
+            string title        "August 2024 Update"
+            array int16 date    { 2024 8 3 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/09/07/september-2024-update/"
+            string title        "September 2024 Update"
+            array int16 date    { 2024 9 7 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/10/05/october-2024-update/"
+            string title        "October 2024 Update"
+            array int16 date    { 2024 10 5 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/11/09/november-2024-update/"
+            string title        "November 2024 Update"
+            array int16 date    { 2024 11 9 }
+        }
+        {
+            string url          "https://wildbunchproductions.co.jp/eng/2024/12/07/1536/"
+            string title        "December 2024 Update"
+            array int16 date    { 2024 12 7 }
+        }
+        {
+            string url          "https://automaton-media.com/en/news/wild-arms-spiritual-successor-armed-fantasia-discontinued-by-publisher-despite-successful-2022-crowdfunding-campaign/"
+            string title        "Wild Arms spiritual successor Armed Fantasia discontinued by publisher despite successful 2022 crowdfunding campaign"
+            array int16 date    { 2026 09 25 }
+        }
+    }
+}

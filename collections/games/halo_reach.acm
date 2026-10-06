@@ -1,0 +1,13 @@
+node.utf8
+object collection
+{
+	string name "Halo: Reach"
+	array string developers { "Bungie" }
+	array string publishers { "Microsoft Game Studios" }
+	string type game
+
+	string releaseStatus released
+	array int16 releaseDate { 2010 9 14 }
+
+	string source "Games/Halo Reach"
+}
