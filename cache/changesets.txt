@@ -736,3 +736,8 @@ Added 3 <a href="temp.html#others">others</a>, under <a href="temp.html">2026 St
 changeset 1789399601 2
 Added 1 publications, under <a href="the_movies_2005.html">The Movies</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pc.gamespy.com/pc/the-movies/532487p1.html">The Beginnings of The Movies</a> (via pc.gamespy.com)
+changeset 1791315891 4
+Added game, <a href="halo_reach.html">Halo: Reach</a>
+Added 3 <a href="resident_evil_4_2005.html#videos">videos</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
+Added game, <a href="armed_fantasia.html">Armed Fantasia</a>
+Added game, <a href="sly_cooper.html">Sly Cooper and the Thievius Raccoonus</a>
