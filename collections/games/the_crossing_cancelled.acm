@@ -44,4 +44,6 @@ object collection
 	        array int16 date { 2018 1 30 }
 	    }
 	}
+
+	string banner "the_crossing_cancelled/images/artwork/locations/art01.jpg"
 }
