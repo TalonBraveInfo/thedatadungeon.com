@@ -97,7 +97,7 @@ table.directory td:nth-of-type(2), table.directory th:nth-of-type(2) {
 }
 
 th {
-    font-size: 1.2em;
+    font-size: 1.0em;
     font-weight: bold;
     padding-left: 0.45em;
     background: var(--colour-x);
@@ -649,7 +649,18 @@ hr {
 }
 
 .dd-collections {
-    display:flex;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+@media screen and (width >= 1600px) {
+    .dd-collections {
+        display:flex;
+    }
+
+    .dd-collections-section {
+        flex:1;
+    }
 }
 
 .dd-collections-section {
@@ -659,7 +670,6 @@ hr {
     background:rgba(0, 0, 0, 0.45);
     padding: 0 1.0em 1.0em 1.0em;
     margin: 0.5em;
-    flex:1;
 }
 
 .dd-collections-section td:nth-of-type(1) {

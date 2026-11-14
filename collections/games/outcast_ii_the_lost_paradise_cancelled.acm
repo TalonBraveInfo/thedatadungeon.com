@@ -14,4 +14,6 @@ object collection
 	        string title "Unseen64"
 	    }
 	}
+
+	string banner "outcast_ii_the_lost_paradise_cancelled/images/francksauer.com/artwork/ganzaar_falcon_attack.jpg"
 }
