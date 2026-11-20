@@ -1,0 +1,17 @@
+node.utf8
+object collection
+{
+	string name "Amon Ra"
+	array string developers { "Yann Robert" "Franck Sauer" }
+	array string publishers { "Wide Screen Games" } ; commissioned by, anyway
+	string type game
+	string source "Games/Amon Ra (Cancelled)"
+	string releaseStatus cancelled
+	array object links
+	{
+	    {
+	        string url "https://francksauer.com/index.php/games/unpublished-prototypes?view=article&id=50:amonra&catid=16:unpublished-prototypes"
+	        string title "Franck Sauer's Amon Ra Page"
+	    }
+	}
+}
