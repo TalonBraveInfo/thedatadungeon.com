@@ -14,4 +14,41 @@ object config
         https://tcrf.net            web/icons/tcrf.png
         https://www.unseen64.net    web/icons/unseen64.png
     }
+
+    object footer
+    {
+        array object links
+        {
+            ; rss feed
+            {
+                string url  "feed.xml"
+                string alt  "RSS Feed"
+                string icon "web/icons/rss-solid.svg"
+            }
+            ; discord
+            {
+                string url  "https://discord.gg/bJKBRNagfA"
+                string alt  "Discord"
+                string icon "web/icons/discord-black.svg"
+            }
+            ; email
+            {
+                string url  "mailto:markelswo@gmail.com"
+                string alt  "Email"
+                string icon "web/icons/envelope-solid.svg"
+            }
+            ; repo
+            {
+                string url  "https://github.com/TalonBraveInfo/thedatadungeon.com"
+                string alt  "Repository"
+                string icon "web/icons/github-brands-solid.svg"
+            }
+            ; changelog
+            {
+                string url  "changes.html"
+                string alt  "Changelog"
+                string icon "web/icons/scroll-solid.svg"
+            }
+        }
+    }
 }
