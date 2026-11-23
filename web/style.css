@@ -74,6 +74,15 @@ tbody tr:nth-child(even) {background: var(--deep-darker);}
 
 tbody tr, td {
     text-align: left;
+    padding-left: 0.5em;
+}
+
+tbody tr {
+    background:linear-gradient(to left, rgba(0, 0, 0, 0), var(--colour-x3), rgba(0, 0, 0, 0));
+}
+
+.dd-heading-metadata tr {
+    background:none;
 }
 
 td:nth-of-type(1), th:nth-of-type(1) {
@@ -97,19 +106,13 @@ table.directory td:nth-of-type(2), table.directory th:nth-of-type(2) {
     overflow: hidden;
 }
 
-.dd-table-banner {
-    padding: 4px;
-    height:48px;
-    vertical-align: top;
-    border-bottom: var(--border-size) dotted var(--colour-x);
-}
-
-.dd-table-banner:nth-of-type(1) {
+.dd-table-banner td:nth-of-type(1) {
     word-break: break-all;
-    background: no-repeat url("https://archive.thedatadungeon.com/unreal_ii_the_awakening_2003/images/screenshots/e3_2002/shot_hires_1.jpg") center center;
+    background: no-repeat url("backgrounds/fallback.gif") center center;
     background-size:auto;
     mask-image: linear-gradient(to right, black 10%, transparent);
     border-radius:8px;
+    padding:0.5em;
 }
 
 th {
@@ -465,7 +468,7 @@ hr {
     box-shadow: 0 0 8px var(--colour-x);
 }
 
-.dd-simple hr {
+.dd-simple {
     border-radius:0;
 }
 
@@ -682,10 +685,6 @@ hr {
     background:rgba(0, 0, 0, 0.45);
     padding: 0 1.0em 1.0em 1.0em;
     margin: 0.5em;
-}
-
-.dd-collections-section tr {
-    background:linear-gradient(90deg, rgba(0, 0, 0, 0), var(--colour-x3), rgba(0, 0, 0, 0));
 }
 
 .dd-collection-table-title {
