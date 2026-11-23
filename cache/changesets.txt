@@ -741,3 +741,13 @@ Added game, <a href="halo_reach.html">Halo: Reach</a>
 Added 3 <a href="resident_evil_4_2005.html#videos">videos</a>, under <a href="resident_evil_4_2005.html">Resident Evil 4</a>
 Added game, <a href="armed_fantasia.html">Armed Fantasia</a>
 Added game, <a href="sly_cooper.html">Sly Cooper and the Thievius Raccoonus</a>
+changeset 1795459568 9
+Added 18 <a href="epic_mickey_2_the_power_of_two.html#artworks">artworks</a>, under <a href="epic_mickey_2_the_power_of_two.html">Epic Mickey 2: The Power of Two</a>
+Added 6 <a href="duke_nukem_forever_2011.html#videos">videos</a>, under <a href="duke_nukem_forever_2011.html">Duke Nukem Forever</a>
+Added 1 <a href="half-life_2_episode_3_cancelled.html#distributions">distributions</a>, under <a href="half-life_2_episode_3_cancelled.html">Half-Life 2: Episode Three</a>
+Added 41 <a href="outcast_ii_the_lost_paradise_cancelled.html#artworks">artworks</a>, under <a href="outcast_ii_the_lost_paradise_cancelled.html">Outcast II: The Lost Paradise</a>
+Added 49 <a href="outcast_ii_the_lost_paradise_cancelled.html#screenshots">screenshots</a>, under <a href="outcast_ii_the_lost_paradise_cancelled.html">Outcast II: The Lost Paradise</a>
+Added 2 <a href="outcast_ii_the_lost_paradise_cancelled.html#videos">videos</a>, under <a href="outcast_ii_the_lost_paradise_cancelled.html">Outcast II: The Lost Paradise</a>
+Added 28 <a href="outcast_ii_the_lost_paradise_cancelled.html#others">others</a>, under <a href="outcast_ii_the_lost_paradise_cancelled.html">Outcast II: The Lost Paradise</a>
+Added 4 <a href="portal_2_2012.html#distributions">distributions</a>, under <a href="portal_2_2012.html">Portal 2</a>
+Added game, <a href="amon_ra.html">Amon Ra</a>
