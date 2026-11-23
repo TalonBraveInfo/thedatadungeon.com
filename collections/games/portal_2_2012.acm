@@ -12,4 +12,6 @@ object collection
 		4
 		18
 	}
+
+	string banner "portal_2_2012/images/pressdemo_5f00_sphere0058.jpg"
 }

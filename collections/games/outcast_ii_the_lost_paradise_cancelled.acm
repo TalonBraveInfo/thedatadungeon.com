@@ -4,6 +4,9 @@ object collection
 	string name "Outcast II: The Lost Paradise"
 	array string developers { "Appeal Studios" }
 	array string publishers { "Infogrames" }
+
+	string description "The cancelled follow-up to Outcast. Arguably eventually saw the light of day as Outcast: A New Beginning, which incorporates a number of concepts from this iteration."
+
 	string type game 
 	string source "Games/Outcast II The Lost Paradise (Cancelled)" 
 	string releaseStatus cancelled
@@ -15,5 +18,5 @@ object collection
 	    }
 	}
 
-	string banner "outcast_ii_the_lost_paradise_cancelled/images/francksauer.com/artwork/ganzaar_falcon_attack.jpg"
+	string banner "outcast_ii_the_lost_paradise_cancelled/images/artwork/ganzaar_falcon_attack.jpg"
 }
