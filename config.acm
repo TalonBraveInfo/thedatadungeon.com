@@ -31,12 +31,6 @@ object config
                 string alt  "Discord"
                 string icon "web/icons/discord-black.svg"
             }
-            ; email
-            {
-                string url  "mailto:markelswo@gmail.com"
-                string alt  "Email"
-                string icon "web/icons/envelope-solid.svg"
-            }
             ; repo
             {
                 string url  "https://github.com/TalonBraveInfo/thedatadungeon.com"
