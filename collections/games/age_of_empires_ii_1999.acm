@@ -20,4 +20,7 @@ object collection
 		9
 		27
 	}
+
+	string icon     "https://shared.fastly.steamstatic.com/community_assets/images/apps/221380/ab157f4ccec5803629762c1a42be8fd7372fb31a.ico"
+	string banner   "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/221380/library_hero.jpg"
 }

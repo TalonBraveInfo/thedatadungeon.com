@@ -11,5 +11,7 @@ object collection
 	string type game
 	string source "Games/Dead Space (2008)"
 
-	;string banner "dead_phoenix_cancelled/images/artwork/logo/deadphoenix-largelogo-1640108367073.jpg"
+    string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/17470/8a6407594cd2a1bf45653137730aef6f4f184107.ico"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/17470/45e682594687a6c92037631225340d26c783362f.jpg"
+	string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17470/library_hero.jpg"
 }

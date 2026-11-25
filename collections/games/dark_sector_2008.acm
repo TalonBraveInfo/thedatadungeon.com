@@ -48,5 +48,6 @@ object collection
         }
     }
 
-	string banner "dark_sector_2008/images/artwork/early_2000s_iteration/rbot1.jpg"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/29900/27aa2fe24e8c06162e249267a7bf99b6145126e4.ico"
+	string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/29900/7bf8f6c38a7d94047e9127d5b4a42ff8f9d20618/library_hero.jpg"
 }

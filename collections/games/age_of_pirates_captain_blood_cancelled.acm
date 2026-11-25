@@ -15,4 +15,8 @@ object collection
 
     ; wow, took long enough! :)
 	array int16 releaseDate { 2025 5 6 }
+
+	string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/3040220/d1e05fd346d00273de568d392a1a2e634feea12e.ico"
+	string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/3040220/8f55398bc103960b61beebdb95533fa96f7020ee.jpg"
+	string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3040220/library_hero.jpg"
 }

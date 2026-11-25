@@ -10,4 +10,8 @@ object collection
     array string publishers { "Pearl Abyss" } ; wikipedia
 
     string source "Games/Black Desert Online (2015)"
+
+    string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/582660/d5f6888a790262ebca639f6eb8fedcfc9f24f268.ico"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/582660/bf5ccace0a692720984827bf042143d0d4b28a42.jpg"
+    string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582660/19e73cbb1d437b5cd0a6973b7119fb6ee6145f4b/library_hero.jpg"
 }

@@ -97,5 +97,6 @@ object collection
 		}
 	}
 
-	string banner "prey_2_cancelled/images/artwork/chris_miscik/slum_bar_street_by_chrislazzer_d84t6jl.jpg"
+    string icon     "https://shared.fastly.steamstatic.com/community_assets/images/apps/72790/7f9b0f95fce8bd36a07d0efdb702be6e707cb7cb.jpg"
+	string banner   "prey_2_cancelled/images/artwork/chris_miscik/slum_bar_street_by_chrislazzer_d84t6jl.jpg"
 }

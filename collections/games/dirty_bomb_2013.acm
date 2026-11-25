@@ -8,4 +8,8 @@ object collection
     array string developers { "Splash Damage" }
 
     array int16 releaseDate { 2013 10 1 }
+
+    string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/333930/2acf265969dc0cb63cdfe849b1a3e8da0af3b705.ico"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/333930/48a3c464019fc161c2ea17334ca8d545a846a98e.jpg"
+    string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/333930/library_hero.jpg"
 }

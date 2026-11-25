@@ -8,5 +8,7 @@ object collection
     string type "game"
     array int16 releaseDate { 2011 8 23 }
 
-    string banner "deus_ex_human_revolution_2011/images/dxhr_screenshot_lowerhengsha2.jpg"
+    string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/28050/528f8a65817e2d8b0a3f19006f6b055218acb056.ico"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/28050/6c7ccd62c124ae63820e06ed9b24d4559c5b0b1f.jpg"
+    string banner       "deus_ex_human_revolution_2011/images/dxhr_screenshot_lowerhengsha2.jpg"
 }

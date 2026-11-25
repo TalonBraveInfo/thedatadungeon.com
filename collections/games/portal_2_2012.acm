@@ -13,5 +13,7 @@ object collection
 		18
 	}
 
-	string banner "portal_2_2012/images/pressdemo_5f00_sphere0058.jpg"
+    string icon         "https://shared.fastly.steamstatic.com/community_assets/images/apps/620/25a5a16b2423bf7487ac5340b5b0948cef48c5f8.ico"
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/620/25a5a16b2423bf7487ac5340b5b0948cef48c5f8.jpg"
+	string banner       "portal_2_2012/images/pressdemo_5f00_sphere0058.jpg"
 }

@@ -7,8 +7,8 @@ object collection
 	string type game 
 	string source "Games/Deus Ex (2000)"
 
-    string icon         "web/icons/collections/deus_ex.ico"
     string iconSmall    "web/icons/collections/deus_ex_small.ico"
+    string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6910/78b1fb09514ae5f13db5ace5155796c8d60bb2e3/library_hero.jpg"
 
 	array object links {
 				{
