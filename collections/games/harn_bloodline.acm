@@ -1,0 +1,25 @@
+node.utf8
+object collection
+{
+    string name             "Harn: Bloodline"
+    string type             "game"
+    string source           "Games/Harn Bloodline (Cancelled)"
+	string releaseStatus    cancelled
+
+    array string developers { "Auran" }
+    array string publishers { "Electronic Arts" }
+
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/19991013005024/http://pc.ign.com/previews/13035.html"
+            string title        "Harn: Bloodline"
+            array int16 date    { 1999 9 22 }
+        }
+        {
+            string url          "https://www.ign.com/articles/1999/12/14/follow-the-yellow-brick-road-to-queensland"
+            string title        "Follow the Yellow Brick Road ... to Queensland"
+            array int16 date    { 1999 12 14 }
+        }
+    }
+}

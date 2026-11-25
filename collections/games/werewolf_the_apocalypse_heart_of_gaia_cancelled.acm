@@ -2,7 +2,7 @@ node.utf8
 object collection
 {
 	string name "Werewolf The Apocalypse Heart Of Gaia"
-	array string developers { "DreamForge Intertainment" }
+	array string developers { "DreamForge Entertainment" }
 	array string publishers { "ASC Games" }
 	string type game 
 	string source "Games/Werewolf The Apocalypse Heart Of Gaia (Cancelled)" 
@@ -14,6 +14,11 @@ object collection
             string url          "https://web.archive.org/web/20010413124705/http://pc.ign.com/news/5122.html"
             string title        "Werewolf: The Apocalypse"
             array int16 date    { 1998 10 5 }
+        }
+        {
+            string url          "https://web.archive.org/web/19991013131807/http://pc.ign.com/previews/12068.html"
+            string title        "Werewolf: The Apocalypse Preview"
+            array int16 date    { 1999 9 28 }
         }
     }
 

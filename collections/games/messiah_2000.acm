@@ -20,6 +20,11 @@ object collection
 	        string title        "E3 PREVIEW: Messiah"
 	        array int16 date    { 1998 5 31 }
 	    }
+	    {
+	        string url          "https://web.archive.org/web/20000115213046/http://pc.ign.com/previews/3117.html"
+	        string title        "Messiah Preview"
+	        array int16 date    { 1999 9 8 }
+	    }
 	}
 
 	string icon         "web/icons/collections/messiah_small.ico"

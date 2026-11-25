@@ -19,5 +19,14 @@ object collection
 		31
 	}
 
+	array object publications
+	{
+	    {
+	        string url          "https://web.archive.org/web/19991013103523/http://pc.ign.com/previews/9368.html"
+	        string title        "Tonic Trouble Preview"
+	        array int16 date    { 1999 9 20 }
+	    }
+	}
+
 	string banner "tonic_trouble_1999/images/artwork/plain.jpg"
 }
