@@ -1,0 +1,28 @@
+node.utf8
+object collection
+{
+    string name     "Anarchy Online"
+    string type     game
+    string source   "Games/Anarchy Online (2001)"
+
+    array string developers { "Funcom" }
+    array string publishers { "Funcom" }
+    array int16 releaseDate { 2001 6 27 }
+
+    array object publications
+    {
+        {
+            string url          "https://web.archive.org/web/19991012083723/http://pc.ign.com/previews/11500.html"
+            string title        "Anarchy Online Preview"
+            array int16 date    { 1999 9 10 }
+        }
+        {
+            string url          "https://www.gamespot.com/articles/anarchy-online-preview/1100-2699639/"
+            string title        "Anarchy Online Preview"
+            array int16 date    { 2001 3 23 }
+        }
+    }
+
+    string iconSmall    "https://shared.fastly.steamstatic.com/community_assets/images/apps/396280/c885503fb2a7706db4fe9fb226b647bd8464d34b.ico"
+    string banner       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396280/library_hero.jpg"
+}
