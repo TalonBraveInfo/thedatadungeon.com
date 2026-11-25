@@ -751,3 +751,9 @@ Added 2 <a href="outcast_ii_the_lost_paradise_cancelled.html#videos">videos</a>,
 Added 28 <a href="outcast_ii_the_lost_paradise_cancelled.html#others">others</a>, under <a href="outcast_ii_the_lost_paradise_cancelled.html">Outcast II: The Lost Paradise</a>
 Added 4 <a href="portal_2_2012.html#distributions">distributions</a>, under <a href="portal_2_2012.html">Portal 2</a>
 Added game, <a href="amon_ra.html">Amon Ra</a>
+changeset 1795612617 5
+Added game, <a href="anarchy_online.html">Anarchy Online</a>
+Added 1 <a href="deus_ex_2000.html#others">others</a>, under <a href="deus_ex_2000.html">Deus Ex</a>
+Added 1 <a href="bioshock_2007.html#others">others</a>, under <a href="bioshock_2007.html">BioShock</a>
+Added 15 <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html#screenshots">screenshots</a>, under <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html">Werewolf The Apocalypse Heart Of Gaia</a>
+Added 1 <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html#others">others</a>, under <a href="werewolf_the_apocalypse_heart_of_gaia_cancelled.html">Werewolf The Apocalypse Heart Of Gaia</a>
