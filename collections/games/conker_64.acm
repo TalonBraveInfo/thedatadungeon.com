@@ -1,0 +1,10 @@
+node.utf8
+object collection
+{
+    string name             "Conker 64"
+    string type             game
+    string source           "Games/Conker 64 (Cancelled)"
+	string releaseStatus    cancelled
+
+    array string developers { Rare }
+}

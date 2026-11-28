@@ -1,0 +1,11 @@
+node.utf8
+object collection
+{
+    string name             "Physint"
+    string type             game
+    string source           "Games/Physint (Pending)"
+	string releaseStatus    pending
+
+    array string developers { "Kojima Productions" }
+    array string publishers { "Xbox Game Studios" }
+}
